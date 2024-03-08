@@ -4,10 +4,10 @@ tags: post
 ptitle: "Rem ❤️"
 title: "Rem ❤️"
 imgs:
-    - rem1.png
-    - rem2.png
-    - rem3.png
-    - rem4.png
+    - ../_assets/rem1.png
+    - ../_assets/rem2.png
+    - ../_assets/rem3.png
+    - ../_assets/rem4.png
 ---
 2/2/2023
 # Here is my collection of good rem pfps
