@@ -6,7 +6,7 @@ title: "MathJax"
 ---
 23/8/2023
 # MathJax on my website!!!
-![Soyjack Latex "meme"](assets/soyjax.png)
+![Soyjack Latex "meme"](../_assets/soyjax.png)
 
 <h1>
 $$
