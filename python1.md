@@ -46,4 +46,4 @@ would give x and y different values. Will `x` be a pointer to the `random.random
 
 But nothing I can do so I have to live with these annoyances.
 
-(I'll add more examples when I can rememeber them)
+(I'll add more examples when they occur to me)

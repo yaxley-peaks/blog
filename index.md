@@ -9,7 +9,8 @@ ptitle: Main Page
 # Hello!
 ### You finally made it here.
 
-Here is where I post things I feel like posting about. Maybe you will find these interesting too. This is also where I post when `head full, many thoughts`.
+Here is where I post things I feel like posting about. Maybe you will find these
+interesting too. I post whenever I feel like posting.
 
 ### Some other stuff I have no place to put:
 - [Most used](https://yaxley.in/most-used)

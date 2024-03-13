@@ -43,5 +43,5 @@ This is how it is done in racket btw:
         (port->string response)))
 (make-get-request "https://hit-me.yaxley.in/")
 ```
-This is amazing. This is elegant. This is how **ALL** languages should do it (imo).
+This is how **ALL** languages should do it (imo).
 
