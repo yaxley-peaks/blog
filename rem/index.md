@@ -15,6 +15,8 @@ imgs:
     - ../_assets/rem9.png
 ---
 2/2/2023
+Update on: 8/5/2024
+
 # Here is my collection of good rem pfps
 Page not optimised for loading speeds. Sorry :(
 {% for img in imgs %}
