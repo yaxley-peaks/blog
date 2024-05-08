@@ -19,83 +19,94 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
 
+     @media (prefers-color-scheme: light) {
+       :root {
+         --bg-clr: #fbf1c7;
+         --fg-clr: #3c3836;
+         --pre-bg-clr: #d5c4a1;
+         --header-fg-clr: #7c6f64;
+         --toc-fg-clr: #928374;
+         --sel-fg-clr: #ebdbb2;
+       }
+     }
+     @media (prefers-color-scheme: dark) {
+       :root {
+         --bg-clr: #282828;
+         --fg-clr: #ebdbb2;
+         --pre-bg-clr: #504945;
+         --header-fg-clr: #a89984;
+         --toc-fg-clr: #928374;
+         --sel-fg-clr: #3c3836;
+       }
+     }
+     html,
+     body {
+       height: 100%;
+       margin: 0;
+     }
 
-      html,
-      body {
-        height: 100%;
-        margin: 0;
-      }
+     body {
+       /* Gruvbox themes.
+          https://github.com/morhetz/gruvbox
+        */
+       background-color: var(--bg-clr);
+       color: var(--fg-clr);
 
-      body {
-        /* Gruvbox themes.
-    https://github.com/morhetz/gruvbox
-     */
-        background-color: #fbf1c7;
-        color: #3c3836;
+       font-family: "Atkinson Hyperlegible", sans-serif;
+       font-size: 1.1rem;
+     }
 
-        font-family: 'Atkinson Hyperlegible', sans-serif;
-        font-size: 1.1rem;
+     #main-content {
+       /* margin-left: 25vw;
+          margin-right: 25vw; */
+       grid-column: 25 / 75;
+       grid-row: 1 / 1;
+     }
 
-      }
+     pre {
+       font-family: "Fira Code", monospace;
+       border: 1px var(--fg-clr) solid;
+       border-radius: 1em;
+       padding: 1.3em;
+       padding-left: 1.5em;
+       padding-right: 1.5em;
+       background-color: var(--pre-bg-clr);
+       display: inline-block;
+     }
 
-      #main-content {
-        font-size: 1.5em;
-        text-align: justify;
-        margin-left: 10vw;
-        max-width: 53vw;
-      }
+     #header {
+       color: var(--header-fg-clr);
+       width: 100%;
+       text-align: center;
+       margin-top: 0.5em;
+       font-size: 3em;
+       font-family: "Cherry Swash", cursive;
+       font-weight: bold;
+     }
 
-      h1 {
-        /* default size */
-        font-size: 2em !important;
-      }
+     ::selection {
+       background: var(--fg-clr);
+       color: var(--sel-fg-clr);
+     }
 
-      pre {
-        width: max-content;
-        font-family: 'Fira Code', monospace;
-        border: 1px #3c3836 solid;
-        border-radius: 1em;
-        padding: 1.3em 1.5em;
-        background-color: #d5c4a1;
-        display: block;
-      }
+     #toc {
+       display: inline;
+       text-align: justify;
+       margin-top: 15vh;
+       color: var(--toc-fg-clr);
+       grid-column: 75 / 95;
+       grid-row: 1 / 1;
+     }
 
-      #header {
-        color: #7c6f64;
-        width: 100%;
-        text-align: center;
-        margin-top: 0.5em;
-        font-size: 3em;
-        font-family: 'Cherry Swash', cursive;
-        font-weight: bold;
-      }
+     a {
+       color: var(--fg-clr);
+     }
 
-      ::selection {
-        background: #3c3836;
-        color: #ebdbb2;
-      }
+     #grid-wrapper {
+       display: grid;
+       grid-template-columns: repeat(100, 1fr);
+     }
 
-      #toc {
-        min-width: 15vw;
-        display: inline;
-        text-align: justify;
-        margin-top: 15vh;
-        color: #928374;
-      }
-
-      a {
-        color: #3c3836;
-      }
-
-      #grid-wrapper {
-        display: flex;
-        flex-direction: row-reverse;
-        justify-content: space-evenly;
-      }
-
-      img {
-        max-width: 100%;
-      }
     </style>
     <title>{{ ptitle }}</title>
   </head>

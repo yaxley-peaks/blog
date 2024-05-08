@@ -1,7 +1,23 @@
-h1 {
-    /* color: blue; */
+@media (prefers-color-scheme: light) {
+    :root {
+        --bg-clr: #fbf1c7;
+        --fg-clr: #3c3836;
+        --pre-bg-clr: #d5c4a1;
+        --header-fg-clr: #7c6f64;
+        --toc-fg-clr: #928374;
+        --sel-fg-clr: #ebdbb2;
+    }
 }
-
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg-clr: #282828;
+        --fg-clr: #ebdbb2;
+        --pre-bg-clr: #504945;
+        --header-fg-clr: #a89984;
+        --toc-fg-clr: #928374;
+        --sel-fg-clr: #3c3836;
+    }
+}
 html,
 body {
     height: 100%;
@@ -11,13 +27,12 @@ body {
 body {
     /* Gruvbox themes.
     https://github.com/morhetz/gruvbox
-     */
-    background-color: #fbf1c7;
-    color: #3c3836;
+   */
+    background-color: var(--bg-clr);
+    color: var(--fg-clr);
 
-    font-family: 'Atkinson Hyperlegible', sans-serif;
+    font-family: "Atkinson Hyperlegible", sans-serif;
     font-size: 1.1rem;
-
 }
 
 #main-content {
@@ -28,42 +43,42 @@ body {
 }
 
 pre {
-    font-family: 'Fira Code', monospace;
-    border: 1px #3c3836 solid;
+    font-family: "Fira Code", monospace;
+    border: 1px var(--fg-clr) solid;
     border-radius: 1em;
     padding: 1.3em;
     padding-left: 1.5em;
     padding-right: 1.5em;
-    background-color: #d5c4a1;
+    background-color: var(--pre-bg-clr);
     display: inline-block;
 }
 
 #header {
-    color: #7c6f64;
+    color: var(--header-fg-clr);
     width: 100%;
     text-align: center;
     margin-top: 0.5em;
     font-size: 3em;
-    font-family: 'Cherry Swash', cursive;
+    font-family: "Cherry Swash", cursive;
     font-weight: bold;
 }
 
 ::selection {
-    background: #3c3836;
-    color: #ebdbb2;
+    background: var(--fg-clr);
+    color: vr(--sel-fg-clr);
 }
 
 #toc {
     display: inline;
     text-align: justify;
     margin-top: 15vh;
-    color: #928374;
+    color: var(--toc-fg-clr);
     grid-column: 75 / 95;
     grid-row: 1 / 1;
 }
 
 a {
-    color: #3c3836;
+    color: var(--fg-clr);
 }
 
 #grid-wrapper {
