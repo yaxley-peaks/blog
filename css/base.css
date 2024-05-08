@@ -1,3 +1,6 @@
+:root {
+    color-scheme: light dark;
+}
 @media (prefers-color-scheme: light) {
     :root {
         --bg-clr: #fbf1c7;
