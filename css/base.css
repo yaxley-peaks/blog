@@ -88,3 +88,8 @@ a {
     display: grid;
     grid-template-columns: repeat(100, 1fr);
 }
+
+img {
+    max-height: 100%;
+    max-width: 100%;
+}
