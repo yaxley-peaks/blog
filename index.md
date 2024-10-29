@@ -15,6 +15,8 @@ interesting too. I post whenever I feel like posting.
 ### Some other stuff I have no place to put:
 - [Most used](https://yaxley.in/most-used)
 - [Deindentor](https://yaxley.in/deindentor/)
+- [emacs /vt/ reader](https://github.com/yaxley-peaks/vt)
+- [~~"Polish" notation solver~~](https://github.com/yaxley-peaks/pono)
 
 ### About me:
 - Github:
