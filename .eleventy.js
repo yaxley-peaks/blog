@@ -1,6 +1,7 @@
 const mathjaxPlugin = require("eleventy-plugin-mathjax");
 
 module.exports = function (eleventyConfig) {
+  eleventyConfig.setInputDirectory("src");
   // Return your Object options:
   eleventyConfig.addPassthroughCopy("*.jpg");
   eleventyConfig.addPassthroughCopy("*.png");
