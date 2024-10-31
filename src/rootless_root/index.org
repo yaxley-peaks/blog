@@ -23,9 +23,6 @@ place.
 [[../_assets/rootlessroot.png]]
 
 ** Editor's Introduction
-:PROPERTIES:
-:CUSTOM_ID: editors-introduction
-:END:
 The discovery of the collection of koans known as the Rootless Root,
 apparently preserved for decades in the dry upper air of the Western
 Mountains, has ignited great controversy in scholarly circles. Are these
@@ -40,6 +37,11 @@ much of an alleged similarity to that venerable classic,
 is quite different in tone and style from the loose, poetic anecdotes of
 the James translation, focused as it is on the remarkable and enigmatic
 figure of Master Foo.
+
+A newer work, [[#the-unix-power-clasic][the Unix Power Classic]], translates the Tao Te Ching into an
+idiom similar to that of Rootless Root. Unix Power Classic may well have been
+influenced by Rootless Root, or further research may disclose that they had
+common sources.
 
 It would be more apposite to seek parallels in the [[#ai-koans][AI Koans]];
 indeed, there are textual clues that the author of the Rootless Root may
@@ -86,9 +88,6 @@ interpretation. Future versions may include more stories as these
 difficulties are overcome.
 
 ** Master Foo and the Ten Thousand Lines
-:PROPERTIES:
-:CUSTOM_ID: Master Foo and the Ten Thousand Lines
-:END:
 Master Foo once said to a visiting programmer: “There is more Unix-nature in one
 line of shell script than there is in ten thousand lines of C”.
 
@@ -127,9 +126,6 @@ gains merit by not coding?”
 Upon hearing this, the programmer was enlightened.
 
 ** Master Foo and the Script Kiddie
-:PROPERTIES:
-:CUSTOM_ID: Master-Foo-and-the-Script-Kiddie
-:END:
 A stranger from the land of Woot came to Master Foo as he was eating the morning
 meal with his students.
 
@@ -170,9 +166,6 @@ Master Foo smiled. “Here”, he said, “is the beginning of wisdom”.
 
 On hearing this, the stranger was enlightened.
 ** Master Foo Discourses on the Two Paths
-:PROPERTIES:
-:CUSTOM_ID: Master-Foo-Discourses-on-the-Two-Paths
-:END:
 Master Foo instructed his students:
 
 “There is a line of dharma teaching, exemplified by the Patriarch McIlroy's
@@ -220,9 +213,6 @@ pounds of VAX!”
 
 On hearing this, Nubi was enlightened.
 ** Master Foo and the Methodologist
-:PROPERTIES:
-:CUSTOM_ID: Master-Foo-and-the-Methodologist
-:END:
 When Master Foo and his student Nubi journeyed among the sacred sites, it was
 the Master's custom in the evenings to offer public instruction to Unix
 neophytes of the towns and villages in which they stopped for the night.
@@ -247,9 +237,6 @@ he looking in the boat?”
 
 Upon hearing this, the methodologist was enlightened.
 ** Master Foo Discourses on the Graphical User Interface
-:PROPERTIES:
-:CUSTOM_ID: Master-Foo-Discourses-on-the-Graphical-User-Interface
-:END:
 One evening, Master Foo and Nubi attended a gathering of programmers who had met
 to learn from each other. One of the programmers asked Nubi to what school he
 and his master belonged. Upon being told they were followers of the Great Way of
@@ -281,10 +268,6 @@ wandered over and piddled on him.
 
 At that moment, the programmer achieved enlightenment.
 ** Master Foo and the Old Hand
-:PROPERTIES:
-:CUSTOM_ID: Master-Foo-and-the-Old-Hand
-:END:
-
 An experienced Unix programmer, hearing of Master Foo's wisdom, came to him for
 guidance. Approaching the Master, he bowed three times and said:
 
@@ -303,9 +286,6 @@ who dreams of a raft, or the one that hitchhikes to the next bridge?”
 
 Upon hearing this, the programmer was enlightened.
 ** Master Foo and the Shell Tools
-:PROPERTIES:
-:CUSTOM_ID: Master-Foo-and-the-Shell-Tools
-:END:
 A Unix novice came to Master Foo and said: “I am confused. Is it not the Unix
 way that every program should concentrate on one thing and do it well?”
 
@@ -333,9 +313,6 @@ drink; when you are tired, sleep.”
 
 Upon hearing this, the novice was enlightened.
 ** Master Foo and the Nervous Novice
-:PROPERTIES:
-:CUSTOM_ID: Master-Foo-and-the-Nervous-Novice
-:END:
 There was a novice who learned much at the Master's feet, but felt something to
 be missing. After meditating on his doubts for some time, he found the courage
 to approach Master Foo about his problem.
@@ -358,9 +335,6 @@ Master Foo replied simply: “Tying your shoes.”
 
 Upon hearing this, the novice was enlightened.
 ** Master Foo and the Recruiter
-:PROPERTIES:
-:CUSTOM_ID: Master-Foo-and-the-Recruiter
-:END:
 A technical recruiter, having discovered that that the ways of Unix hackers were
 strange to him, sought an audience with Master Foo to learn more about the Way.
 Master Foo met the recruiter in the HR offices of a large firm.
@@ -381,9 +355,6 @@ stumbling over your own feet. Obviously you already know how to walk.”
 
 Upon hearing this, the recruiter was enlightened.
 ** Master Foo Discourses on Returning to Windows
-:PROPERTIES:
-:CUSTOM_ID: Master-Foo-Discourses-on-Returning-to-Windows
-:END:
 A student said: “We have learned that Unix is not just an operating system, but
 also a style of approaching problems.”
 
@@ -417,9 +388,6 @@ to the old branches.”
 
 Upon hearing this, all present were enlightened.
 ** Master Foo and the Unix Zealot
-:PROPERTIES:
-:CUSTOM_ID: Master-Foo-and-the-Unix-Zealot
-:END:
 A Unix zealot, having heard that Master Foo was wise in the Great Way, came to
 him for instruction. Master Foo said to him:
 
@@ -448,9 +416,6 @@ fools”.
 
 Upon hearing this, the zealot was enlightened.
 ** Master Foo Discourses on the Unix-Nature
-:PROPERTIES:
-:CUSTOM_ID: Master-Foo-Discourses-on-the-Unix-Nature
-:END:
 A student said to Master Foo: “We are told that the firm called SCO holds true
 dominion over Unix”.
 
@@ -485,9 +450,6 @@ perfectly void, hail!”
 
 Upon hearing this, the student was enlightened.
 ** Master Foo and the MCSE
-:PROPERTIES:
-:CUSTOM_ID: Master-Foo-and-the-MCSE
-:END:
 Once, a famous Windows system administrator came to Master Foo and asked him for
 instruction: “I have heard that you are a powerful Unix wizard. Let us trade
 secrets, that we may both gain thereby.”
@@ -512,9 +474,6 @@ seeking light, hugs a candle so closely that he smothers it and burns his hand.�
 
 Upon hearing this, the administrator was enlightened.
 ** Master Foo and the End User
-:PROPERTIES:
-:CUSTOM_ID: Master-Foo-and-the-End-User
-:END:
 On another occasion when Master Foo gave public instruction, an end user, having
 heard tales of the Master's wisdom, came to him for guidance.
 
@@ -552,9 +511,6 @@ the master, “but doing so will not make his purr into a roar”.
 
 Upon hearing this, the neophyte was enlightened.
 ** Master Foo and the Programming Prodigy
-:PROPERTIES:
-:CUSTOM_ID: Master-Foo-and-the-Programming-Prodigy
-:END:
 There was a time when rumors began to reach Master Foo and his students of a
 prodigiously gifted programmer, a young man who wandered the length and breadth
 of the land performing mighty feats of coding and humiliating all who dared set
@@ -599,9 +555,6 @@ Master Foo said: “All your future selves.”
 
 Upon hearing this, the Prodigy was enlightened.
 ** Master Foo and the Hardware Designer
-:PROPERTIES:
-:CUSTOM_ID: Master-Foo-and-the-Hardware-Designer
-:END:
 On one occasion, as Master Foo was traveling to a conference with a few of his
 senior disciples, he was accosted by a hardware designer.
 
