@@ -576,6 +576,27 @@ test vectors for them.”
 Master Foo smiled, and bowed to the hardware designer.
 
 In that moment, the hardware designer achieved enlightenment.
+* The Unix Power Classic
+:PROPERTIES:
+:CUSTOM_ID: the-unix-power-clasic
+:END:
+
+* AI Koans
+:PROPERTIES:
+:CUSTOM_ID: ai-koans
+:END:
+
+* LoginTaka
+:PROPERTIES:
+:CUSTOM_ID: logintaka
+:END:
+
+* Tales of Zen Master Greg
+:PROPERTIES:
+:CUSTOM_ID: tales-of-zen-master-greg
+:END:
+
+
 * The Tao of Programming
 :PROPERTIES:
 :CUSTOM_ID: the-tao-of-programming
@@ -1061,23 +1082,3 @@ Software and Hardware, ashamed, returned to their homes.
 #+begin_quote
 "It is time for you to leave."
 #+end_quote
-* The Unix Power Classic
-:PROPERTIES:
-:CUSTOM_ID: the-unix-power-clasic
-:END:
-
-* AI Koans
-:PROPERTIES:
-:CUSTOM_ID: ai-koans
-:END:
-
-* LoginTaka
-:PROPERTIES:
-:CUSTOM_ID: logintaka
-:END:
-
-* Tales of Zen Master Greg
-:PROPERTIES:
-:CUSTOM_ID: tales-of-zen-master-greg
-:END:
-
