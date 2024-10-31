@@ -205,6 +205,179 @@ When the tiger lands upon its prey, does it forget its moment in the air? Three
 pounds of VAX!”
 
 On hearing this, Nubi was enlightened.
+** Master Foo and the Methodologist
+When Master Foo and his student Nubi journeyed among the sacred sites, it was
+the Master's custom in the evenings to offer public instruction to Unix
+neophytes of the towns and villages in which they stopped for the night.
+
+On one such occasion, a methodologist was among those who gathered to listen.
+
+“If you do not repeatedly profile your code for hot spots while tuning, you will
+be like a fisherman who casts his net in an empty lake”, said Master Foo.
+
+“Is it not, then, also true”, said the methodology consultant, “that if you do
+not continually measure your productivity while managing resources, you will be
+like a fisherman who casts his net in an empty lake?”
+
+“I once came upon a fisherman who just at that moment let his net fall in the
+lake on which his boat was floating”, said Master Foo. “He scrabbled around in
+the bottom of his boat for quite a while looking for it”.
+
+“But”, said the methodologist, “if he had dropped his net in the lake, why was
+he looking in the boat?”
+
+“Because he could not swim”, replied Master Foo.
+
+Upon hearing this, the methodologist was enlightened.
+** Master Foo Discourses on the Graphical User Interface
+One evening, Master Foo and Nubi attended a gathering of programmers who had met
+to learn from each other. One of the programmers asked Nubi to what school he
+and his master belonged. Upon being told they were followers of the Great Way of
+Unix, the programmer grew scornful.
+
+“The command-line tools of Unix are crude and backward”, he scoffed. “Modern,
+properly designed operating systems do everything through a graphical user
+interface”.
+
+Master Foo said nothing, but pointed at the moon. A nearby dog began to bark at
+the master's hand.
+
+“I don't understand you!” said the programmer.
+
+Master Foo remained silent, and pointed at an image of the Buddha. Then he
+pointed at a window.
+
+“What are you trying to tell me?” asked the programmer.
+
+Master Foo pointed at the programmer's head. Then he pointed at a rock.
+
+“Why can't you make yourself clear?” demanded the programmer.
+
+Master Foo frowned thoughtfully, tapped the the programmer twice on the nose,
+and dropped him in a nearby trashcan.
+
+As the programmer was attempting to extricate himself from the garbage, the dog
+wandered over and piddled on him.
+
+At that moment, the programmer achieved enlightenment.
+** Master Foo and the Unix Zealot
+A Unix zealot, having heard that Master Foo was wise in the Great Way, came to
+him for instruction. Master Foo said to him:
+
+“When the Patriarch Thompson invented Unix, he did not understand it. Then he
+gained in understanding, and no longer invented it”.
+
+“When the Patriarch McIlroy invented the pipe, he knew that it would transform
+software, but did not know that it would transform mind”.
+
+“When the Patriarch Ritchie invented C, he condemned programmers to a thousand
+hells of buffer overruns, heap corruption, and stale-pointer bugs”.
+
+“Truly, the Patriarchs were blind and foolish!”
+
+The zealot was greatly angered by the Master's words.
+
+“These enlightened ones”, he protested. “gave us the Great Way of Unix. Surely,
+if we mock them we will lose merit and be reborn as beasts or MCSEs”.
+
+“Is your code ever completely without stain and flaw?” demanded Master Foo.
+
+“No”, admitted the zealot, “no man's is”.
+
+“The wisdom of the Patriarchs”, said Master Foo, “was that they knew they were
+fools”.
+
+Upon hearing this, the zealot was enlightened.
+** Master Foo Discourses on the Unix-Nature
+A student said to Master Foo: “We are told that the firm called SCO holds true
+dominion over Unix”.
+
+Master Foo nodded.
+
+The student continued, “Yet we are also told that the firm called OpenGroup also
+holds true dominion over Unix”.
+
+Master Foo nodded.
+
+“How can this be?” asked the student.
+
+Master Foo replied:
+
+“SCO indeed has dominion over the code of Unix, but the code of Unix is not
+Unix. OpenGroup indeed has dominion over the name of Unix, but the name of Unix
+is not Unix”.
+
+“What, then, is the Unix-nature?” asked the student.
+
+Master Foo replied:
+
+“Not code. Not name. Not mind. Not things. Always changing, yet never changing”.
+
+“The Unix-nature is simple and empty. Because it is simple and empty, it is more
+powerful than a typhoon”.
+
+“Moving in accordance with the law of nature, it unfolds inexorably in the minds
+of programmers, assimilating designs to its own nature. All software that would
+compete with it must become like to it; empty, empty, profoundly empty,
+perfectly void, hail!”
+
+Upon hearing this, the student was enlightened.
+** Master Foo and the End User
+On another occasion when Master Foo gave public instruction, an end user, having
+heard tales of the Master's wisdom, came to him for guidance.
+
+He bowed three times to Master Foo. “I wish to learn the Great Way of Unix”, he
+said “but the command line confuses me”.
+
+Some of the onlooking neophytes began to mock the end user, calling him
+“clueless” and saying that the Way of Unix is only for those of discipline and
+intelligence.
+
+The Master held up a hand for silence, and called the most obstreperous of the
+neophytes who had mocked forward, to where he and the end user sat.
+
+“Tell me”, he asked the neophyte, “of the code you have written and the works of
+design you have uttered”.
+
+The neophyte began to stammer out a reply, but fell silent.
+
+Master Foo turned to the end-user. “Tell me”, he inquired, “why do you seek the
+Way?”
+
+“I am discontent with the software I see around me”, the end user replied. “It
+neither performs reliably nor pleases the eye and hand. Having heard that the
+Unix way, though difficult, is superior, I seek to cast aside all snares and
+delusions”.
+
+“And what do you do in the world”, asked Master Foo, “that you must strive with
+software?”
+
+“I am a builder”, the end user replied, “Many of the houses of this town were
+made under my chop”.
+
+Master Foo turned back to the neophyte. “The housecat may mock the tiger”, said
+the master, “but doing so will not make his purr into a roar”.
+
+Upon hearing this, the neophyte was enlightened.
+** Colophon
+*** Editor (Me, Yax)'s Note:
+This section has been included for the sake of completion. This page was written
+in org-mode on emacs running on Fedora 40, then exported to markdown which was
+then converted to HTML by 11ty.
+*** ESR's Note:
+No proprietary software was used during the composition of this book. Drafts
+were typeset from XML-DocBook master files created with GNU Emacs. PostScript
+generation was performed with Tim Waugh's xmlto, Norman Walsh's XSL stylesheets,
+Daniel Veillard's xsltproc, Sebastian Rahtz's PassiveTeX macros, the TeTeX
+distribution of Donald Knuth's TeX typesetter, and Thomas Rokicki's dvips
+postprocessor. All the diagrams were composed by the author using pic2graph
+driving gpic and grap2graph driving Ted Faber's grap implementation (grap2graph
+was written by the author for this project and is now part of the groff
+distribution). The entire toolchain was hosted by stock Red Hat Linux.
+
+The cover art is a composite of two images from the original Zen Comics by
+Ioanna Salajan. It was adapted and colored mainly by Jerry Votta, but the author
+and GIMP had a hand in the work.
 * The Tao of Programming
 :PROPERTIES:
 :CUSTOM_ID: the-tao-of-programming
