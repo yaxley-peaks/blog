@@ -1,0 +1,227 @@
+#+options: toc:nil
+#+title: The Unix Koans of Master Foo
+*** To which are also appended, other supplementary works that appear in the text.
+  :PROPERTIES:
+  :UNNUMBERED: notoc
+:CUSTOM_ID: to-which-are-also-appended-other-supplementary-works-that-appear-in-the-text.
+:END:
+31/10/2024
+
+These are usually found at
+[[https://catb.org/~esr/writings/unix-koans/][catb.org]] maintained by
+[[http://www.catb.org/~esr/][ESR]]. However the website usually has SSL
+issues, and also it references other works which are no longer
+available, so this is an attempt to consolidate all of them in one
+place.
+
+#+TOC: headlines 2
+* Rootless Root
+:PROPERTIES:
+:CUSTOM_ID: rootless-root
+:END:
+#+caption: "無根的根"
+[[../_assets/rootlessroot.png]]
+
+** Editor's Introduction
+:PROPERTIES:
+:CUSTOM_ID: editors-introduction
+:END:
+The discovery of the collection of koans known as the Rootless Root,
+apparently preserved for decades in the dry upper air of the Western
+Mountains, has ignited great controversy in scholarly circles. Are these
+authentic documents shedding new light on the teaching of the early Unix
+patriarchs? Or are they clever pastiches from a later age, commanding
+the authority of semi-mythical figures such as the Patriarchs Thompson,
+Ritchie and McIlroy for doctrines which evolved closer to our own era?
+
+It is impossible to say for certain. All sides in the dispute have made
+much of an alleged similarity to that venerable classic,
+[[#the-tao-of-programming][The Tao of Programming]]. But Rootless Root
+is quite different in tone and style from the loose, poetic anecdotes of
+the James translation, focused as it is on the remarkable and enigmatic
+figure of Master Foo.
+
+It would be more apposite to seek parallels in the [[#ai-koans][AI Koans]];
+indeed, there are textual clues that the author of the Rootless Root may
+have redacted certain versions of the AI Koans. We are also on much
+firmer ground in seeking connections with the [[#logintaka][Loginataka]]; indeed,
+it is quite possible that the unknown authors of Rootless Root and of
+Loginataka were one and the same person, possibly a student of Master
+Foo himself.
+
+Mention should also be made of the [[#tales-of-zen-master-greg][Tales of Zen Master Greg]], though
+the Nine Inch Nails references have cast some doubt on their antiquity
+and it is thus unlikely that they influenced Rootless Root.
+
+That the title of the work was intended as a reference to the Zen
+classic [[https://en.wikipedia.org/wiki/The_Gateless_Barrier][Gateless Gate]] of Mumon, we can say with fair confidence.
+There are echoes of Mumon in several of the koans.
+
+There is considerable dispute over whether Master Foo should be assigned
+to the Eastern (New Jersey) School, or the Western School that grew out
+of the Patriarch Thompson's epochal early journey to Berkeley. If this
+question has not been settled, it is perhaps because we cannot even
+establish that Master Foo ever existed! He might merely be a composite
+of a group of teachers, or of an entire dharma lineage.
+
+Even supposing the legend of Master Foo accreted around the teaching of
+some a single person, what of his favored student Nubi? Nubi has all the
+earmarks of a stock figure, the perfect disciple. One is reminded of the
+tales surrounding the Buddha's favorite follower Ananda. It seems likely
+that there was a historical Ananda, but no trace of his actual
+personality has survived the euhemerizing process by which the life of
+the Buddha was polished into timeless myth.
+
+In the end, all we can do is take these teaching stories on their own
+terms, and extract what kernels of wisdom may be found there.
+
+The redaction of the Rootless Root is a work in progress, as the source
+materials present many difficulties in reconstruction and
+interpretation. Future versions may include more stories as these
+difficulties are overcome.
+
+** Master Foo and the Ten Thousand Lines
+Master Foo once said to a visiting programmer: “There is more Unix-nature in one
+line of shell script than there is in ten thousand lines of C”.
+
+The programmer, who was very proud of his mastery of C, said: “How can this be?
+C is the language in which the very kernel of Unix is implemented!”
+
+Master Foo replied: “That is so. Nevertheless, there is more Unix-nature in one
+line of shell script than there is in ten thousand lines of C”.
+
+The programmer grew distressed. “But through the C language we experience the
+enlightenment of the Patriarch Ritchie! We become as one with the operating
+system and the machine, reaping matchless performance!”
+
+Master Foo replied: “All that you say is true. But there is still more
+Unix-nature in one line of shell script than there is in ten thousand lines of
+C”.
+
+The programmer scoffed at Master Foo and rose to depart. But Master Foo nodded
+to his student Nubi, who wrote a line of shell script on a nearby whiteboard,
+and said: “Master programmer, consider this pipeline. Implemented in pure C,
+would it not span ten thousand lines?”
+
+The programmer muttered through his beard, contemplating what Nubi had written.
+Finally he agreed that it was so.
+
+“And how many hours would you require to implement and debug that C program?”
+asked Nubi.
+
+“Many”, admitted the visiting programmer. “But only a fool would spend the time
+to do that when so many more worthy tasks await him”.
+
+“And who better understands the Unix-nature?” Master Foo asked. “Is it he who
+writes the ten thousand lines, or he who, perceiving the emptiness of the task,
+gains merit by not coding?”
+
+Upon hearing this, the programmer was enlightened.
+
+** Master Foo and the Script Kiddie
+A stranger from the land of Woot came to Master Foo as he was eating the morning
+meal with his students.
+
+“I hear y00 are very l33t”, he said. “Pl33z teach m3 all y00 know”.
+
+Master Foo's students looked at each other, confused by the stranger's barbarous
+language. Master Foo just smiled and replied: “You wish to learn the Way of
+Unix?”
+
+“I want to b3 a wizard hax0r”, the stranger replied, “and 0wn ever3one's b0xen”.
+
+“I do not teach that Way”, replied Master Foo.
+
+The stranger grew agitated. “D00d, y00 r nothing but a p0ser”, he said. “If y00
+n00 anything, y00 wud t33ch m3”.
+
+“There is a path”, said Master Foo, “that might bring you to wisdom”. The master
+scribbled an IP address on a piece of paper. “Cracking this box should pose you
+little difficulty, as its guardians are incompetent. Return and tell me what you
+find”.
+
+The stranger bowed and left. Master Foo finished his meal.
+
+Days passed, then months. The stranger was forgotten.
+
+Years later, the stranger from the land of Woot returned.
+
+“Damn you!” he said, “I cracked that box, and it was easy like you said. But I
+got busted by the FBI and thrown in jail”.
+
+“Good”, said Master Foo. “You are ready for the next lesson”. He scribbled an IP
+address on another piece of paper and handed it to the stranger.
+
+“Are you crazy?” the stranger yelled. “After what I've been through, I'm never
+going to break into a computer again!”
+
+Master Foo smiled. “Here”, he said, “is the beginning of wisdom”.
+
+On hearing this, the stranger was enlightened.
+** Master Foo Discourses on the Two Paths
+Master Foo instructed his students:
+
+“There is a line of dharma teaching, exemplified by the Patriarch McIlroy's
+mantra ‘Do one thing well’, which emphasizes that software partakes of the Unix
+way when it has simple and consistent behavior, with properties that can be
+readily modeled by the mind of the user and used by other programs”.
+
+“But there is another line of dharma teaching, exemplified by the Patriarch
+Thompson's great mantra ‘When in doubt, use brute force’, and various sutras on
+the value of getting 90% of cases right now, rather than 100% later, which
+emphasizes robustness and simplicity of implementation”.
+
+“Now tell me: which programs have the Unix nature?”
+
+After a silence, Nubi observed:
+
+“Master, these teachings may conflict”.
+
+“A simple implementation is likely to lack logic for edge cases, such as
+resource exhaustion, or failure to close a race window, or a timeout during an
+uncompleted transaction”.
+
+“When such edge cases occur, the behavior of the software will become irregular
+and difficult. Surely this is not the Way of Unix?”
+
+Master Foo nodded in agreement.
+
+“On the other hand, it is well known that fancy algorithms are brittle. Further,
+each attempt to cover an edge case tends to interact with both the program's
+central algorithms and the code covering other edge cases”.
+
+“Thus, attempts to cover all edge cases in advance, guaranteeing ‘simplicity of
+description’, may in fact produce code that is overcomplicated and brittle or
+which, plagued by bugs, never ships at all. Surely this is not the Way of Unix?”
+
+Master Foo nodded in agreement.
+
+“What, then, is the proper dharma path?” asked Nubi.
+
+The master spoke:
+
+“When the eagle flies, does it forget that its feet have touched the ground?
+When the tiger lands upon its prey, does it forget its moment in the air? Three
+pounds of VAX!”
+
+On hearing this, Nubi was enlightened.
+* The Tao of Programming
+:PROPERTIES:
+:CUSTOM_ID: the-tao-of-programming
+:END:
+text
+* AI Koans
+:PROPERTIES:
+:CUSTOM_ID: ai-koans
+:END:
+
+* LoginTaka
+:PROPERTIES:
+:CUSTOM_ID: logintaka
+:END:
+
+* Tales of Zen Master Greg
+:PROPERTIES:
+:CUSTOM_ID: tales-of-zen-master-greg
+:END:
+
