@@ -13,39 +13,67 @@ title: "The Unix Koans of Master Foo"
 # Table of Contents
 
 1.  [Rootless Root](#rootless-root)
-    1.  [Editor&rsquo;s Introduction](#org99d770f)
-    2.  [Master Foo and the Ten Thousand Lines](#org15626b1)
-    3.  [Master Foo and the Script Kiddie](#org3a0235d)
-    4.  [Master Foo Discourses on the Two Paths](#orga3abd14)
-    5.  [Master Foo and the Methodologist](#org5127ced)
-    6.  [Master Foo Discourses on the Graphical User Interface](#org53335eb)
-    7.  [Master Foo and the Old Hand](#org9877aa0)
-    8.  [Master Foo and the Shell Tools](#org13fc540)
-    9.  [Master Foo and the Nervous Novice](#org87977b7)
-    10. [Master Foo and the Recruiter](#orgf68ed39)
-    11. [Master Foo Discourses on Returning to Windows](#org5e09319)
-    12. [Master Foo and the Unix Zealot](#org8aeaa3d)
-    13. [Master Foo Discourses on the Unix-Nature](#org8552af6)
-    14. [Master Foo and the MCSE](#orgf488b33)
-    15. [Master Foo and the End User](#org312fe26)
-    16. [Master Foo and the Programming Prodigy](#org8cc2e63)
-    17. [Master Foo and the Hardware Designer](#orgb826ff2)
+    1.  [Editor&rsquo;s Introduction](#org17b6dd1)
+    2.  [Master Foo and the Ten Thousand Lines](#org0b431e3)
+    3.  [Master Foo and the Script Kiddie](#org402414e)
+    4.  [Master Foo Discourses on the Two Paths](#orgda08b0b)
+    5.  [Master Foo and the Methodologist](#org8586f65)
+    6.  [Master Foo Discourses on the Graphical User Interface](#org8d245e4)
+    7.  [Master Foo and the Old Hand](#org33d61f0)
+    8.  [Master Foo and the Shell Tools](#orgca04ce1)
+    9.  [Master Foo and the Nervous Novice](#org64b5891)
+    10. [Master Foo and the Recruiter](#org54b47a4)
+    11. [Master Foo Discourses on Returning to Windows](#org913d8be)
+    12. [Master Foo and the Unix Zealot](#orgb656315)
+    13. [Master Foo Discourses on the Unix-Nature](#org6313773)
+    14. [Master Foo and the MCSE](#org5b07876)
+    15. [Master Foo and the End User](#orgcfa6da3)
+    16. [Master Foo and the Programming Prodigy](#org5276fd8)
+    17. [Master Foo and the Hardware Designer](#org78526f9)
 2.  [The Unix Power Classic](#the-unix-power-clasic)
-    1.  [The Unix Power Classic: A book about the Unix Way and its power](#orgc74ceab)
-    2.  [01](#org9998da2)
+    1.  [The Unix Power Classic: A book about the Unix Way and its power](#org4f84f1f)
+    2.  [01](#orgcdf0d54)
+    3.  [04](#orgf0461b1)
+    4.  [07](#org284030b)
+    5.  [08](#orgbd6ab03)
+    6.  [09](#org26cc373)
+    7.  [15](#orgaa60e77)
+    8.  [17](#org4196b82)
+    9.  [18](#org1e895fe)
+    10. [21](#org5a46702)
+    11. [23](#orgb070ea5)
+    12. [28](#orgb0a471f)
+    13. [34](#orgc599e6e)
+    14. [39](#org66c0383)
+    15. [40](#org2672601)
+    16. [41](#org25df766)
+    17. [42](#org3601ede)
+    18. [43](#org19a7d73)
+    19. [48](#org1016e3a)
+    20. [53](#org7571438)
+    21. [57](#org3a9da71)
+    22. [60](#orgffc6d56)
+    23. [63](#orgbca6a5a)
+    24. [65](#org3a811cf)
+    25. [67](#orgc5622e9)
+    26. [68](#org23e1963)
+    27. [71](#org40144a5)
+    28. [72](#org9d8470c)
+    29. [79](#org85491ef)
+    30. [81](#orgb5147a1)
 3.  [AI Koans](#ai-koans)
 4.  [LoginTaka](#logintaka)
 5.  [Tales of Zen Master Greg](#tales-of-zen-master-greg)
 6.  [The Tao of Programming](#the-tao-of-programming)
-    1.  [Book 1 &#x2013; The Silent Void](#orgae3ae85)
-    2.  [Book 2 &#x2013; The Ancient Masters](#org4f158aa)
-    3.  [Book 3 &#x2013; Design](#org88f48f7)
-    4.  [Book 4 &#x2013; Coding](#org5073f7a)
-    5.  [Book 5 &#x2013; Maintenance](#org9f22035)
-    6.  [Book 6 &#x2013; Management](#org230c219)
-    7.  [Book 7 &#x2013; Corporate Wisdom](#org6d302b3)
-    8.  [Book 8 &#x2013; Hardware and Software](#orgcb5fe7d)
-    9.  [Book 9 &#x2013; Epilogue](#orgb1f8e80)
+    1.  [Book 1 &#x2013; The Silent Void](#org13fa640)
+    2.  [Book 2 &#x2013; The Ancient Masters](#orgb6ea1ad)
+    3.  [Book 3 &#x2013; Design](#org6736b23)
+    4.  [Book 4 &#x2013; Coding](#orga79170c)
+    5.  [Book 5 &#x2013; Maintenance](#orgb9d9db1)
+    6.  [Book 6 &#x2013; Management](#org967b391)
+    7.  [Book 7 &#x2013; Corporate Wisdom](#orge55fea4)
+    8.  [Book 8 &#x2013; Hardware and Software](#org1ea0721)
+    9.  [Book 9 &#x2013; Epilogue](#orgafb0c98)
 
 
 # Rootless Root
@@ -749,6 +777,738 @@ Mystery of all mysteries,<br />
 <br />
 [As Le Guin says, a perfect translation<br />
 of this verse is perfectly impossible.]<br />
+</p>
+
+
+## 04
+
+<p class="verse">
+Unix is a cauldron,<br />
+&#xa0;&#xa0;&#xa0;yet when it&rsquo;s in use,<br />
+&#xa0;&#xa0;&#xa0;it&rsquo;s somehow never exhausted.<br />
+<br />
+Deep, indeed;<br />
+&#xa0;&#xa0;&#xa0;it seems to be the source<br />
+&#xa0;&#xa0;&#xa0;of the ten thousand apps.<br />
+<br />
+Rounding off its sharpness,<br />
+&#xa0;&#xa0;&#xa0;resolving its confusions,<br />
+&#xa0;&#xa0;&#xa0;tempering its brilliance,<br />
+&#xa0;&#xa0;&#xa0;it becomes one with the mundane.<br />
+<br />
+Deep, indeed;<br />
+&#xa0;&#xa0;&#xa0;it seems likely to endure.<br />
+<br />
+I do not know whose child it is;<br />
+&#xa0;&#xa0;&#xa0;in imagination, it existed<br />
+&#xa0;&#xa0;&#xa0;before its creators.<br />
+<br />
+</p>
+
+
+## 07
+
+<p class="verse">
+Design is everlasting,<br />
+content is enduring.<br />
+<br />
+What&rsquo;s the reason that design and content<br />
+&#xa0;&#xa0;can be everlasting and enduring?<br />
+<br />
+Because they don&rsquo;t exist in themselves;<br />
+&#xa0;&#xa0;thus they exist forever.<br />
+<br />
+For this reason, the hacker<br />
+&#xa0;&#xa0;is behind himself<br />
+&#xa0;&#xa0;and in front of himself.<br />
+<br />
+He rejects his ego and his ego is preserved.<br />
+Is this not because he lacks ego?<br />
+Isn&rsquo;t that why he can perfect himself?<br />
+</p>
+
+
+## 08
+
+<p class="verse">
+The highest Quality is like water.<br />
+<br />
+Water Quality benefits everything,<br />
+&#xa0;&#xa0;but doesn&rsquo;t compete with them.<br />
+<br />
+(It flows down to everyone&rsquo;s pisshole;<br />
+&#xa0;&#xa0;so it&rsquo;s very close to the Way.)<br />
+<br />
+A house has Quality if it&rsquo;s level,<br />
+thinking has Quality if it&rsquo;s deep,<br />
+relationships have Quality if they&rsquo;re decent,<br />
+speaking has Quality if it&rsquo;s sincere,<br />
+management has Quality if it&rsquo;s just,<br />
+work has Quality if it&rsquo;s competent,<br />
+action has Quality if it&rsquo;s timely.<br />
+<br />
+Above all, these things don&rsquo;t compete,<br />
+and so they are faultless.<br />
+</p>
+
+
+## 09
+
+<p class="verse">
+Packing in more features,<br />
+&#xa0;&#xa0;you&rsquo;re not likely to finish in time.<br />
+Pound on sharp tools,<br />
+&#xa0;&#xa0;they won&rsquo;t last long.<br />
+Code full of chrome and glitz,<br />
+&#xa0;&#xa0;nobody can secure that.<br />
+<br />
+Money, power, and ego:<br />
+&#xa0;&#xa0;what follows is disaster.<br />
+Finish the job and move on,<br />
+&#xa0;&#xa0;that&rsquo;s the way of Unix.<br />
+</p>
+
+
+## 15
+
+<p class="verse">
+The hackers of the Elder Days<br />
+&#xa0;&#xa0;&#xa0;cultivated mastery:<br />
+&#xa0;&#xa0;&#xa0;the subtle essence,<br />
+&#xa0;&#xa0;&#xa0;deep, penetrating, profound, hairy.<br />
+<br />
+And so we cannot understand them.<br />
+<br />
+As a best effort, therefore,<br />
+&#xa0;&#xa0;I wil describe their appearance:<br />
+<br />
+They were cautious as the elephant,<br />
+&#xa0;&#xa0;like one making global changes to a codebase.<br />
+<br />
+They were vigilant as the monkey,<br />
+&#xa0;&#xa0;yes, like a rogue(6) player fearing danger from all quarters.<br />
+<br />
+They were courteous,<br />
+&#xa0;&#xa0;like ITS turists.<br />
+<br />
+They were egoless, yes,<br />
+&#xa0;&#xa0;like ice which is just about to crack.<br />
+<br />
+They were solid, yes, like GNU utilities.<br />
+<br />
+They were open, yes, like a newly formatted disk.<br />
+<br />
+They were opaque, like spaghetti code.<br />
+<br />
+Who can make spaghetti code straightforward?<br />
+&#xa0;&#xa0;It gradually clarifies itself.<br />
+<br />
+Who can make dead code useful again?<br />
+&#xa0;&#xa0;It gradually rejuvenates itself.<br />
+<br />
+Holding to the Unix Way,<br />
+&#xa0;&#xa0;one doesn&rsquo;t long<br />
+&#xa0;&#xa0;for more and more features.<br />
+<br />
+Truly, therefore, one is compact,<br />
+&#xa0;&#xa0;and can remain stable<br />
+&#xa0;&#xa0;without gratuitous changes.<br />
+<br />
+[Credit: sbp suggested some improvements]<br />
+</p>
+
+
+## 17
+
+<p class="verse">
+The greatest project leaders<br />
+&#xa0;&#xa0;&#xa0;hardly make their presence known.<br />
+<br />
+Next best are those<br />
+&#xa0;&#xa0;&#xa0;who are loved and honored.<br />
+<br />
+Next come those who are feared.<br />
+<br />
+Next the PHBs, who are despised.<br />
+<br />
+The demand to be trusted is not enough;<br />
+&#xa0;&#xa0;indeed, it finds no trust.<br />
+<br />
+The true leader shuts up and shows us the code.<br />
+<br />
+Then when the tasks are accomplished,<br />
+&#xa0;&#xa0;&#xa0;and the project is complete,<br />
+&#xa0;&#xa0;&#xa0;all the contributors say,<br />
+&#xa0;&#xa0;&#xa0;&ldquo;We did it ourselves.&rdquo;<br />
+</p>
+
+
+## 18
+
+<p class="verse">
+When the way of Unix is forgotten,<br />
+&#xa0;&#xa0;&#xa0;&ldquo;team players&rdquo; and &ldquo;professionalism&rdquo; appear.<br />
+When ego and cleverness dominate,<br />
+&#xa0;&#xa0;&#xa0;the codebase becomes a pile of cruft.<br />
+When the team has not jelled,<br />
+&#xa0;&#xa0;&#xa0;&ldquo;vision statements&rdquo; and &ldquo;objective-setting&rdquo; are all we hear of.<br />
+When the startup is heading for the rocks,<br />
+&#xa0;&#xa0;&#xa0;the talk is of &ldquo;company loyalty&rdquo; and &ldquo;management by exception&rdquo;.<br />
+<br />
+[Credit: esr provided an early version.]<br />
+</p>
+
+
+## 21
+
+<p class="verse">
+Power&rsquo;s nature is to be great<br />
+&#xa0;&#xa0;iff it follows the Way.<br />
+The Way is the real thing<br />
+&#xa0;&#xa0;iff it is waxing,<br />
+&#xa0;&#xa0;iff it is waning.<br />
+<br />
+Waxing, oh!<br />
+Waning, oh!<br />
+&#xa0;&#xa0;Its kernel holds the classes.<br />
+Waning, oh!<br />
+Waxing, oh!<br />
+&#xa0;&#xa0;Its kernel holds the objects.<br />
+Profound, oh!<br />
+Obscure, oh!<br />
+&#xa0;&#xa0;Its kernel holds the essence.<br />
+<br />
+This essence is very real;<br />
+&#xa0;&#xa0;its kernel holds the truth.<br />
+<br />
+From now back to the Elder Days,<br />
+&#xa0;&#xa0;its name has never been lost.<br />
+<br />
+Thus it tracks the common source.<br />
+How do I grok the common source?<br />
+By this.<br />
+<br />
+[Credit: sbp pointed out the lunar imagery.]<br />
+</p>
+
+
+## 23
+
+<p class="verse">
+A few words about the matter:<br />
+<br />
+Flames don&rsquo;t outlast the message,<br />
+Flamewars don&rsquo;t outlast the thread.<br />
+What are the causes of these?<br />
+&#xa0;&#xa0;The total system.<br />
+<br />
+If the works of the total system<br />
+&#xa0;&#xa0;&#xa0;can&rsquo;t last forever,<br />
+how much less can anyone else&rsquo;s, in fact?<br />
+<br />
+So do business with Unix people.<br />
+<br />
+Unix people are one with Unix,<br />
+Power people are one with Power,<br />
+(Lusers are one with Lossage.)<br />
+<br />
+Being one with Unix people,<br />
+&#xa0;&#xa0;Unix must be happy with them.<br />
+Power too is happy with them.<br />
+(Even being one with lusers counts.)<br />
+<br />
+Trusting&rsquo;s not enough, in fact;<br />
+Having&rsquo;s not trusting, either.<br />
+</p>
+
+
+## 28
+
+<p class="verse">
+Knowing its rigor,<br />
+&#xa0;&#xa0;&#xa0;holding on to its flexibility,<br />
+&#xa0;&#xa0;&#xa0;the system becomes a river.<br />
+<br />
+When the system becomes a river,<br />
+&#xa0;&#xa0;&#xa0;stable power will not be lost<br />
+&#xa0;&#xa0;&#xa0;when looping back to the design stage.<br />
+<br />
+Knowing its clarity,<br />
+&#xa0;&#xa0;&#xa0;holding on to its profundity,<br />
+&#xa0;&#xa0;&#xa0;the system becomes a pattern.<br />
+<br />
+Stable power will not go astray<br />
+&#xa0;&#xa0;&#xa0;when jumping forward to the extreme.<br />
+<br />
+Knowing its pride,<br />
+&#xa0;&#xa0;&#xa0;holding on to its humility,<br />
+&#xa0;&#xa0;&#xa0;the system becomes a valley.<br />
+<br />
+When the system becomes a valley,<br />
+&#xa0;&#xa0;&#xa0;stable power will return to the unwritten code.<br />
+<br />
+When the unwritten code is shattered,<br />
+&#xa0;&#xa0;&#xa0;it becomes the utilities.<br />
+<br />
+When the hacker makes use of them,<br />
+&#xa0;&#xa0;&#xa0;then the team leaders last long.<br />
+<br />
+Thus the great carving does not divide.<br />
+</p>
+
+
+## 34
+
+<p class="verse">
+Unix is pervasive!<br />
+&#xa0;&#xa0;It runs on any platform.<br />
+<br />
+The ten thousand apps rely on it;<br />
+&#xa0;&#xa0;it gives them life,<br />
+&#xa0;&#xa0;but doesn&rsquo;t dominate them.<br />
+<br />
+When the job is done,<br />
+&#xa0;&#xa0;&#xa0;Unix doesn&rsquo;t take credit for it.<br />
+<br />
+It supports the ten thousand apps,<br />
+&#xa0;&#xa0;&#xa0;but doesn&rsquo;t claim to own them.<br />
+<br />
+Free of imposed paradigms,<br />
+&#xa0;&#xa0;&#xa0;it can be called &ldquo;the flexible&rdquo;.<br />
+<br />
+The ten thousand apps run on it,<br />
+&#xa0;&#xa0;&#xa0;but don&rsquo;t control it,<br />
+&#xa0;&#xa0;&#xa0;so it can be named &ldquo;the powerful&rdquo;.<br />
+<br />
+Because it never dominates,<br />
+&#xa0;&#xa0;&#xa0;it can achieve dominance.<br />
+</p>
+
+
+## 39
+
+<p class="verse">
+Design power was one, thus clear.<br />
+Coding power was one, thus calm.<br />
+Testing power was one, thus energized.<br />
+Refactoring power was one, thus fulfilled.<br />
+Contributor power was one, thus alive.<br />
+Leader power was one, thus world-dominating.<br />
+<br />
+What made it so?<br />
+<br />
+Without design, the clear would be afraid and split open.<br />
+Without coding, the calm would be afraid and shake to pieces.<br />
+Without testing, the energized would be afraid and wither away.<br />
+Without refactoring, the fulfilled would be afraid and be exhausted.<br />
+Without contributors, life would be afraid and perish.<br />
+Without leaders, trust and merit would be afraid and stumble.<br />
+<br />
+For trust, humility is the root.<br />
+For merit, humility is the base class.<br />
+<br />
+The Old Hackers called themselves<br />
+&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;nerds<br />
+&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;dweebs<br />
+&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;geeks<br />
+because humility is the root.<br />
+<br />
+Having the most bells and whistles<br />
+&#xa0;&#xa0;doesn&rsquo;t make a project the best.<br />
+<br />
+Not &ldquo;clink clink&rdquo; like jewels,<br />
+&#xa0;&#xa0;but &ldquo;WHAM WHAM&rdquo; like boulders.<br />
+</p>
+
+
+## 40
+
+<p class="verse">
+Reversal is the movement of Unix;<br />
+Ease is the function of Unix.<br />
+<br />
+The system with its ten thousand apps<br />
+&#xa0;&#xa0;grow out of what&rsquo;s there;<br />
+What&rsquo;s there grows out of what isn&rsquo;t.<br />
+</p>
+
+
+## 41
+
+<p class="verse">
+Thoughtful hackers hear about Unix<br />
+&#xa0;&#xa0;&#xa0;and try to use it.<br />
+Ordinary hackers hear about Unix<br />
+&#xa0;&#xa0;&#xa0;and mess about with it a little.<br />
+Thoughtless hackers hear about Unix<br />
+&#xa0;&#xa0;&#xa0;and crack wise about it.<br />
+It wouldn&rsquo;t be Unix<br />
+&#xa0;&#xa0;&#xa0;if there weren&rsquo;t wisecracks about it.<br />
+<br />
+So we establish the following rules:<br />
+<br />
+The most brilliant Unix seems the most obscure.<br />
+Advanced Unix seems like retrocomputing.<br />
+The most powerful code seems like just loops and conditionals.<br />
+The clearest code seems to be opaque.<br />
+The sharpest tools seem inadequate.<br />
+Solid code seems flaky.<br />
+Stable code seems to change.<br />
+<br />
+Great methodologies don&rsquo;t have boundaries.<br />
+Great talent doesn&rsquo;t code fast.<br />
+Great music makes no sound.<br />
+The ideal elephant has no shape.<br />
+The Unix Way has no name.<br />
+<br />
+Yet for just this reason<br />
+&#xa0;&#xa0;&#xa0;it brings things to perfection.<br />
+</p>
+
+
+## 42
+
+<p class="verse">
+Unix begat the kernel;<br />
+the kernel begat the libraries;<br />
+the libraries begat the utilities;<br />
+the utilities begat the ten thousand apps.<br />
+<br />
+The ten thousand apps<br />
+&#xa0;&#xa0;carry semantics on their backs,<br />
+&#xa0;&#xa0;and syntax on their fronts.<br />
+<br />
+This combination makes harmony.<br />
+<br />
+People detest geeks, nerds, and dweebs,<br />
+and yet hackers and wizards use these titles.<br />
+<br />
+Thus, perhaps, things lose but something wins.<br />
+<br />
+What others say, I say too:<br />
+&#xa0;&#xa0;Tyrants and flamers don&rsquo;t die natural deaths.<br />
+&#xa0;&#xa0;I make this the foundation of my doctrine.<br />
+</p>
+
+
+## 43
+
+<p class="verse">
+The system&rsquo;s most flexible parts<br />
+&#xa0;&#xa0;gallop on horseback<br />
+&#xa0;&#xa0;&#xa0;&#xa0;past the most stable parts.<br />
+<br />
+What isn&rsquo;t there<br />
+&#xa0;&#xa0;penetrates<br />
+&#xa0;&#xa0;&#xa0;&#xa0;what has no crevices.<br />
+<br />
+From this I know<br />
+&#xa0;&#xa0;the benefits<br />
+&#xa0;&#xa0;&#xa0;&#xa0;of Laziness.<br />
+<br />
+Its teachings are wordless.<br />
+<br />
+The benefits of Laziness<br />
+&#xa0;&#xa0;are rarely attained<br />
+&#xa0;&#xa0;&#xa0;&#xa0;in this world.<br />
+<br />
+[For more on Laziness, see <http://c2.com/cgi/wiki?LazinessImpatienceHubris> ]<br />
+</p>
+
+
+## 48
+
+<p class="verse">
+Seek knowledge every day,<br />
+&#xa0;&#xa0;you win.<br />
+Seek the Way every day,<br />
+&#xa0;&#xa0;you lose.<br />
+Lose and lose again,<br />
+&#xa0;&#xa0;until you reach hacklessness.<br />
+When you&rsquo;re hackless,<br />
+&#xa0;&#xa0;nothing is left unhacked.<br />
+<br />
+World domination<br />
+&#xa0;&#xa0;is always achieved egolessly.<br />
+When you&rsquo;re ego-driven,<br />
+&#xa0;&#xa0;you&rsquo;re never able to dominate the world.<br />
+<br />
+</p>
+
+
+## 53
+
+<p class="verse">
+If I had even a scrap of savvy,<br />
+&#xa0;&#xa0;I&rsquo;d follow the main Way.<br />
+<br />
+The main Way is very easy,<br />
+&#xa0;&#xa0;but others prefer the side roads:<br />
+<br />
+Corporate headquarters<br />
+&#xa0;&#xa0;is arranged immaculately,<br />
+&#xa0;&#xa0;&#xa0;&#xa0;but the codebase is a mess,<br />
+&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;the cubicles are bare.<br />
+<br />
+Dressed in their elegant suits,<br />
+at their side their clever lawyers,<br />
+gorging on food and drink:<br />
+&#xa0;&#xa0;this is called &ldquo;robbery and vanity&rdquo;.<br />
+<br />
+Not the eunuch&rsquo;s way,<br />
+&#xa0;&#xa0;but the Unix way,<br />
+&#xa0;&#xa0;no less!<br />
+</p>
+
+
+## 57
+
+<p class="verse">
+Use justice to run a project.<br />
+Use surprise to run a company.<br />
+Use non-interference to achieve world domination.<br />
+By what do I know this is so, indeed?<br />
+<br />
+By this:<br />
+<br />
+When the world is full of<br />
+&#xa0;&#xa0;restrictions and prohibitions,<br />
+&#xa0;&#xa0;the people grow poorer.<br />
+<br />
+When the companies have<br />
+&#xa0;&#xa0;many fast-talking lawyers,<br />
+&#xa0;&#xa0;the world grows more and more troubled.<br />
+<br />
+When the geeks abound in<br />
+&#xa0;&#xa0;clever techniques,<br />
+&#xa0;&#xa0;abnormal things more and more occur.<br />
+<br />
+When law and order becomes<br />
+&#xa0;&#xa0;more and more evident,<br />
+&#xa0;&#xa0;more robbers and thieves appear.<br />
+<br />
+So the hacker says:<br />
+<br />
+I do without doing,<br />
+&#xa0;&#xa0;and the people spontaneously transform themselves.<br />
+<br />
+I prefer quiet,<br />
+&#xa0;&#xa0;and the people are spontaneously fair.<br />
+<br />
+I don&rsquo;t interfere,<br />
+&#xa0;&#xa0;and the people are spontaneously wealthy.<br />
+<br />
+I am not greedy,<br />
+&#xa0;&#xa0;and the people are spontaneously honest.<br />
+</p>
+
+
+## 60
+
+<p class="verse">
+Run a big project like you fry a small fish.<br />
+<br />
+By using the Unix Way<br />
+&#xa0;&#xa0;to control the project,<br />
+&#xa0;&#xa0;its bugs will lose their power.<br />
+<br />
+Not only will bugs lose their power,<br />
+&#xa0;&#xa0;but their power can no longer harm the users.<br />
+<br />
+Not only can their power no longer harm the users,<br />
+&#xa0;&#xa0;but the geeks can no longer harm the users either:<br />
+&#xa0;&#xa0;truly, neither of the two can do harm.<br />
+<br />
+Thus unified power is restored.<br />
+</p>
+
+
+## 63
+
+<p class="verse">
+Design without designing,<br />
+implement without implementing,<br />
+debug without debugging.<br />
+<br />
+The great lessens (and the small grows);<br />
+the many become few (and the few become many).<br />
+<br />
+Respond to ill-treatment<br />
+&#xa0;&#xa0;with the Power of the Unix Way.<br />
+<br />
+Tackle difficult projects while they&rsquo;re easy;<br />
+manage big projects while they&rsquo;re small.<br />
+<br />
+In this world,<br />
+&#xa0;&#xa0;difficult problems surely arise<br />
+&#xa0;&#xa0;from what is easy;<br />
+in this world,<br />
+&#xa0;&#xa0;big systems surely begin<br />
+&#xa0;&#xa0;in what is small.<br />
+<br />
+Thus the hacker doesn&rsquo;t set big goals,<br />
+&#xa0;&#xa0;but can accomplish big results.<br />
+&#xa0;&#xa0;(Truly, frivolous promises lack sincerity.)<br />
+<br />
+What&rsquo;s too easy surely has many difficulties.<br />
+<br />
+Thus the hacker takes difficulties seriously,<br />
+&#xa0;&#xa0;and ultimately has no difficulties, indeed.<br />
+</p>
+
+
+## 65
+
+<p class="verse">
+The ancient hackers<br />
+&#xa0;&#xa0;who skillfully followed the Way<br />
+&#xa0;&#xa0;didn&rsquo;t try to geekify the users,<br />
+&#xa0;&#xa0;but to make things simple for them.<br />
+<br />
+Users are difficult to guide<br />
+&#xa0;&#xa0;when they are too geeky.<br />
+<br />
+Using geekiness to guide a community<br />
+&#xa0;&#xa0;is the community&rsquo;s ruin;<br />
+using simplicity to guide a community<br />
+&#xa0;&#xa0;is the community&rsquo;s blessing.<br />
+<br />
+Knowing these two things<br />
+&#xa0;&#xa0;is knowing the basic pattern.<br />
+<br />
+Always knowing the basic pattern,<br />
+&#xa0;&#xa0;this is called &ldquo;primal power&rdquo;.<br />
+<br />
+Primal power is deep, indeed!<br />
+&#xa0;&#xa0;distant, indeed!<br />
+<br />
+Sharing things, they return:<br />
+&#xa0;&#xa0;this is the great harmony.<br />
+</p>
+
+
+## 67
+
+<p class="verse">
+Everybody says that my Great Way seems worthless.<br />
+In fact, it&rsquo;s only great **because** it seems worthless.<br />
+If it **were** worthless, it would have disappeared long ago!<br />
+<br />
+I have three treasures: preserve and protect them.<br />
+&#xa0;&#xa0;The first is called &ldquo;love&rdquo;,<br />
+&#xa0;&#xa0;the second is called &ldquo;moderation&rdquo;,<br />
+&#xa0;&#xa0;the third is called &ldquo;not daring to have invented it all first&rdquo;.<br />
+<br />
+Love, I say, can be brave;<br />
+moderation, I say, can be generous;<br />
+not daring to have invented it all first<br />
+&#xa0;&#xa0;can develop high-quality tools.<br />
+<br />
+Nowadays people discard love and courage,<br />
+&#xa0;&#xa0;discard moderation and generosity,<br />
+&#xa0;&#xa0;discard following and leading &#x2013;<br />
+&#xa0;&#xa0;&#xa0;&#xa0;that way lies death, indeed.<br />
+<br />
+With love, truly:<br />
+&#xa0;&#xa0;struggle brings success,<br />
+&#xa0;&#xa0;defense brings endurance.<br />
+<br />
+Heaven helps those who use love,<br />
+&#xa0;&#xa0;guards them.<br />
+</p>
+
+
+## 68
+
+<p class="verse">
+Skillful leaders aren&rsquo;t bossy.<br />
+Skillful geeks don&rsquo;t get angry.<br />
+Skillful debaters don&rsquo;t join issue.<br />
+Skillful managers put themselves below their developers.<br />
+<br />
+This is called &ldquo;the power of not pushing it&rdquo;;<br />
+&#xa0;&#xa0;this is called &ldquo;using people&rsquo;s strengths&rdquo;;<br />
+&#xa0;&#xa0;this is called &ldquo;matching the perfection of the sky&rdquo;.<br />
+</p>
+
+
+## 71
+
+<p class="verse">
+From knowing to not-knowing,<br />
+&#xa0;&#xa0;that is best.<br />
+<br />
+From not-knowing to knowing,<br />
+&#xa0;&#xa0;that&rsquo;s a bug.<br />
+<br />
+Truly, only the very buggy<br />
+&#xa0;&#xa0;is in this way not a bug.<br />
+<br />
+Hackers aren&rsquo;t buggy<br />
+&#xa0;&#xa0;because they are very buggy<br />
+&#xa0;&#xa0;and therefore not buggy.<br />
+</p>
+
+
+## 72
+
+<p class="verse">
+When people don&rsquo;t fear threats,<br />
+&#xa0;&#xa0;then the great FUD arrives.<br />
+<br />
+Don&rsquo;t restrict the user&rsquo;s space;<br />
+don&rsquo;t burden the user&rsquo;s space.<br />
+<br />
+Truly,<br />
+&#xa0;&#xa0;when you are not excessively annoying,<br />
+&#xa0;&#xa0;you are not easily annoyed.<br />
+<br />
+Truly the hacker<br />
+&#xa0;&#xa0;loves himself but doesn&rsquo;t see himself,<br />
+&#xa0;&#xa0;takes care of himself but doesn&rsquo;t exalt himself.<br />
+<br />
+Therefore he discards that and chooses this.<br />
+</p>
+
+
+## 79
+
+<p class="verse">
+Reconcile a great flamewar,<br />
+&#xa0;&#xa0;there will be residual grudges.<br />
+&#xa0;&#xa0;How can this be made better?<br />
+<br />
+The geek who licenses unilaterally,<br />
+&#xa0;&#xa0;and doesn&rsquo;t make demands on others,<br />
+&#xa0;&#xa0;has the power to insist on his claims.<br />
+<br />
+The Unix Way plays no favorites,<br />
+&#xa0;&#xa0;but is always on the side of the good people.<br />
+</p>
+
+
+## 81
+
+<p class="verse">
+Useful features aren&rsquo;t glitzy,<br />
+glitzy features aren&rsquo;t useful.<br />
+<br />
+True hackers aren&rsquo;t flamers;<br />
+flamers aren&rsquo;t true hackers.<br />
+<br />
+Programmers aren&rsquo;t language lawyers;<br />
+language lawyers aren&rsquo;t programmers.<br />
+<br />
+Hackers aren&rsquo;t software hoarders:<br />
+&#xa0;&#xa0;&#xa0;&#xa0;the more they do for others,<br />
+&#xa0;&#xa0;the more they have for themselves;<br />
+&#xa0;&#xa0;the more they give to others,<br />
+&#xa0;&#xa0;&#xa0;&#xa0;the more they keep for themselves.<br />
+<br />
+The way of Unix is sharp,<br />
+&#xa0;&#xa0;but doesn&rsquo;t injure;<br />
+the hacker&rsquo;s way is to serve<br />
+&#xa0;&#xa0;and not to strive.<br />
 </p>
 
 
