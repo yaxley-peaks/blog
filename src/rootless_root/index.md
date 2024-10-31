@@ -9,51 +9,52 @@ title: "The Unix Koans of Master Foo"
 
 31/10/2024
 
-These are usually found at
-[catb.org](https://catb.org/~esr/writings/unix-koans/) maintained by
-[ESR](http://www.catb.org/~esr/). However the website usually has SSL
-issues, and also it references other works which are no longer
-available, so this is an attempt to consolidate all of them in one
-place.
-
 
 # Table of Contents
 
 1.  [Rootless Root](#rootless-root)
-    1.  [Editor&rsquo;s Introduction](#org2d14895)
-    2.  [Master Foo and the Ten Thousand Lines](#org506024e)
-    3.  [Master Foo and the Script Kiddie](#org46fe2d5)
-    4.  [Master Foo Discourses on the Two Paths](#org41b793b)
-    5.  [Master Foo and the Methodologist](#org23f29cd)
-    6.  [Master Foo Discourses on the Graphical User Interface](#orgae34c29)
-    7.  [Master Foo and the Old Hand](#org631e907)
-    8.  [Master Foo and the Shell Tools](#org0de37df)
-    9.  [Master Foo and the Nervous Novice](#orgf1b681c)
-    10. [Master Foo and the Recruiter](#orgb8fa993)
-    11. [Master Foo Discourses on Returning to Windows](#org3ee6ce5)
-    12. [Master Foo and the Unix Zealot](#org91f7c53)
-    13. [Master Foo Discourses on the Unix-Nature](#orgc50397f)
-    14. [Master Foo and the MCSE](#orgb6ef282)
-    15. [Master Foo and the End User](#org137c8a7)
-    16. [Master Foo and the Programming Prodigy](#org52375fb)
-    17. [Master Foo and the Hardware Designer](#org0903901)
+    1.  [Editor&rsquo;s Introduction](#org99d770f)
+    2.  [Master Foo and the Ten Thousand Lines](#org15626b1)
+    3.  [Master Foo and the Script Kiddie](#org3a0235d)
+    4.  [Master Foo Discourses on the Two Paths](#orga3abd14)
+    5.  [Master Foo and the Methodologist](#org5127ced)
+    6.  [Master Foo Discourses on the Graphical User Interface](#org53335eb)
+    7.  [Master Foo and the Old Hand](#org9877aa0)
+    8.  [Master Foo and the Shell Tools](#org13fc540)
+    9.  [Master Foo and the Nervous Novice](#org87977b7)
+    10. [Master Foo and the Recruiter](#orgf68ed39)
+    11. [Master Foo Discourses on Returning to Windows](#org5e09319)
+    12. [Master Foo and the Unix Zealot](#org8aeaa3d)
+    13. [Master Foo Discourses on the Unix-Nature](#org8552af6)
+    14. [Master Foo and the MCSE](#orgf488b33)
+    15. [Master Foo and the End User](#org312fe26)
+    16. [Master Foo and the Programming Prodigy](#org8cc2e63)
+    17. [Master Foo and the Hardware Designer](#orgb826ff2)
 2.  [The Unix Power Classic](#the-unix-power-clasic)
+    1.  [The Unix Power Classic: A book about the Unix Way and its power](#orgc74ceab)
+    2.  [01](#org9998da2)
 3.  [AI Koans](#ai-koans)
 4.  [LoginTaka](#logintaka)
 5.  [Tales of Zen Master Greg](#tales-of-zen-master-greg)
 6.  [The Tao of Programming](#the-tao-of-programming)
-    1.  [Book 1 &#x2013; The Silent Void](#org85fd473)
-    2.  [Book 2 &#x2013; The Ancient Masters](#orgca489d3)
-    3.  [Book 3 &#x2013; Design](#orgc5c6e9c)
-    4.  [Book 4 &#x2013; Coding](#orgcdf8efb)
-    5.  [Book 5 &#x2013; Maintenance](#org238e897)
-    6.  [Book 6 &#x2013; Management](#orgad2bcb8)
-    7.  [Book 7 &#x2013; Corporate Wisdom](#org9c68b85)
-    8.  [Book 8 &#x2013; Hardware and Software](#orgfa46110)
-    9.  [Book 9 &#x2013; Epilogue](#org4698491)
+    1.  [Book 1 &#x2013; The Silent Void](#orgae3ae85)
+    2.  [Book 2 &#x2013; The Ancient Masters](#org4f158aa)
+    3.  [Book 3 &#x2013; Design](#org88f48f7)
+    4.  [Book 4 &#x2013; Coding](#org5073f7a)
+    5.  [Book 5 &#x2013; Maintenance](#org9f22035)
+    6.  [Book 6 &#x2013; Management](#org230c219)
+    7.  [Book 7 &#x2013; Corporate Wisdom](#org6d302b3)
+    8.  [Book 8 &#x2013; Hardware and Software](#orgcb5fe7d)
+    9.  [Book 9 &#x2013; Epilogue](#orgb1f8e80)
 
 
 # Rootless Root
+
+Editor&rsquo;s Note:
+
+> These are usually found at [catb.org](https://catb.org/~esr/writings/unix-koans/) maintained by [ESR](http://www.catb.org/~esr/). However the website
+> usually has SSL issues, and also it references other works which are no longer
+> available, so this is an attempt to consolidate all of them in one place.
 
 ![img](../_assets/rootlessroot.png "&ldquo;無根的根&rdquo;")
 
@@ -665,6 +666,91 @@ In that moment, the hardware designer achieved enlightenment.
 
 # The Unix Power Classic
 
+Editor&rsquo;s Note:
+
+> This is an incomplete work. It is supposed to have 81 chapters but only has \_
+> before the website went offline and these are the ones I was able to salvage
+> from the wayback machine.
+> 
+> Usually found at [mercury.ccil.org](http://mercury.ccil.org/~cowan/upc/) by [John Cowan](http://ccil.org/~cowan)
+> 
+> To reach me, email at `yax<at>yaxley<dot>in`
+
+
+## The Unix Power Classic: A book about the Unix Way and its power
+
+This is [my](http://ccil.org/~cowan) evolving [hacker](http://www.catb.org/~esr/jargon/html/H/hacker.html)-oriented version of the Dao De Jing (literally &ldquo;way
+power classic&rdquo;).
+
+Disclaimer: I don&rsquo;t actually know any Chinese. I&rsquo;m working from Jonathan Star&rsquo;s
+[Verbatim Translation](http://www.amazon.com/exec/obidos/ASIN/1585420999), an amazingly helpful spreadsheet in book form giving
+character-by-character glosses for each of the 5000-odd characters of the Dao De
+Jing. I&rsquo;m also using the online Chinese text with clickable characters at
+[zhongwen.com](http://zhongwen.com/dao.htm).
+
+Not much is known for sure about the Dao De Jing, except that it&rsquo;s Chinese, it&rsquo;s
+very old, and people have loved it for twenty-five hundred years, as [Ursula K.
+LeGuin](http://www.ursulakleguin.com/) says in [her version](http://www.amazon.com/exec/obidos/ASIN/1570623953), which I dearly love.
+
+But I will say this much. The Dao De Jing can be given philosophical
+interpretations, political interpretations, religious interpretations. In some
+translations the original sinks under the weight of them. But it has survived
+and is read today because it is, at bottom, immortal poetry, as beautiful and
+meaningful as any that humanity has ever known.
+
+Here are the 81 chapters (or the ones I&rsquo;ve written so far) in the usual order.
+Book One (&ldquo;The Way&rdquo;) comprises chapters 1-37; Book Two (&ldquo;Its Power&rdquo;) comprises
+chapters 38-81.
+
+Here&rsquo;s a [tanka](http://www.americantanka.com/about.html) I wrote belonging to the same tradition:
+
+<p class="verse">
+Newbies always ask:<br />
+&#xa0;&#xa0;&ldquo;Elements or attributes?<br />
+&rdquo;Which will serve me best?"<br />
+&#xa0;&#xa0;Those who know roar like lions;<br />
+&#xa0;&#xa0;Wise hackers smile like tigers.<br />
+</p>
+
+And here&rsquo;s a nice three-liner salvaged from an email by [Len Bullard](http://lamammals.blogspot.com/):
+
+<p class="verse">
+Raised floors hide the chaos.<br />
+Facades hide the boilerplate.<br />
+A good designer enables upgrades.<br />
+</p>
+
+Comments and suggestions are solicited; write to [cowan@ccil.org](mailto:cowan@ccil.org).
+
+
+## 01
+
+<p class="verse">
+The route you can traverse<br />
+&#xa0;&#xa0;isn&rsquo;t a static route.<br />
+The name you can dereference<br />
+&#xa0;&#xa0;isn&rsquo;t a universal name.<br />
+<br />
+Namelessness is the root of everything.<br />
+Names are the mother of everything.<br />
+<br />
+Therefore,<br />
+&#xa0;&#xa0;the unchanging, seen from outside the box,<br />
+&#xa0;&#xa0;&#xa0;&#xa0;reveals its inner nature;<br />
+&#xa0;&#xa0;the unchanging, seen from inside the box,<br />
+&#xa0;&#xa0;&#xa0;&#xa0;reveals its outer form.<br />
+<br />
+These two are alike in origin,<br />
+&#xa0;&#xa0;but different in name.<br />
+Their unity is called &ldquo;the mystery&rdquo;.<br />
+<br />
+Mystery of all mysteries,<br />
+&#xa0;&#xa0;the gate to all wonders.<br />
+<br />
+[As Le Guin says, a perfect translation<br />
+of this verse is perfectly impossible.]<br />
+</p>
+
 
 <a id="ai-koans"></a>
 
@@ -685,7 +771,9 @@ In that moment, the hardware designer achieved enlightenment.
 
 # The Tao of Programming
 
-Usually found at: [canonical.org](http://www.canonical.org/~kragen/tao-of-programming.html) by [Kragen Javier Sitaker](http://canonical.org/~kragen/)
+Editor&rsquo;s Note:
+
+> Usually found at: [canonical.org](http://www.canonical.org/~kragen/tao-of-programming.html) by [Kragen Javier Sitaker](http://canonical.org/~kragen/)
 
 Translated by Geoffrey James
 

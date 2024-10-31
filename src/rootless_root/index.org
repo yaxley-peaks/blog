@@ -633,8 +633,680 @@ Facades hide the boilerplate.
 A good designer enables upgrades.
 #+end_verse
 Comments and suggestions are solicited; write to [[mailto:cowan@ccil.org][cowan@ccil.org]].
+** 01
+#+begin_verse
+The route you can traverse
+  isn't a static route.
+The name you can dereference
+  isn't a universal name.
 
+Namelessness is the root of everything.
+Names are the mother of everything.
 
+Therefore,
+  the unchanging, seen from outside the box,
+    reveals its inner nature;
+  the unchanging, seen from inside the box,
+    reveals its outer form.
+
+These two are alike in origin,
+  but different in name.
+Their unity is called "the mystery".
+
+Mystery of all mysteries,
+  the gate to all wonders.
+
+[As Le Guin says, a perfect translation
+of this verse is perfectly impossible.]
+#+end_verse
+** 04
+#+begin_verse
+Unix is a cauldron,
+   yet when it's in use,
+   it's somehow never exhausted.
+
+Deep, indeed;
+   it seems to be the source
+   of the ten thousand apps.
+
+Rounding off its sharpness,
+   resolving its confusions,
+   tempering its brilliance,
+   it becomes one with the mundane.
+
+Deep, indeed;
+   it seems likely to endure.
+
+I do not know whose child it is;
+   in imagination, it existed
+   before its creators.
+
+#+end_verse
+** 07
+#+begin_verse
+Design is everlasting,
+content is enduring.
+
+What's the reason that design and content
+  can be everlasting and enduring?
+
+Because they don't exist in themselves;
+  thus they exist forever.
+
+For this reason, the hacker
+  is behind himself
+  and in front of himself.
+
+He rejects his ego and his ego is preserved.
+Is this not because he lacks ego?
+Isn't that why he can perfect himself?
+#+end_verse
+** 08
+#+begin_verse
+The highest Quality is like water.
+
+Water Quality benefits everything,
+  but doesn't compete with them.
+
+(It flows down to everyone's pisshole;
+  so it's very close to the Way.)
+
+A house has Quality if it's level,
+thinking has Quality if it's deep,
+relationships have Quality if they're decent,
+speaking has Quality if it's sincere,
+management has Quality if it's just,
+work has Quality if it's competent,
+action has Quality if it's timely.
+
+Above all, these things don't compete,
+and so they are faultless.
+#+end_verse
+** 09
+#+begin_verse
+Packing in more features,
+  you're not likely to finish in time.
+Pound on sharp tools,
+  they won't last long.
+Code full of chrome and glitz,
+  nobody can secure that.
+
+Money, power, and ego:
+  what follows is disaster.
+Finish the job and move on,
+  that's the way of Unix.
+#+end_verse
+** 15
+#+begin_verse
+The hackers of the Elder Days
+   cultivated mastery:
+   the subtle essence,
+   deep, penetrating, profound, hairy.
+
+And so we cannot understand them.
+
+As a best effort, therefore,
+  I wil describe their appearance:
+
+They were cautious as the elephant,
+  like one making global changes to a codebase.
+
+They were vigilant as the monkey,
+  yes, like a rogue(6) player fearing danger from all quarters.
+
+They were courteous,
+  like ITS turists.
+
+They were egoless, yes,
+  like ice which is just about to crack.
+
+They were solid, yes, like GNU utilities.
+
+They were open, yes, like a newly formatted disk.
+
+They were opaque, like spaghetti code.
+
+Who can make spaghetti code straightforward?
+  It gradually clarifies itself.
+
+Who can make dead code useful again?
+  It gradually rejuvenates itself.
+
+Holding to the Unix Way,
+  one doesn't long
+  for more and more features.
+
+Truly, therefore, one is compact,
+  and can remain stable
+  without gratuitous changes.
+
+[Credit: sbp suggested some improvements]
+#+end_verse
+** 17
+#+begin_verse
+The greatest project leaders
+   hardly make their presence known.
+
+Next best are those
+   who are loved and honored.
+
+Next come those who are feared.
+
+Next the PHBs, who are despised.
+
+The demand to be trusted is not enough;
+  indeed, it finds no trust.
+
+The true leader shuts up and shows us the code.
+
+Then when the tasks are accomplished,
+   and the project is complete,
+   all the contributors say,
+   "We did it ourselves."
+#+end_verse
+** 18
+#+begin_verse
+When the way of Unix is forgotten,
+   "team players" and "professionalism" appear.
+When ego and cleverness dominate,
+   the codebase becomes a pile of cruft.
+When the team has not jelled,
+   "vision statements" and "objective-setting" are all we hear of.
+When the startup is heading for the rocks,
+   the talk is of "company loyalty" and "management by exception".
+
+[Credit: esr provided an early version.]
+#+end_verse
+** 21
+#+begin_verse
+Power's nature is to be great
+  iff it follows the Way.
+The Way is the real thing
+  iff it is waxing,
+  iff it is waning.
+
+Waxing, oh!
+Waning, oh!
+  Its kernel holds the classes.
+Waning, oh!
+Waxing, oh!
+  Its kernel holds the objects.
+Profound, oh!
+Obscure, oh!
+  Its kernel holds the essence.
+
+This essence is very real;
+  its kernel holds the truth.
+
+From now back to the Elder Days,
+  its name has never been lost.
+
+Thus it tracks the common source.
+How do I grok the common source?
+By this.
+
+[Credit: sbp pointed out the lunar imagery.]
+#+end_verse
+** 23
+#+begin_verse
+A few words about the matter:
+
+Flames don't outlast the message,
+Flamewars don't outlast the thread.
+What are the causes of these?
+  The total system.
+
+If the works of the total system
+   can't last forever,
+how much less can anyone else's, in fact?
+
+So do business with Unix people.
+
+Unix people are one with Unix,
+Power people are one with Power,
+(Lusers are one with Lossage.)
+
+Being one with Unix people,
+  Unix must be happy with them.
+Power too is happy with them.
+(Even being one with lusers counts.)
+
+Trusting's not enough, in fact;
+Having's not trusting, either.
+#+end_verse
+** 28
+#+begin_verse
+Knowing its rigor,
+   holding on to its flexibility,
+   the system becomes a river.
+
+When the system becomes a river,
+   stable power will not be lost
+   when looping back to the design stage.
+
+Knowing its clarity,
+   holding on to its profundity,
+   the system becomes a pattern.
+
+Stable power will not go astray
+   when jumping forward to the extreme.
+
+Knowing its pride,
+   holding on to its humility,
+   the system becomes a valley.
+
+When the system becomes a valley,
+   stable power will return to the unwritten code.
+
+When the unwritten code is shattered,
+   it becomes the utilities.
+
+When the hacker makes use of them,
+   then the team leaders last long.
+
+Thus the great carving does not divide.
+#+end_verse
+** 34
+#+begin_verse
+Unix is pervasive!
+  It runs on any platform.
+
+The ten thousand apps rely on it;
+  it gives them life,
+  but doesn't dominate them.
+
+When the job is done,
+   Unix doesn't take credit for it.
+
+It supports the ten thousand apps,
+   but doesn't claim to own them.
+
+Free of imposed paradigms,
+   it can be called "the flexible".
+
+The ten thousand apps run on it,
+   but don't control it,
+   so it can be named "the powerful".
+
+Because it never dominates,
+   it can achieve dominance.
+#+end_verse
+** 39
+#+begin_verse
+Design power was one, thus clear.
+Coding power was one, thus calm.
+Testing power was one, thus energized.
+Refactoring power was one, thus fulfilled.
+Contributor power was one, thus alive.
+Leader power was one, thus world-dominating.
+
+What made it so?
+
+Without design, the clear would be afraid and split open.
+Without coding, the calm would be afraid and shake to pieces.
+Without testing, the energized would be afraid and wither away.
+Without refactoring, the fulfilled would be afraid and be exhausted.
+Without contributors, life would be afraid and perish.
+Without leaders, trust and merit would be afraid and stumble.
+
+For trust, humility is the root.
+For merit, humility is the base class.
+
+The Old Hackers called themselves
+                                        nerds
+                                        dweebs
+                                        geeks
+because humility is the root.
+
+Having the most bells and whistles
+  doesn't make a project the best.
+
+Not "clink clink" like jewels,
+  but "WHAM WHAM" like boulders.
+#+end_verse
+** 40
+#+begin_verse
+Reversal is the movement of Unix;
+Ease is the function of Unix.
+
+The system with its ten thousand apps
+  grow out of what's there;
+What's there grows out of what isn't.
+#+end_verse
+** 41
+#+begin_verse
+Thoughtful hackers hear about Unix
+   and try to use it.
+Ordinary hackers hear about Unix
+   and mess about with it a little.
+Thoughtless hackers hear about Unix
+   and crack wise about it.
+It wouldn't be Unix
+   if there weren't wisecracks about it.
+
+So we establish the following rules:
+
+The most brilliant Unix seems the most obscure.
+Advanced Unix seems like retrocomputing.
+The most powerful code seems like just loops and conditionals.
+The clearest code seems to be opaque.
+The sharpest tools seem inadequate.
+Solid code seems flaky.
+Stable code seems to change.
+
+Great methodologies don't have boundaries.
+Great talent doesn't code fast.
+Great music makes no sound.
+The ideal elephant has no shape.
+The Unix Way has no name.
+
+Yet for just this reason
+   it brings things to perfection.
+#+end_verse
+** 42
+#+begin_verse
+Unix begat the kernel;
+the kernel begat the libraries;
+the libraries begat the utilities;
+the utilities begat the ten thousand apps.
+
+The ten thousand apps
+  carry semantics on their backs,
+  and syntax on their fronts.
+
+This combination makes harmony.
+
+People detest geeks, nerds, and dweebs,
+and yet hackers and wizards use these titles.
+
+Thus, perhaps, things lose but something wins.
+
+What others say, I say too:
+  Tyrants and flamers don't die natural deaths.
+  I make this the foundation of my doctrine.
+#+end_verse
+** 43
+#+begin_verse
+The system's most flexible parts
+  gallop on horseback
+    past the most stable parts.
+
+What isn't there
+  penetrates
+    what has no crevices.
+
+From this I know
+  the benefits
+    of Laziness.
+
+Its teachings are wordless.
+
+The benefits of Laziness
+  are rarely attained
+    in this world.
+
+[For more on Laziness, see http://c2.com/cgi/wiki?LazinessImpatienceHubris ]
+#+end_verse
+** 48
+#+begin_verse
+Seek knowledge every day,
+  you win.
+Seek the Way every day,
+  you lose.
+Lose and lose again,
+  until you reach hacklessness.
+When you're hackless,
+  nothing is left unhacked.
+
+World domination
+  is always achieved egolessly.
+When you're ego-driven,
+  you're never able to dominate the world.
+
+#+end_verse
+** 53
+#+begin_verse
+If I had even a scrap of savvy,
+  I'd follow the main Way.
+
+The main Way is very easy,
+  but others prefer the side roads:
+
+Corporate headquarters
+  is arranged immaculately,
+    but the codebase is a mess,
+      the cubicles are bare.
+
+Dressed in their elegant suits,
+at their side their clever lawyers,
+gorging on food and drink:
+  this is called "robbery and vanity".
+
+Not the eunuch's way,
+  but the Unix way,
+  no less!
+#+end_verse
+** 57
+#+begin_verse
+Use justice to run a project.
+Use surprise to run a company.
+Use non-interference to achieve world domination.
+By what do I know this is so, indeed?
+
+By this:
+
+When the world is full of
+  restrictions and prohibitions,
+  the people grow poorer.
+
+When the companies have
+  many fast-talking lawyers,
+  the world grows more and more troubled.
+
+When the geeks abound in
+  clever techniques,
+  abnormal things more and more occur.
+
+When law and order becomes
+  more and more evident,
+  more robbers and thieves appear.
+
+So the hacker says:
+
+I do without doing,
+  and the people spontaneously transform themselves.
+
+I prefer quiet,
+  and the people are spontaneously fair.
+
+I don't interfere,
+  and the people are spontaneously wealthy.
+
+I am not greedy,
+  and the people are spontaneously honest.
+#+end_verse
+** 60
+#+begin_verse
+Run a big project like you fry a small fish.
+
+By using the Unix Way
+  to control the project,
+  its bugs will lose their power.
+
+Not only will bugs lose their power,
+  but their power can no longer harm the users.
+
+Not only can their power no longer harm the users,
+  but the geeks can no longer harm the users either:
+  truly, neither of the two can do harm.
+
+Thus unified power is restored.
+#+end_verse
+** 63
+#+begin_verse
+Design without designing,
+implement without implementing,
+debug without debugging.
+
+The great lessens (and the small grows);
+the many become few (and the few become many).
+
+Respond to ill-treatment
+  with the Power of the Unix Way.
+
+Tackle difficult projects while they're easy;
+manage big projects while they're small.
+
+In this world,
+  difficult problems surely arise
+  from what is easy;
+in this world,
+  big systems surely begin
+  in what is small.
+
+Thus the hacker doesn't set big goals,
+  but can accomplish big results.
+  (Truly, frivolous promises lack sincerity.)
+
+What's too easy surely has many difficulties.
+
+Thus the hacker takes difficulties seriously,
+  and ultimately has no difficulties, indeed.
+#+end_verse
+** 65
+#+begin_verse
+The ancient hackers
+  who skillfully followed the Way
+  didn't try to geekify the users,
+  but to make things simple for them.
+
+Users are difficult to guide
+  when they are too geeky.
+
+Using geekiness to guide a community
+  is the community's ruin;
+using simplicity to guide a community
+  is the community's blessing.
+
+Knowing these two things
+  is knowing the basic pattern.
+
+Always knowing the basic pattern,
+  this is called "primal power".
+
+Primal power is deep, indeed!
+  distant, indeed!
+
+Sharing things, they return:
+  this is the great harmony.
+#+end_verse
+** 67
+#+begin_verse
+Everybody says that my Great Way seems worthless.
+In fact, it's only great *because* it seems worthless.
+If it *were* worthless, it would have disappeared long ago!
+
+I have three treasures: preserve and protect them.
+  The first is called "love",
+  the second is called "moderation",
+  the third is called "not daring to have invented it all first".
+
+Love, I say, can be brave;
+moderation, I say, can be generous;
+not daring to have invented it all first
+  can develop high-quality tools.
+
+Nowadays people discard love and courage,
+  discard moderation and generosity,
+  discard following and leading --
+    that way lies death, indeed.
+
+With love, truly:
+  struggle brings success,
+  defense brings endurance.
+
+Heaven helps those who use love,
+  guards them.
+#+end_verse
+** 68
+#+begin_verse
+Skillful leaders aren't bossy.
+Skillful geeks don't get angry.
+Skillful debaters don't join issue.
+Skillful managers put themselves below their developers.
+
+This is called "the power of not pushing it";
+  this is called "using people's strengths";
+  this is called "matching the perfection of the sky".
+#+end_verse
+** 71
+#+begin_verse
+From knowing to not-knowing,
+  that is best.
+
+From not-knowing to knowing,
+  that's a bug.
+
+Truly, only the very buggy
+  is in this way not a bug.
+
+Hackers aren't buggy
+  because they are very buggy
+  and therefore not buggy.
+#+end_verse
+** 72
+#+begin_verse
+When people don't fear threats,
+  then the great FUD arrives.
+
+Don't restrict the user's space;
+don't burden the user's space.
+
+Truly,
+  when you are not excessively annoying,
+  you are not easily annoyed.
+
+Truly the hacker
+  loves himself but doesn't see himself,
+  takes care of himself but doesn't exalt himself.
+
+Therefore he discards that and chooses this.
+#+end_verse
+** 79
+#+begin_verse
+Reconcile a great flamewar,
+  there will be residual grudges.
+  How can this be made better?
+
+The geek who licenses unilaterally,
+  and doesn't make demands on others,
+  has the power to insist on his claims.
+
+The Unix Way plays no favorites,
+  but is always on the side of the good people.
+#+end_verse
+** 81
+#+begin_verse
+Useful features aren't glitzy,
+glitzy features aren't useful.
+
+True hackers aren't flamers;
+flamers aren't true hackers.
+
+Programmers aren't language lawyers;
+language lawyers aren't programmers.
+
+Hackers aren't software hoarders:
+    the more they do for others,
+  the more they have for themselves;
+  the more they give to others,
+    the more they keep for themselves.
+
+The way of Unix is sharp,
+  but doesn't injure;
+the hacker's way is to serve
+  and not to strive.
+#+end_verse
 * AI Koans
 :PROPERTIES:
 :CUSTOM_ID: ai-koans
