@@ -1,7 +1,7 @@
 ---
 layout: base.liquid
 tags: post
-ptitle: "Rootless Root"
+ptitle: "Rootless Root, &c"
 title: "The Unix Koans of Master Foo"
 ---
 
