@@ -1,6 +1,6 @@
 #+options: toc:nil
 #+title: The Unix Koans of Master Foo
-*** To which are also appended, other supplementary works that appear in the text.
+*** To which are also appended, other supplementary works that are referenced in the text.
   :PROPERTIES:
   :UNNUMBERED: notoc
 :CUSTOM_ID: to-which-are-also-appended-other-supplementary-works-that-appear-in-the-text.
@@ -1497,8 +1497,7 @@ Editor's Note:
 #+begin_quote
 Usually found at [[http://www.guild.uwa.edu.au/users/greg/][guild.uwa.edu.au]] by greg(?)
 #+end_quote
-** Tales of the Master
-*** In which the Master solves a problem
+** In which the Master solves a problem
 *Customer*: My dissertation is due tomorrow and the computer is sayingthat I
 can't read the disk? WHAT THE HELL IS WRONG? WHAT SHOULD I DO?STOP PLAYING
 TETRIS AND LISTEN TO ME, YOU GUILD PARASITE!
@@ -1528,7 +1527,7 @@ MORON ARE YOU?
 
 *Zen-Master Greg*: You are welcome, misguided one. This matter will trouble you
 no more.
-*** In which the Master takes a hands-on approach.
+** In which the Master takes a hands-on approach.
  *Customer*: Hey, I've got a problem. Are you listening to me? Are you even
  awake? Hello? I've got a problem.
 
@@ -1654,7 +1653,7 @@ luser's mouth)
 *Zen-Master Greg*: The problem will not recur.
 
 *And the luser was enlightened*
-*** In which the Master resorts to mantras.
+** In which the Master resorts to mantras.
 *Zen-Master Greg*: Bow down before the one you serve.
 
 *Customer*: Um, excuse me?
@@ -1847,7 +1846,7 @@ more from storage.
 
 *Sage*: Truly, my child. Turn up the mantras.
 
-*** In which the Master instructs the young.
+** In which the Master instructs the young.
 #+begin_quote
 
 In Chaos and riots,
@@ -2105,7 +2104,7 @@ him about you doesn't count?
 
 *And when the lusers came back the next day, they became enlightened, and did
 not return*
-*** Descent into Saffron Darkness.
+** Descent into Saffron Darkness.
 #+begin_quote
 Slight format change with this one, because it's more of a trailer for the next
 one (#5) than a new one in itself, and I wanted to muck around with things a
@@ -2200,7 +2199,7 @@ dervish of destruction.]
 [Music suddenly ceases, there's a close up shot of The Master (with a robe now
 pretty-much red and brown), and he simply asks, "Do you know what the Buddha
 looks like?". Cut to black.]
-*** In Which The Master Lays Down The Law (Part One)
+** In Which The Master Lays Down The Law (Part One)
 #+begin_quote
 *Mike:* Hi Greg, how's it going?
 

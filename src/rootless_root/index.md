@@ -4,8 +4,7 @@ tags: post
 ptitle: "Rootless Root"
 title: "The Unix Koans of Master Foo"
 ---
-
-### To which are also appended, other supplementary works that appear in the text.
+### To which are also appended, other supplementary works that are referenced in the text.
 
 31/10/2024
 
@@ -13,74 +12,79 @@ title: "The Unix Koans of Master Foo"
 # Table of Contents
 
 1.  [Rootless Root](#rootless-root)
-    1.  [Editor&rsquo;s Introduction](#orgb60ea0f)
-    2.  [Master Foo and the Ten Thousand Lines](#org503e1cb)
-    3.  [Master Foo and the Script Kiddie](#orgf706a6b)
-    4.  [Master Foo Discourses on the Two Paths](#org2763e25)
-    5.  [Master Foo and the Methodologist](#org7790fa2)
-    6.  [Master Foo Discourses on the Graphical User Interface](#orgab9f173)
-    7.  [Master Foo and the Old Hand](#org792f961)
-    8.  [Master Foo and the Shell Tools](#orgbeeb4f5)
-    9.  [Master Foo and the Nervous Novice](#orgc9ac461)
-    10. [Master Foo and the Recruiter](#orgc976df2)
-    11. [Master Foo Discourses on Returning to Windows](#org74186ae)
-    12. [Master Foo and the Unix Zealot](#org5c9ae6c)
-    13. [Master Foo Discourses on the Unix-Nature](#org164808e)
-    14. [Master Foo and the MCSE](#org8e13dc1)
-    15. [Master Foo and the End User](#orga5ddc13)
-    16. [Master Foo and the Programming Prodigy](#orgab187e4)
-    17. [Master Foo and the Hardware Designer](#orgeec0980)
+    1.  [Editor&rsquo;s Introduction](#org2e5dba8)
+    2.  [Master Foo and the Ten Thousand Lines](#orgea2b055)
+    3.  [Master Foo and the Script Kiddie](#orgcc1df7d)
+    4.  [Master Foo Discourses on the Two Paths](#orgd710ee0)
+    5.  [Master Foo and the Methodologist](#org6668ed2)
+    6.  [Master Foo Discourses on the Graphical User Interface](#org83dc86e)
+    7.  [Master Foo and the Old Hand](#orga78f79a)
+    8.  [Master Foo and the Shell Tools](#orgebe1d90)
+    9.  [Master Foo and the Nervous Novice](#org293fd5d)
+    10. [Master Foo and the Recruiter](#org6b6a4fa)
+    11. [Master Foo Discourses on Returning to Windows](#org52eb8c8)
+    12. [Master Foo and the Unix Zealot](#org998fa77)
+    13. [Master Foo Discourses on the Unix-Nature](#org9f74aae)
+    14. [Master Foo and the MCSE](#orgea34a8e)
+    15. [Master Foo and the End User](#orgdd12471)
+    16. [Master Foo and the Programming Prodigy](#org84f64ab)
+    17. [Master Foo and the Hardware Designer](#orgde1654e)
 2.  [The Unix Power Classic](#the-unix-power-clasic)
-    1.  [The Unix Power Classic: A book about the Unix Way and its power](#orgd383ce1)
-    2.  [01](#org6542d21)
-    3.  [04](#org213c999)
-    4.  [07](#orgf0cdba0)
-    5.  [08](#org073083e)
-    6.  [09](#orge977da5)
-    7.  [15](#orgd66ae73)
-    8.  [17](#orgdebb40e)
-    9.  [18](#orgc2c003d)
-    10. [21](#org70fae76)
-    11. [23](#org0373a95)
-    12. [28](#orge62eb99)
-    13. [34](#orgd683a46)
-    14. [39](#org93688aa)
-    15. [40](#orgbba2497)
-    16. [41](#orgd08485c)
-    17. [42](#orgb9f413e)
-    18. [43](#orgd500028)
-    19. [48](#org3489da4)
-    20. [53](#org53d03fc)
-    21. [57](#orga4a08ce)
-    22. [60](#orgda9c134)
-    23. [63](#orgc3133eb)
-    24. [65](#org1ba8614)
-    25. [67](#org812a2c3)
-    26. [68](#org022bdfc)
-    27. [71](#org17d57ee)
-    28. [72](#org1fbc69b)
-    29. [79](#orge56e454)
-    30. [81](#orge6404bd)
+    1.  [The Unix Power Classic: A book about the Unix Way and its power](#orge3143f4)
+    2.  [01](#orge5b797e)
+    3.  [04](#org8383fc8)
+    4.  [07](#org0df8b87)
+    5.  [08](#org4f35a70)
+    6.  [09](#org9e337a7)
+    7.  [15](#org688d939)
+    8.  [17](#org0c118f2)
+    9.  [18](#orgcc0c0d7)
+    10. [21](#org76e610f)
+    11. [23](#org3e581c3)
+    12. [28](#orge836068)
+    13. [34](#orgedfe79b)
+    14. [39](#org5529891)
+    15. [40](#org7c435f3)
+    16. [41](#org86203f5)
+    17. [42](#org7300439)
+    18. [43](#org7379b0a)
+    19. [48](#org7be1e15)
+    20. [53](#orgf7c00ac)
+    21. [57](#org9e3bcbe)
+    22. [60](#org2138c7c)
+    23. [63](#org623dd52)
+    24. [65](#org6e4b52b)
+    25. [67](#orgad92d00)
+    26. [68](#org8493276)
+    27. [71](#orgbbf51bd)
+    28. [72](#orgdcb5415)
+    29. [79](#org8651acd)
+    30. [81](#orgc8cc456)
 3.  [AI Koans](#ai-koans)
-    1.  [Tom Knight and the Lisp Machine](#org97a6622)
-    2.  [Moon instructs a student](#orgb92c283)
-    3.  [Sussman attains enlightenment In the days when Sussman was a novice, Minsky](#orga79764c)
-    4.  [Drescher and the toaster](#org42fe08f)
+    1.  [Tom Knight and the Lisp Machine](#org95be816)
+    2.  [Moon instructs a student](#orgeba62c0)
+    3.  [Sussman attains enlightenment In the days when Sussman was a novice, Minsky](#orgeaf01c1)
+    4.  [Drescher and the toaster](#org2a3de40)
 4.  [LoginTaka](#logintaka)
-    1.  [The LoginTaka](#org74d197f)
-    2.  [Annotations](#org7ddad96)
+    1.  [The LoginTaka](#org0eb857d)
+    2.  [Annotations](#org437eb6e)
 5.  [Tales of Zen Master Greg](#tales-of-zen-master-greg)
-    1.  [Tales of the Master](#orgd12ca88)
+    1.  [In which the Master solves a problem](#org3662de8)
+    2.  [In which the Master takes a hands-on approach.](#orga22f1a6)
+    3.  [In which the Master resorts to mantras.](#org91deb71)
+    4.  [In which the Master instructs the young.](#org6e97d00)
+    5.  [Descent into Saffron Darkness.](#orgff40ef2)
+    6.  [In Which The Master Lays Down The Law (Part One)](#orgce7d235)
 6.  [The Tao of Programming](#the-tao-of-programming)
-    1.  [Book 1 &#x2013; The Silent Void](#org32db34d)
-    2.  [Book 2 &#x2013; The Ancient Masters](#orge4d75bf)
-    3.  [Book 3 &#x2013; Design](#org8b82d4a)
-    4.  [Book 4 &#x2013; Coding](#orgf6b1fff)
-    5.  [Book 5 &#x2013; Maintenance](#org6faaab3)
-    6.  [Book 6 &#x2013; Management](#org27e5d68)
-    7.  [Book 7 &#x2013; Corporate Wisdom](#org0fca047)
-    8.  [Book 8 &#x2013; Hardware and Software](#orga46bf43)
-    9.  [Book 9 &#x2013; Epilogue](#orgb07518c)
+    1.  [Book 1 &#x2013; The Silent Void](#org1c7a19c)
+    2.  [Book 2 &#x2013; The Ancient Masters](#org78cc9de)
+    3.  [Book 3 &#x2013; Design](#org9cbee4c)
+    4.  [Book 4 &#x2013; Coding](#org2c9a1c2)
+    5.  [Book 5 &#x2013; Maintenance](#orgba2f6b7)
+    6.  [Book 6 &#x2013; Management](#orgfe41272)
+    7.  [Book 7 &#x2013; Corporate Wisdom](#org20ad3c4)
+    8.  [Book 8 &#x2013; Hardware and Software](#org97bc05e)
+    9.  [Book 9 &#x2013; Epilogue](#org3128d50)
 
 
 # Rootless Root
@@ -1744,10 +1748,7 @@ Editor&rsquo;s Note:
 > Usually found at [guild.uwa.edu.au](http://www.guild.uwa.edu.au/users/greg/) by greg(?)
 
 
-## Tales of the Master
-
-
-### In which the Master solves a problem
+## In which the Master solves a problem
 
 **Customer**: My dissertation is due tomorrow and the computer is sayingthat I
 can&rsquo;t read the disk? WHAT THE HELL IS WRONG? WHAT SHOULD I DO?STOP PLAYING
@@ -1780,7 +1781,7 @@ MORON ARE YOU?
 no more.
 
 
-### In which the Master takes a hands-on approach.
+## In which the Master takes a hands-on approach.
 
 **Customer**: Hey, I&rsquo;ve got a problem. Are you listening to me? Are you even
 awake? Hello? I&rsquo;ve got a problem.
@@ -1909,7 +1910,7 @@ luser&rsquo;s mouth)
 **And the luser was enlightened**
 
 
-### In which the Master resorts to mantras.
+## In which the Master resorts to mantras.
 
 **Zen-Master Greg**: Bow down before the one you serve.
 
@@ -2104,7 +2105,7 @@ more from storage.
 **Sage**: Truly, my child. Turn up the mantras.
 
 
-### In which the Master instructs the young.
+## In which the Master instructs the young.
 
 > 
 > 
@@ -2365,7 +2366,7 @@ him about you doesn&rsquo;t count?
 not return**
 
 
-### Descent into Saffron Darkness.
+## Descent into Saffron Darkness.
 
 > Slight format change with this one, because it&rsquo;s more of a trailer for the next
 > one (#5) than a new one in itself, and I wanted to muck around with things a
@@ -2462,7 +2463,7 @@ pretty-much red and brown), and he simply asks, &ldquo;Do you know what the Budd
 looks like?&rdquo;. Cut to black.]
 
 
-### In Which The Master Lays Down The Law (Part One)
+## In Which The Master Lays Down The Law (Part One)
 
 > **Mike:** Hi Greg, how&rsquo;s it going?
 > 
