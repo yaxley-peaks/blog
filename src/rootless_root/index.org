@@ -1313,7 +1313,7 @@ the hacker's way is to serve
 :END:
 Editor's Note:
 #+begin_quote
-An appendix to the Jargon file, usually found at [[http://www.catb.org/~esr//jargon/html/koans.html][catb.org]] by [[ http://www.catb.org/~esr/][ESR]]
+An appendix to the Jargon file, usually found at [[http://www.catb.org/~esr//jargon/html/koans.html][catb.org]] by [[http://www.catb.org/~esr/][ESR]]
 #+end_quote
 These are some of the funniest examples of a genre of jokes told at the MIT AI
 Lab about various noted hackers. The original koans were composed by Danny
@@ -1365,7 +1365,7 @@ saying: "I wish the toaster to be happy, too."
 
 Editor's Note:
 #+begin_quote
-Usually found at [[http://www.catb.org/~esr//faqs/loginataka.html][catb.org]] by [[ http://www.catb.org/~esr/][ESR]]
+Usually found at [[http://www.catb.org/~esr//faqs/loginataka.html][catb.org]] by [[http://www.catb.org/~esr/][ESR]]
 #+end_quote
 ** The LoginTaka
 *** Speak, O Guru: How can I become a Unix Wizard?
@@ -1425,12 +1425,70 @@ Most of this (up to "(In this wise shalt thou travel the Way of the Child.)") wa
 For those of you who are not native English speakers, the entirety is written in imitation of the Early Modern English of the late 1500s and early 1600s, the language of the King James Bible. The influence of the King James Bible is such that its dialect has retained connotations of majesty, solemnity, and religious authority. Holy scriptures from other languages are, therefore, often translated into a KJB-like pseudo-archaic English rather than following modern usage.
 Parts of this border on obsolescence now. Portable C And Unix Systems Programming has been out of print for a long time, but the Lovecraft joke was too funny to lose. Life With Unix is history, too, but the other references are still good. In 1998 I changed references to "freeware" and "free software" to "open source". Otherwise changes have been pretty minor.
 - "Loginataka"
-  The title of the document is a play on the name of the Tripitaka, an early compilation of Buddhist scriptures.
+  - The title of the document is a play on the name of the Tripitaka, an early
+    compilation of Buddhist scriptures.
 - "Oh Nobly Born:"
-  The formulaic use of the salutation is intended to be reminiscent of the Bardo Thödöl — the Tibetan Book Of The Dead.
+  - The formulaic use of the salutation is intended to be reminiscent of the
+    Bardo Thödöl — the Tibetan Book Of The Dead.
 - "the Name of O'Reilly"
-  A phrase rich with meaning in the clan system of old Scotland and Ireland. It might refer to the reputation of the clan O'Reilly, or to the person of the clan chief. The implied image is of Tim O'Reilly, be-tartaned, surrounded by louring Celts bristling with weapons. It's worth noting that O'Reilly and Associates was pretty new at the game when I wrote this; it was over the following five years that they built up their remarkable reputation as friends of the hacker community.
-
+  - A phrase rich with meaning in the clan system of old Scotland and Ireland.
+    It might refer to the reputation of the clan O'Reilly, or to the person of
+    the clan chief. The implied image is of Tim O'Reilly, be-tartaned,
+    surrounded by louring Celts bristling with weapons. It's worth noting that
+    O'Reilly and Associates was pretty new at the game when I wrote this; it was
+    over the following five years that they built up their remarkable reputation
+    as friends of the hacker community.
+- "attaining the arcane Knowledge and Conversation"
+  - This is a reference to the occultism of Alesteir Crowley. He wrote of
+    attaining the "Knowledge and Conversation of the Holy Guardian Angel" as the
+    central aim of Thelemic mysticism, and added that he had chosen that term
+    for it because it was the most absurd locution he could think of.
+- "the Pure Light"
+  - In Buddhist mysticism, the Pure Light of the Void ("void" being the usual
+    English translation of Sanskrit sunyata) is a frequent metaphor for the
+    wisdom that comes from realizing the emptiness of all things.
+- "the Berkelian Way"
+  - If you caught the previous reference to sunyata, you might also recall that
+    Bishop Berkeley famously denied the existence of objective reality.
+- "the mad and doomed Malvernite"
+  - This is a play on H.P. Lovecraft's "mad and doomed Arab", Abdul al-Hazred,
+    the author of the Necronomicon. And the actual doomed Malvernite
+    was...er...me, in 1987. The "world of unknowing man misnames" because I
+    wrote the book, but was pressured into allowing it to be published under a
+    corporate pseudonym.
+- "feed the other half of thy head"
+  - Cue Grace Slick, in the last lines of Jefferson Airplane's White Rabbit, a
+    song about a hallucinogenic drug experience: "Remember...what the dormouse
+    said! FEED YOUR HEAD! FEED YOUR HEAD!"
+- "the Way of the Camel"
+  - The references to the Ways of the Camel, Lion, and Child are to a mystical
+    rant in Nietzsche's Thus Spoke Zarathustra.
+- "Divine Foolery of the Hacker"
+  - The image of the Fool of God is a pervasive one in world mysticism. I was
+    thinking here especially of the Fool card in the Rider-Waite Tarot, showing
+    a clown walking or capering at the edge of a precipice.
+- "Great Work"
+  - In alchemy, the production of the Philosopher's Stone that could transmute
+    lead to gold, confer immortality. In some mystical interpretations of
+    alchemy, the transmutation of the adept's own soul. Modern Hermetic
+    occultism generalizes the second meaning.
+- "Desert of Delay"
+  - This part is intended to recall the landscapes in Bunyan's moral allegory
+    Pilgrim's Progress.
+- "cunning of the Serpent and the courage of the Tiger"
+  - In the New Testament of the Christian Bible, Matthew 10:16 exhorts
+    Christians to be as cunning as serpents and as harmless as doves. This in
+    turn refers to the "cunning of the serpent" in the Old Testament Book of
+    Genesis.
+- "if thou travellest with high heart and pure intention"
+  - In the Egyptian Book Of The Dead, "I have travelled here with high heart and
+    pure intention" is part of the ritual one must speak to pass the Weigher of
+    Souls.
+- "Shantih!"
+  - "Shanti!" is Sanskrit and means "Peace!" I deliberately used the older
+    transliteration "Shantih!" because it's found at the end of T.S. Eliot's
+    poem The Wasteland. The threefold repetition is a form of invocatory magic
+    closely equivalent to the Catholic ritual blessing "Peace be with you!"
 * Tales of Zen Master Greg
 :PROPERTIES:
 :CUSTOM_ID: tales-of-zen-master-greg
