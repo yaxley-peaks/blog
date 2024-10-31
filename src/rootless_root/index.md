@@ -13,74 +13,74 @@ title: "The Unix Koans of Master Foo"
 # Table of Contents
 
 1.  [Rootless Root](#rootless-root)
-    1.  [Editor&rsquo;s Introduction](#org461b850)
-    2.  [Master Foo and the Ten Thousand Lines](#orgeb657cb)
-    3.  [Master Foo and the Script Kiddie](#org838dc7d)
-    4.  [Master Foo Discourses on the Two Paths](#org9f5d705)
-    5.  [Master Foo and the Methodologist](#org09c6321)
-    6.  [Master Foo Discourses on the Graphical User Interface](#orgb26ec9c)
-    7.  [Master Foo and the Old Hand](#org660fe27)
-    8.  [Master Foo and the Shell Tools](#orgaa8ce6b)
-    9.  [Master Foo and the Nervous Novice](#orgd2d9ea1)
-    10. [Master Foo and the Recruiter](#org30b1be6)
-    11. [Master Foo Discourses on Returning to Windows](#org3d8b338)
-    12. [Master Foo and the Unix Zealot](#org8363877)
-    13. [Master Foo Discourses on the Unix-Nature](#org3f2bf87)
-    14. [Master Foo and the MCSE](#orga750703)
-    15. [Master Foo and the End User](#orgbd7e863)
-    16. [Master Foo and the Programming Prodigy](#org4cfb73b)
-    17. [Master Foo and the Hardware Designer](#org4aae77f)
+    1.  [Editor&rsquo;s Introduction](#orgb60ea0f)
+    2.  [Master Foo and the Ten Thousand Lines](#org503e1cb)
+    3.  [Master Foo and the Script Kiddie](#orgf706a6b)
+    4.  [Master Foo Discourses on the Two Paths](#org2763e25)
+    5.  [Master Foo and the Methodologist](#org7790fa2)
+    6.  [Master Foo Discourses on the Graphical User Interface](#orgab9f173)
+    7.  [Master Foo and the Old Hand](#org792f961)
+    8.  [Master Foo and the Shell Tools](#orgbeeb4f5)
+    9.  [Master Foo and the Nervous Novice](#orgc9ac461)
+    10. [Master Foo and the Recruiter](#orgc976df2)
+    11. [Master Foo Discourses on Returning to Windows](#org74186ae)
+    12. [Master Foo and the Unix Zealot](#org5c9ae6c)
+    13. [Master Foo Discourses on the Unix-Nature](#org164808e)
+    14. [Master Foo and the MCSE](#org8e13dc1)
+    15. [Master Foo and the End User](#orga5ddc13)
+    16. [Master Foo and the Programming Prodigy](#orgab187e4)
+    17. [Master Foo and the Hardware Designer](#orgeec0980)
 2.  [The Unix Power Classic](#the-unix-power-clasic)
-    1.  [The Unix Power Classic: A book about the Unix Way and its power](#org54830e1)
-    2.  [01](#org5f6ac14)
-    3.  [04](#org945f13d)
-    4.  [07](#org84ccf97)
-    5.  [08](#org09598ca)
-    6.  [09](#orga5b50a3)
-    7.  [15](#org538edaf)
-    8.  [17](#org39d9fd1)
-    9.  [18](#org7a957ff)
-    10. [21](#org3fb719a)
-    11. [23](#org65bfeca)
-    12. [28](#orgb8f5429)
-    13. [34](#orgbb2fdcf)
-    14. [39](#orga6f588f)
-    15. [40](#org69c441d)
-    16. [41](#org53320c3)
-    17. [42](#orgdc9e3af)
-    18. [43](#orgdf8155f)
-    19. [48](#org9ba4d0b)
-    20. [53](#org064e0ca)
-    21. [57](#org3f3ca08)
-    22. [60](#org434efdb)
-    23. [63](#org87d0bd9)
-    24. [65](#orgc698a68)
-    25. [67](#orgeeb920f)
-    26. [68](#orgf61a38f)
-    27. [71](#org1861016)
-    28. [72](#org73f088c)
-    29. [79](#org56a6084)
-    30. [81](#orgfec59bd)
+    1.  [The Unix Power Classic: A book about the Unix Way and its power](#orgd383ce1)
+    2.  [01](#org6542d21)
+    3.  [04](#org213c999)
+    4.  [07](#orgf0cdba0)
+    5.  [08](#org073083e)
+    6.  [09](#orge977da5)
+    7.  [15](#orgd66ae73)
+    8.  [17](#orgdebb40e)
+    9.  [18](#orgc2c003d)
+    10. [21](#org70fae76)
+    11. [23](#org0373a95)
+    12. [28](#orge62eb99)
+    13. [34](#orgd683a46)
+    14. [39](#org93688aa)
+    15. [40](#orgbba2497)
+    16. [41](#orgd08485c)
+    17. [42](#orgb9f413e)
+    18. [43](#orgd500028)
+    19. [48](#org3489da4)
+    20. [53](#org53d03fc)
+    21. [57](#orga4a08ce)
+    22. [60](#orgda9c134)
+    23. [63](#orgc3133eb)
+    24. [65](#org1ba8614)
+    25. [67](#org812a2c3)
+    26. [68](#org022bdfc)
+    27. [71](#org17d57ee)
+    28. [72](#org1fbc69b)
+    29. [79](#orge56e454)
+    30. [81](#orge6404bd)
 3.  [AI Koans](#ai-koans)
-    1.  [Tom Knight and the Lisp Machine](#orga3355b5)
-    2.  [Moon instructs a student](#org28aab92)
-    3.  [Sussman attains enlightenment In the days when Sussman was a novice, Minsky](#orga03e479)
-    4.  [Drescher and the toaster](#orgae6da96)
+    1.  [Tom Knight and the Lisp Machine](#org97a6622)
+    2.  [Moon instructs a student](#orgb92c283)
+    3.  [Sussman attains enlightenment In the days when Sussman was a novice, Minsky](#orga79764c)
+    4.  [Drescher and the toaster](#org42fe08f)
 4.  [LoginTaka](#logintaka)
-    1.  [The LoginTaka](#org0864d8b)
-    2.  [Annotations](#orgb6005b0)
+    1.  [The LoginTaka](#org74d197f)
+    2.  [Annotations](#org7ddad96)
 5.  [Tales of Zen Master Greg](#tales-of-zen-master-greg)
-    1.  [Tales of the Master](#org6944bb8)
+    1.  [Tales of the Master](#orgd12ca88)
 6.  [The Tao of Programming](#the-tao-of-programming)
-    1.  [Book 1 &#x2013; The Silent Void](#orgdd8992d)
-    2.  [Book 2 &#x2013; The Ancient Masters](#org765566e)
-    3.  [Book 3 &#x2013; Design](#orgbc683e6)
-    4.  [Book 4 &#x2013; Coding](#orgd35fc64)
-    5.  [Book 5 &#x2013; Maintenance](#org3e17f1d)
-    6.  [Book 6 &#x2013; Management](#orge9b33a6)
-    7.  [Book 7 &#x2013; Corporate Wisdom](#org32a88ca)
-    8.  [Book 8 &#x2013; Hardware and Software](#org5d02281)
-    9.  [Book 9 &#x2013; Epilogue](#orgaa91dd1)
+    1.  [Book 1 &#x2013; The Silent Void](#org32db34d)
+    2.  [Book 2 &#x2013; The Ancient Masters](#orge4d75bf)
+    3.  [Book 3 &#x2013; Design](#org8b82d4a)
+    4.  [Book 4 &#x2013; Coding](#orgf6b1fff)
+    5.  [Book 5 &#x2013; Maintenance](#org6faaab3)
+    6.  [Book 6 &#x2013; Management](#org27e5d68)
+    7.  [Book 7 &#x2013; Corporate Wisdom](#org0fca047)
+    8.  [Book 8 &#x2013; Hardware and Software](#orga46bf43)
+    9.  [Book 9 &#x2013; Epilogue](#orgb07518c)
 
 
 # Rootless Root
@@ -1778,6 +1778,1034 @@ MORON ARE YOU?
 
 **Zen-Master Greg**: You are welcome, misguided one. This matter will trouble you
 no more.
+
+
+### In which the Master takes a hands-on approach.
+
+**Customer**: Hey, I&rsquo;ve got a problem. Are you listening to me? Are you even
+awake? Hello? I&rsquo;ve got a problem.
+
+**Zen-Master Greg**: One moment while I contemplate the infinite.
+
+**Customer**: But you&rsquo;re playing tetris?
+
+**Zen-Master Greg**: The ant looks, but it does not see. What is the nature of
+this so-called problem?
+
+**Customer**: Look, I&rsquo;ve got a problem, okay? Can you just come and help? Now?
+
+**Zen-Master Greg**: Truly you may be said to have a problem. But I despair of
+solving it. Let us examine the symptoms.
+
+**Customer**: See, it doesn&rsquo;t work. I type and nothing happens.
+
+**Zen-Master Greg**: Truly a puzzling situation. Tell me, unlearned one, what does
+it say on the mystic screen?
+
+**Customer**: It says &ldquo;please insert the disk: Untitled&rdquo;. But what&rsquo;s wrong?
+
+**Zen-Master Greg**: My son, have you chanced to remove a disk from the drive?
+
+**Customer**: Yes.
+
+**Zen-Master Greg**: And have you chosen to favour this disk with a name?
+
+**Customer**: Um, no.
+
+**Zen-Master Greg**: Let us then insert this disk, in the hope that the hunger of
+the computer may be satisfied.
+
+**Customer**: Okay, if you say so. Hey, it works!
+
+**Zen-Master Greg**: Truly, your comprehension is beyond understanding.
+
+(5 minutes pass)
+
+**Customer**: Hi, it&rsquo;s me again! Remember?
+
+**Zen-Master Greg**: The memory is as a blade in my soul.
+
+**Customer**: Can you come and help me? It&rsquo;s stopped working again.
+
+**Zen-Master Greg**: And did it in any way indicate distress?
+
+**Customer**: Well, it did say something on the screen.
+
+**Zen-Master Greg**: Tell me, grasshopper, what it happens to say on the screen.
+
+**Customer**: You know, the damn thing said the same as last time.
+
+**Zen-Master Greg**: And did you insert the disk?
+
+**Customer**: No. Should I try that?
+
+**Zen-Master Greg**: The fool must be beaten with a stick, for an intelligent
+person the merest hint is sufficient.
+
+**Customer**: Yeah, well. I&rsquo;ll try it anyway. Hey! It worked!
+
+(5 more minutes go by)
+
+**Customer**: Hey buddy?
+
+**Zen-Master Greg**: It is a fool who walks unknowing over the abyss.
+
+**Customer**: Look, cut the poetry. I&rsquo;ve got a problem. Come and help.
+
+**Zen-Master Greg**: You have followed the mystic rituals?
+
+**Customer**: It just doesn&rsquo;t work. Fix it.
+
+**Zen-Master Greg**: The ox complains not of its burden. Am I less than an ox?
+
+**Customer**: See. Nothing I type comes up.
+
+**Zen-Master Greg**: Truly a vexing problem. A most strenuous solution is called
+for. Let us perform the ritual of re-boot.
+
+**Customer**: What&rsquo;s that?
+
+**Zen-Master Greg**: Some things one may not know.
+
+**Customer**: Hey, what&rsquo;s that whirring noise?
+
+**Zen-Master Greg**: Tell me, my son. Did you try to fix the computer?
+
+**Customer**: Yes.
+
+**Zen-Master Greg**: And did you try to fix it by sating its hunger?
+
+**Customer**: Yeah, so?
+
+**Zen-Master Greg**: And was there not already a disk in the drive when you tried
+this?
+
+**Customer**: Yeah, but that&rsquo;s what we did before.
+
+**Zen-Master Greg**: One does not achieve enlightenment by copying the actions of
+the master.
+
+**Customer**: Cut the crap. I&rsquo;m working on something that&rsquo;s due in in an hour and
+the damn computers keep breaking down. Can you begin to do your job and make
+sure that nothing else goes wrong?
+
+**Zen-Master Greg**: For the master, all things are possible.
+
+**Customer**: Well do it then. God knows, we&rsquo;re paying enough for all of this
+crap. And for your salary.
+
+**Zen-Master Greg**: I will prevent further problems.
+
+**Customer**: Well about damn time! AAAARRRRGGGGHHHHH!
+
+(sound of the Master drawing a hatchet from beneath his robes and chopping off
+the customer&rsquo;s hand at the wrist, then picking it up and stuffing it into the
+luser&rsquo;s mouth)
+
+**Customer**: AAAAAAAARRRRRRRRRGGGGGGGHHHHHHH <SPTH!>
+
+**Zen-Master Greg**: The problem will not recur.
+
+**And the luser was enlightened**
+
+
+### In which the Master resorts to mantras.
+
+**Zen-Master Greg**: Bow down before the one you serve.
+
+**Customer**: Um, excuse me?
+
+**Zen-Master Greg**: You&rsquo;re going to get what you deserve.
+
+**Customer**: Ah, hello?
+
+**Zen-Master Greg**: Greetings child. Let me turn down the mantras. Now, what is
+your request?
+
+**Customer**: I have a problem.
+
+**Zen-Master Greg**: This is so. But what do <span class="underline">you</span> believe your problem is?
+
+**Customer**: Well what do you think it is?
+
+**Zen-Master Greg**: You are not ready for the knowledge.
+
+**Customer**: Oh. Okay. My disk is stuck.
+
+**Zen-Master Greg**: And?
+
+**Customer**: What do you mean, &ldquo;and&rdquo;.
+
+**Zen-Master Greg**: I seek the completed statement. I wonder what the disk has to
+do with me.
+
+**Customer**: I want you to fix it.
+
+**Zen-Master Greg**: Truly has it been said that one can&rsquo;t always get what one
+wants. For lo, I have been perusing my job description and stuck disks are in no
+way mentioned.
+
+**Customer**: When&rsquo;s Pete going to be around?
+
+**Zen-Master Greg**: But there is no need to trouble the great sage at this time,
+for lo, I feel moved to help you. Let us seek the cause of this sticking.
+
+**Customer**: See, it&rsquo;s stuck.
+
+**Zen-Master Greg**: &ldquo;Stuck&rdquo; is but a transient condition, having no meaning for
+those in timeless existence. Yet I will fetch the official disk extraction tool.
+
+**Customer**: That&rsquo;s a paperclip.
+
+**Zen-Master Greg**: Ah, you are right. I will fetch the tool.
+
+**Customer**: Hey, that&rsquo;s still a paperclip.
+
+**Zen-Master Greg**: Truly you know all.
+
+**Customer**: Where are you going?
+
+**Zen-Master Greg**: Every time I enter with the disk extraction tool, you are
+moved to remark that it is a paperclip, and I look down and it has become so. It
+is truly confusing. I go to listen to the mantras. Especially the one entitled
+&ldquo;Head Like A Hole&rdquo;.
+
+**Customer**: Are you trying to be funny?
+
+**Zen-Master Greg**: What is there to laugh at?
+
+**Customer**: Well, all right. But what about my disk.
+
+**Zen-Master Greg**: I shall take the disk extraction tool&#x2026;
+
+**Customer**: But that&rsquo;s a&#x2026; oh.
+
+**Zen-Master Greg**: and I shall extract the disk.
+
+**Customer**: Nothing is happening.
+
+**Zen-Master Greg**: Your wisdom is like vision from the corner of the eye. It
+seems to exist, but disappears when examined.
+
+**Customer**: So what are we going to do?
+
+**Zen-Master Greg**: The situation calls for extreme philosophical measures.
+
+(5 minutes pass)
+
+**Zen-Master Greg**: Head like a hole, black as your soul, I&rsquo;d rather die than
+give you control!
+
+**Customer**: What the hell are you doing? You&rsquo;re supposed to be helping me!
+
+**Zen-Master Greg**: Have I not resorted to philosophy to do so?
+
+**Customer**: What are you talking about?
+
+**Zen-Master Greg**: Is the disk stuck in the drive?
+
+**Customer**: Yes.
+
+**Zen-Master Greg**: If the tree falls in the forest, and no one is in the area,
+does it make a sound?
+
+**Customer**: Yes.
+
+**Zen-Master Greg**: I shall ask again. If the tree falls in the forest, and no
+one is there to hear it, does it make a sound?
+
+**Customer**: Um. No?
+
+(The master reaches into his robe, thinks for a moment, then reluctantly
+withdraws his hand)
+
+**Zen-Master Greg**: If the tree falls in the forest, and no one hears it, then
+does it make a sound?
+
+**Customer**: I DON&rsquo;T KNOW!
+
+**Zen-Master Greg**: Correct on all counts. Without knowledge, the state of
+affairs is indeterminate.
+
+**Customer**: And like this has anything to do with my disk.
+
+**Zen-Master Greg**: Can you see the disk?
+
+**Customer**: No, it&rsquo;s in the other room.
+
+**Zen-Master Greg**: How do you know? It may not be. I may have it in my hand.
+
+**Customer**: Hey, that&rsquo;s a neat trick. Give it to me.
+
+**Zen-Master Greg**: I don&rsquo;t actually have it, but while it is unobserved, I might
+have. While it is not seen being stuck, it is not. And since the disk is not
+stuck, there is no problem.
+
+**Customer**: But I still don&rsquo;t have it.
+
+**Zen-Master Greg**: Then the original question was faulty. And I have laboured
+enough this day. Yet hark! Here comes the sage. Mayhap he will soil his hands to
+help you.
+
+**Sage**: There is a problem?
+
+**Customer**: Yes!
+
+**Sage**: I know all. Let us examine this problem.
+
+(5 minutes pass)
+
+**Sage**: I shall require a disk extraction tool.
+
+(5 minutes pass)
+
+**Sage**: Truly a vexing problem. I shall require my toolkit.
+
+(10 minutes pass)
+
+**Sage**: Truly a DEU problem. I shall require some mantras and a punching bag.
+
+(5 minutes pass)
+
+**Sage**: Here is your disk.
+
+**Customer**: Thank you, O sage!
+
+**Zen-Master Greg**: May I enquire as to the nature of the illusory problem, O
+sage?
+
+**Sage**: Yes my child. The problem was in the nature of the inserted disk. It
+seems that the unlearned one had covered the high-density notch of the disk.
+
+**Zen-Master Greg**: And the nature of this substance, which had presumably become
+attached to the inside of the drive.
+
+**Sage**: Duct tape, my child.
+
+**Zen-Master Greg**: DUCT TAPE! THAT LUSER COVERED A DISK IN DUCT&#x2026; I mean, the
+unlearned one was so foolish as to tamper with substances beyond his power?
+
+**Sage**: Yes my child.
+
+**Zen-Master Greg**: What an idiot.
+
+**Sage**: Truly it is so.
+
+**Customer**: Well I&rsquo;m going now. And I&rsquo;m going to make a complaint. You haven&rsquo;t
+been at all pleasant and you&rsquo;ve deliberately set out to embarass me.
+
+**Zen-Master Greg**: May I borrow the punching bag, O sage?
+
+**Sage**: It appears to have become broken, my child. I fear we shall have to get
+more from storage.
+
+**Zen-Master Greg**: It is well that we get them in bulk.
+
+**Sage**: Truly, my child. Turn up the mantras.
+
+
+### In which the Master instructs the young.
+
+> 
+> 
+> In Chaos and riots,
+> 
+> The screech of machines,
+> 
+> No right and no wrong,
+> 
+> And no in-betweens.
+> 
+> Is this work music or what? Still, five times through is enough, and it&rsquo;s time
+> to slot in &ldquo;Fixed&rdquo;, kick up the volume a little bit (a little bit is all that&rsquo;s
+> left) and participate in another of the frenzied memories that leave me
+> shuddering.
+
+**Customer A**: Do you think he&rsquo;s awake?
+
+**Customer B**: Nah, he&rsquo;s asleep.
+
+**Customer A**: Well, should we wake him up?
+
+**Zen-Master Greg**: My child, there is no need.
+
+**Customer A**: Who said that?
+
+**Zen-Master Greg**: I did, my child. I was merely resting my eyes.
+
+**Customer B**: While snoring?
+
+**Zen-Master Greg**: A mystic breathing exercise. What is your query?
+
+**Customer A**: Oh, we just wanted to know if you were awake.
+
+**Zen-Master Greg**: You are now closer to enlightenment. Go in peace, my
+children. Now.
+
+**Customer A**: Why do you keep calling us that?
+
+**Zen-Master Greg**: To what do you refer, child?
+
+**Customer A**: That! You keep calling us &rsquo;child&rsquo; and &rsquo;children&rsquo;.
+
+**Zen-Master Greg**: Are you not?
+
+**Customer A**: No way! I&rsquo;m 15 and he&rsquo;s 16. So cut it out.
+
+**Zen-Master Greg**: Truly, I am far from enlightenment and the terms were not in
+the least appropriate. I shall endeavour to better suit my address to your
+luminous natures.
+
+**Customer A**: Good.
+
+**Zen-Master Greg**: Is there anything else?
+
+**Customer A**: No we&rsquo;ll be fine. We&rsquo;re both computer experts.
+
+(5 minutes later)
+
+**Customer A**: Are you asleep again?
+
+**Zen-Master Greg**: Your presence wearies me. Speak before I am tried beyond
+endurance.
+
+**Customer A**: Oh, okay. Um, my friend wants to know of some ftp-sites where he
+can get some games. Can you help?
+
+**Zen-Master Greg**: Surely. Try wuarchive.wustl.edu, and ftp.midnight.com
+
+**Customer A**: Thanks. Ah, can you write those down?
+
+**Zen-Master Greg**: It is a pleasure to help those lesser than one&rsquo;s self.
+
+**Customer A**: Thank you.
+
+(5 minutes later)
+
+**Customer A**: Hey, get your head off the desk!
+
+**Zen-Master Greg**: Yet my head is on my hands.
+
+**Customer A**: So?
+
+**Zen-Master Greg**: I fear that were I to release my hands they might move of
+their own accord.
+
+**Customer A**: You&rsquo;re really strange. And the music is crap, too.
+
+**Zen-Master Greg**: Your wisdom belies your countenance.
+
+**Customer A**: What&rsquo;s that?
+
+**Zen-Master Greg**: You look very intelligent.
+
+**Customer A**: Oh. Right. Look, those ftp-sites you gave us weren&rsquo;t any good.
+
+**Zen-Master Greg**: And why not?
+
+**Customer A**: Well, my friend wants this game, and it wan&rsquo;t on any of them.
+
+**Zen-Master Greg**: And the name of this game?
+
+**Customer A**: Magic.
+
+**Zen-Master Greg**: Ah, but that is a commercial game, and you could not want a
+site containing that, FOR THAT WOULD BE ILLEGAL WITH THE PENALTY FOR DOWNLOADING
+CONSISTING OF CIVIL AND CRIMINAL PENALTIES INCLUDING FINES OF $100 000.
+
+**Customer A**: Okay, okay, okay. And could you lower your voice? All these people
+are staring.
+
+**Zen-Master Greg**: Indeed. Truly the world is vexing. Now you must go and tell
+your friend that WHAT HE WANTS IS ILLEGAL AND HE SHOULD STOP TRYING TO DO IT AT
+ONCE.
+
+**Customer A**: Okay, okay. Just be quiet. I&rsquo;m going.
+
+**Zen-Master Greg**: Now you begin to see enlightenment.
+
+(30 minutes pass)
+
+**Zen-Master Greg**: Nothing can stop me now, &rsquo;cause I don&rsquo;t care anymore.
+
+**Customer A**: Hi again.
+
+**Zen-Master Greg**: Nothing can stop me now, &rsquo;cause I don&rsquo;t care.
+
+**Customer A**: Excuse me for being rude, but that music is bugging the shit out
+of me. Can you turn it off?
+
+**Zen-Master Greg**: I shall do as you ask, O one who is as a moth entranced by
+the flame of enlightenment.
+
+(30 minutes later)
+
+**Brother Mike**: Hi Greg, how&rsquo;s it&#x2026; Jesus Christ! Why&rsquo;s the music up so loud?
+GREG, WHAT&rsquo;S WITH THE MUSIC? Hell, I&rsquo;ll just turn it down.
+
+**Zen-Master Greg**: Greetings, fellow seeker of enlightenment.
+
+**Brother Mike**: Why was the music so loud? And why do you have bits of paper in
+your ears?
+
+**Zen-Master Greg**: Forgive me, but could you repeat the question once I have
+removed the paper?
+
+**Brother Mike**: Why on earth was the music so loud?
+
+**Zen-Master Greg**: I had great need.
+
+**Brother Mike**: Didn&rsquo;t the customers complain?
+
+**Zen-Master Greg**: Truly they did not. Indeed, they asked for it.
+
+**Brother Mike**: Really?
+
+**Zen-Master Greg**: Truly. They even tapped on the door in time to some of the
+more enlightening passages.
+
+**Brother Mike**: That door over there?
+
+**Zen-Master Greg**: You speak with wisdom.
+
+**Brother Mike**: That closed door? The locked one?
+
+**Zen-Master Greg**: Truth is strong within you. I closed and locked the when it
+appeared the glass might shake loose.
+
+**Brother Mike**: Are you going to let them out?
+
+**Zen-Master Greg**: Is it not that there exists nothing eternal?
+
+**Brother Mike**: It is so.
+
+**Zen-Master Greg**: Then even that which we wish were forever must end.
+
+(60 minutes pass)
+
+**Zen-Master Greg**: Greetings, O customers. Might I ask you to leave now, as the
+Sage has asked me to run the assimilator program before I leave.
+
+**Customer B**: But it&rsquo;s not 7pm yet.
+
+**Zen-Master Greg**: It is truth you speak, yet time is an illusion, and I wish to
+leave now.
+
+**Customer A**: Well we&rsquo;re not going until 7pm. You can get stuffed. I&rsquo;m going to
+finish this game.
+
+**Zen-Master Greg**: You are aware of the notion of karma, grasshopper.
+
+**Customer A**: Yeah, so what?
+
+**Zen-Master Greg**: Enlightenment will come.
+
+**Customer B**: Ah, are you kicking those chairs for a reason?
+
+**Zen-Master Greg**: Order is of benefit to the universe. I am placing them
+according to pattern and availing myself of catharsis.
+
+**Customer B**: But you&rsquo;re kicking them across the room.
+
+**Zen-Master Greg**: The patterns of the universe are indeed strange, and not to
+be understood by those who are as unworthy pustules upon the buttocks of the
+Buddha.
+
+(5 minutes pass)
+
+**Zen-Master Greg**: As time is measured, it is now 7pm.
+
+**Customer A**: Okay, just one more life.
+
+**Zen-Master Greg**: That life may not be long.
+
+**Customer B**: Oh, he&rsquo;s really good at this game.
+
+**Zen-Master Greg**: The unenlightened listen, but do not hear.
+
+**Customer A**: Damn. Well, that&rsquo;s it.
+
+**Zen-Master Greg**: Even the worst agony must end.
+
+**Customer A**: Okay, we&rsquo;re out of here. Oh, one small thing.
+
+**Zen-Master Greg**: Yes, O gnat?
+
+**Customer A**: I&rsquo;ve got some files on this machine that I haven&rsquo;t saved to disk.
+Can I just leave them on there?
+
+**Zen-Master Greg**: As long as they are on the illuminated temp directory, there
+is no problem.
+
+**Customer A**: They&rsquo;re on the hard drive, actually. There wasn&rsquo;t enough space on
+temp.
+
+**Zen-Master Greg**: Yet the most excellent temp directory has a capacity of 15
+meg.
+
+**Customer A**: Well I started downloading this stuff via the web and it didn&rsquo;t
+fit.
+
+**Zen-Master Greg**: You downloaded this stuff over the mysterious web, the cosmic
+nature of which is such that this facility gets billed for each megabyte
+downloaded.
+
+**Customer A**: Yeah. So can you take care of it?
+
+**Zen-Master Greg**: The files shall be taken care of.
+
+**Customer A**: Thanks a lot. Oh, and if you can tell Pete that that mail I sent
+him about you doesn&rsquo;t count?
+
+**Zen-Master Greg**: It shall be as though the mail never reached him.
+
+**Customer A**: Okay. See you later.
+
+**And when the lusers came back the next day, they became enlightened, and did
+not return**
+
+
+### Descent into Saffron Darkness.
+
+> Slight format change with this one, because it&rsquo;s more of a trailer for the next
+> one (#5) than a new one in itself, and I wanted to muck around with things a
+> bit. So this should be more cinegraphic. Not nearly as funny, but that&rsquo;s for the
+> real release (which should be a week or two). This is basically how I&rsquo;d direct
+> the trailer for the movie version of (#5) (if John Woo wasn&rsquo;t available).
+
+[opens with shot of a crowded lecture theatre, with students absolutely
+everywhere, all looking towards the front of the room, where a lecturer
+(reasonably old) is droning on in a monotone]
+
+**Voiceover:** The start of another boring year, and already I&rsquo;m in another bloody
+lecture. I can deal with that though. I can also deal with all the law students
+(though this is harder). Unfortunately, things don&rsquo;t stop there. You see, I&rsquo;ve
+got this pain in my stomach.
+
+[shot close in one one particular student, who&rsquo;s slightly bent over, grimacing,
+and wincing occasionally.]
+
+**Voiceover:** This isn&rsquo;t just a stomachache, however, and it&rsquo;s not going to go
+away. You see, there&rsquo;s a Zen Master inside me, and he wants to get out.
+
+**Master&rsquo;s voice:** Come, Greg, let me out.
+
+**VO**: No. Not anymore. Not this year. I&rsquo;ve finished all that. I&rsquo;m back at law.
+
+**Master:** Oh come now. Look around you. Don&rsquo;t you feel the urge to lay about
+with the sledgehammer of enlightenment? To show these poor cretins what a
+conflict of ideas really is?
+
+**VO**: No. Not even a little bit.
+
+**Master:** Or are you really a law student?
+
+**VO**: You take that back? Now.
+
+**Master:** Or what law-boy? You can&rsquo;t do anything to me. I&rsquo;m part of you.
+Remember the gym the other day? When you broke the punching bag again? Didn&rsquo;t it
+feel good?
+
+**VO**: Um, yeah, but that was only because I hadn&rsquo;t hit anything in a week.
+
+**Master:** Ah, but remember back a few years to when that luser came in, and you
+told her that you couldn&rsquo;t convert her text file because you were playing
+nethack? Then when she retyped all two thousand you deleted the file from the
+shared directory just as she was saving it? Converting all two thousand words
+into conjunctions of question marks? Remember that?
+
+**VO**: Oh yeah.
+
+**Master:** Don&rsquo;t you want to do it again?
+
+**VO**: Yes! I mean no, I mean&#x2026;
+
+**Master:** Come child, we have work to do, enlightenment to bring. Look around
+you. Look at all these law students. These belly-crawling slime. They need you.
+
+**Voiceover [to audience]:** I think about it, and the more I think about it, the
+more right it seems. So many law students, so few resources. This is a task that
+requires help. Philosophical help. I really don&rsquo;t have any option. Plus I&rsquo;m sick
+of the pain. I let the Master out, and we go to work.
+
+[Screen fades to black, then a saffron robe (empty) is imposed upon the
+blackness. Underneath is the title (in red) &ldquo;Tales of the Master#5: In which the
+Master lays down the law&rdquo;. Excerpts follow, to the backing music of the first
+Piggy mix from NIN&rsquo;s FDTS#2.]
+
+[First excerpt, during the slow intital opening of the song, is of The Master
+walking into a lecture theatre (half-full from the front) and sitting down (at
+the very back). Suddenly all these students rush in (half carrying laptops)
+jostling The Master, accidentally hitting him with elbows etc. Master has a
+strange half-smile.]
+
+[Next cut (also during the slow part) is of signing up for tutorial groups.
+Master walks into empty room containing tute lists, reaches to pick one up, then
+a voice is heard, &ldquo;Hey, the tute lists are out&rdquo;. Swarms of people rush in,
+pushing past The Master, and he is left watching a sea of individuals squabbling
+over the lists. They leave, and The Master discovers every tute is fully signed
+up, except for the ones that start before 8am.]
+
+[Song switches to the fast, angry bit. Shot of The Master grabbing the laptop of
+the person next to him, and heaving it a particularly idiotic yuppie-wannabe in
+ther front row that has just asked the same question again. Owner of the laptop
+turns to The Master (looking outraged) and The Master picks up a disk (from the
+person on his other side), and jams it down the throat of this individual.
+There&rsquo;s a cry of &ldquo;but I don&rsquo;t have backups&rdquo; from the other side.]
+
+[Various scenes of bloody carnage to law students, law lecturers and computing
+equipment follow, fast-cutting between them all. The Master is a whirling
+dervish of destruction.]
+
+[Music suddenly ceases, there&rsquo;s a close up shot of The Master (with a robe now
+pretty-much red and brown), and he simply asks, &ldquo;Do you know what the Buddha
+looks like?&rdquo;. Cut to black.]
+
+
+### In Which The Master Lays Down The Law (Part One)
+
+> **Mike:** Hi Greg, how&rsquo;s it going?
+> 
+> **Greg:** This is not a question that may be easily answered. My work here is done, but&#x2026;
+> 
+> **Mike:** But what?
+> 
+> **Greg:** I hesitate to speak of it.
+> 
+> **Mike:** WHAT?
+> 
+> **Greg:** I have a lecture.
+> 
+> **Mike:** Is that all?
+> 
+> **Greg:** It&rsquo;s a law lecture.
+> 
+> **Mike:** You have a law lecture?
+> 
+> **Greg:** Yes.
+> 
+> **Mike:** Ooo. Are you sure you&rsquo;re ready to go back?
+> 
+> **Greg:** My head is shaven, I&rsquo;m sociopathic, and my robe is saffron. Well, a saffron shade of black. It&rsquo;s time.
+> 
+> And so begins&#x2026;
+
+(The Master walks into a three-quarter fulled lecture theatre, with the rows
+filled from the front. Seeing all the people, he looks down at his watch. It&rsquo;s
+ten minutes to the hour. The Master sighs, and takes a seat in the very back
+row, which is empty)
+
+(5 minutes pass)
+
+**Brother Charles:** Greg! You&rsquo;re at a lecture.
+
+**Zen-Master Greg:** It is the case.
+
+**Brother Charles:** It&rsquo;s good to see you again.
+
+**Zen-Master Greg:** It is good to be back. I fear that I may have grown soft
+during my time in the halls of philosophy. It is time to quench myself in fire
+once again.
+
+**Brother Charles:** Um, yeah. Whatever.
+
+(Brother Charles gets up to leave)
+
+**Zen-Master Greg:** Where are you going?
+
+**Brother Charles:** You are at a law lecture. You will take notes. I am no longer
+needed here.
+
+**Zen-Master Greg:** Indeed. Are you enrolled in admin law?
+
+**Brother Charles:** This is so.
+
+**Zen-Master Greg:** Then I shall not be there.
+
+**Brother Charles:** Truly, you follow the path.
+
+(They bow to each other, and Brother Charles leaves)
+
+(Suddenly a mob of law students rush in. Half are dressed in (bad) suits, and
+the other half are dressed in casual surf clothing. Almost all are carrying
+laptops. They race for the back row, and the one available power outlet, which
+is directly behind the Master. When they get to the outlet they fight over who
+gets to plug in their laptop, causing the Master&rsquo;s seat to be jostled against
+the desk. Finally, one being successful, they sit down on either side of the
+Master. Throughout this process, the Master&rsquo;s expression does not change. He is,
+however, rotating the fingers on each hand, one by one, methodically.)
+
+**Student A:** Can I have a go on your laptop?
+
+**Student B:** No. I&rsquo;m using it.
+
+**Student A:** But you&rsquo;re just playing a game.
+
+**Student B:** No I&rsquo;m not. Besides, there isn&rsquo;t time.
+
+**Student A:** Prick. Woah!
+
+**Student B:** What?
+
+**Student A:** That guy&rsquo;s wearing a robe.
+
+**Student B:** You&rsquo;re kidding. Where?
+
+**Student A:** Beside you. Hey man, cool robe. Very black.
+
+**Student B:** Yeah. Way cool.
+
+(The Master says nothing, but continues to rotate his fingers)
+
+**Student A:** So is that like a kilt?
+
+**Student B:** Huh?
+
+(The Master looks faintly puzzled)
+
+**Student A:** Do you wear anything underneath it?
+
+**Student B:** Oh. Yeah, what&rsquo;s under the robe?
+
+(The Master has switched to forming a fist with one hand, hitting the opposite
+palm, and then repeating with the other hand, very fast)
+
+**Student A:** Come on Mr X. I want to know. What&rsquo;s under the robe.
+
+(Student A reaches out to grab the robe of the Master, and the Master grabs the
+reaching hand by the wrist. The face of student A begins to change colour)
+
+**Student B:** Hey, all he wants to know is what&rsquo;s under the robe.
+
+**Zen-Master Greg:** Pain. Would you like some?
+
+**Student B:** No, no that&rsquo;s quite all right. Don&rsquo;t trouble yourself.
+
+**Zen-Master Greg:** There is no burden in the teaching of the way.
+
+**Student B:** Um&#x2026; ah&#x2026; oh here&rsquo;s the lecturer. No time to learn. Maybe next
+time.
+
+**Zen-Master Greg:** I shall look forward to it.
+
+(The Master releases that hand of Student A)
+
+(5 minutes pass)
+
+**Student A:** So what&rsquo;s your name anyway?
+
+(The Master says nothing)
+
+**Student A:** I said, what&rsquo;s your name?
+
+**Zen-Master Greg:** I heard.
+
+**Student A:** So what is it?
+
+**Zen-Master Greg:** You may call me&#x2026;
+
+**Student A:** What?
+
+(The Master says nothing)
+
+**Student A:** Come on, what did you say?
+
+**Zen-Master Greg:** Are you referring to me?
+
+**Student A:** Obviously. You said that I can call you&#x2026; and then I didn&rsquo;t hear
+the rest.
+
+**Zen-Master Greg:** My most humble apologies. You may call me&#x2026;
+
+**Student A:** But what did you say?
+
+**Zen-Master Greg:** I said&#x2026;
+
+**Student A:** But you keep saying you&rsquo;ll tell me your name and then you don&rsquo;t say
+anything.
+
+**Zen-Master Greg:** Precisely.
+
+**Student A:** I don&rsquo;t understand.
+
+**Zen-Master Greg:** Yes.
+
+**Student A:** Why won&rsquo;t you tell me what to call you.
+
+**Zen-Master Greg:** But I have. I have told you to call me nothing.
+
+**Student A:** Come again?
+
+**Zen-Master Greg:** You will call me nothing because you have nothing of interest
+to say. Experiencing enlightenment, you shall realise this, and cease to trouble
+those who are as spiritual oxen to your spiritual dung fly.
+
+**Student A:** But how do you know I don&rsquo;t have anything to say?
+
+**Zen-Master Greg:** In the same fashion as I know not to expect wise discourse
+from the ant, the cockroach, and those that dislike Leonard Cohen.
+
+**Student A:** Huh?
+
+**Zen-Master Greg:** Their natures forbid wisdom. As does yours. You are a law
+student.
+
+**Student A:** But so are you.
+
+**Zen-Master Greg:** Incorrect. Law students are eager. They race into lectures
+ten minutes early. They wear suits to lectures out of choice. They carry around
+laptops without knowing how to use them. They leave the same laptops lying
+around since they think that no one would bother to steal them because &ldquo;everyone
+has one&rdquo;. They take no notice of what is said and they ask stupid questions.
+Repeatedly.
+
+**Student B:** So if you&rsquo;re not a law student, what are you doing here?
+
+**Zen-Master Greg:** I am not a law student. I do, however, study law.
+
+**Student A:** That&rsquo;s crap, and you&rsquo;re an arrogant prick.
+
+**Zen-Master Greg:** Do you know what the Buddha looks like?
+
+**Student A:** No. Why?
+
+**Zen-Master Greg:** Because it is said, &ldquo;If you meet the Buddha travelling down
+the road, kill him&rdquo;.
+
+**Student A:** And?
+
+**Zen-Master Greg:** I also do not know what the Buddha looks like. So I am forced
+to guess. And you appear to be convinced of your own enlightenment.
+
+**Student A:** So you&rsquo;re going to kill me? Yeah, right.
+
+**Zen-Master Greg:** Philosophy demands it.
+
+**Student A:** You&rsquo;re full of it. For one thing it&rsquo;s illegal. You know, murder?
+Those who study law do read the Criminal Code, I take it?
+
+**Zen-Master Greg:** Which is subject to the constitution. Which guarantees
+freedom of religion. Fortunately, Zen is realised as philosophy <span class="underline">and</span> religion.
+
+**Student A:** That&rsquo;ll never work.
+
+**Zen-Master Greg:** Possibly. Certainly a test case would appear required to
+settle the matter.
+
+**Student A:** But that would mean&#x2026;
+
+**Zen-Master Greg:** Your insight is masterful.
+
+**Student A:** AAAAAAAAAGGGGGGGGGGHHHHHHHHHHHH!
+
+**Student B:** OH MY&#x2026; HEY! KEEP AWAY FROM ME!
+
+<The sound of something being forcibly ingested>
+
+(As the screams echo through the crowded lecture theatre, the lecturer&rsquo;s drone
+ceases abruptly, and all heads bent over work rapidly rise and turn towards the
+back. The Master innocently returns the stares directed his way. On one side of
+the Master sits a student looking ill, whilst the seat on the other side would
+appear unoccupied)
+
+**Lecturer:** Is there some problem down the back?
+
+**Zen-Master Greg:** There is no problem.
+
+**Lecturer:** Then what was that noise?
+
+**Zen-Master Greg:** Problem resolution.
+
+**Lecturer:** Oh.
+
+(The lecture continues)
+
+(The Master leans forward and taps the shoulder of the student in front of him)
+
+**Zen-Master Greg:** Might I borrow a tissue?
+
+**Student C:** Sure. Do you have a cold too?
+
+**Zen-Master Greg:** Not exactly.
+
+(The Master takes the proffered tissue, and wipes his fingers with it, before
+screwing it up and throwing it into the bin. He receives a puzzled look from
+student C, who also looks oddly at the green Student B)
+
+**Student C:** Is your friend okay?
+
+**Zen-Master Greg:** It&rsquo;s just that he ate something disagreeable. I grant that he
+was morose earlier, but action has been taken. Indeed, I can now guarantee he
+contains the humour of two people.
+
+**Student C:** Oh, right. What was that on your fingers, by the way.
+
+**Zen-Master Greg:** Merely something disagreeable.
+
+**Student C:** Oh, okay.
+
+(The lecture continues. Student B doesn&rsquo;t do much except look straight ahead,
+although he occasionally looks quickly at the Master before looking away again.
+The Master stares serenely ahead. Then the lecturer is interrupted by a
+question. He gives a long and complicated answer. The speaker then asks the same
+question again. The lecturer answers again, this time in a simpler fashion. The
+speaker then asks the same question again, re phrased. The lecturer answers yet
+again, in language so simple that a child could understand)
+
+**Student D:** But it <span class="underline">can&rsquo;t</span> work like that. I couldn&rsquo;t do that and get away with
+it.
+
+**Lecturer:** As I&rsquo;ve explained, international law operates on different
+principles from municipal law. You can&rsquo;t act that way because you&rsquo;re not a
+country.
+
+**Student D:** But it just <span class="underline">can&rsquo;t</span> work that way. It&rsquo;s wrong. It shouldn&rsquo;t happen.
+
+**Zen-Master Greg:** Excuse me.
+
+**Student D:** Yes.
+
+**Zen-Master Greg:** You&rsquo;ve asked the same question three times, and rejected
+three factually equivalent answers on the basis of your personal moral
+convictions as to how the law should operate. If you really need to discuss
+this, could you do so after the lecture when the rest us have left?
+
+**Student D:** No. I don&rsquo;t understand and I want an answer now. If you can&rsquo;t give
+me an answer, just shut up and let me talk to someone who can.
+
+**Zen-Master Greg:** Oh my child, I have an answer for you.
+
+**Student D:** Well let&rsquo;s have it then.
+
+**Zen-Master Greg:** Who am I to deny enlightenment? As you will.
+
+(The Master reaches towards student B, who screams out &ldquo;NO! NOT ME AS WELL!&rdquo; and
+covers his eyes with his hands. The Master, however, simply takes the now
+unsecured laptop of Student B, and then hurls it at the head of Student D. The
+impromptu missile lands neatly in the (widely) open mouth of Student D, who is
+flung backwards (with his chair) by the force of the impact. All that remains to
+be seen are the feet of Student D, which are sticking straight up. They twitch.
+Several of the more bored-looking students perk up, and clap politely. The
+Master stands and bows)
+
+**Zen-Master Greg:** A true answer is one which denies the possibility of further
+questions.
+
+(Those clapping rise and bow to the Master)
+
+**Lecturer:** My God! What&rsquo;s going on here! You!
+
+**Zen-Master Greg:** Yes?
+
+**Lecturer:** What kind of violent savage are you?
+
+**Zen-Master Greg:** A perfectly enlightened one, my child.
+
+**Lecturer:** Well I&rsquo;ve had enough of your &rsquo;perfect enlightenment&rsquo;! Get out! Your
+days in this faculty are numbered!
+
+**Zen-Master Greg:** Indeed? Tell me, for it seems necessary to inquire. Do you
+ know what the Buddha looks like?
 
 
 <a id="the-tao-of-programming"></a>
