@@ -7,18 +7,18 @@
 :END:
 31/10/2024
 
-These are usually found at
-[[https://catb.org/~esr/writings/unix-koans/][catb.org]] maintained by
-[[http://www.catb.org/~esr/][ESR]]. However the website usually has SSL
-issues, and also it references other works which are no longer
-available, so this is an attempt to consolidate all of them in one
-place.
 
 #+TOC: headlines 2
 * Rootless Root
 :PROPERTIES:
 :CUSTOM_ID: rootless-root
 :END:
+Editor's Note:
+#+begin_quote
+These are usually found at [[https://catb.org/~esr/writings/unix-koans/][catb.org]] maintained by [[http://www.catb.org/~esr/][ESR]]. However the website
+usually has SSL issues, and also it references other works which are no longer
+available, so this is an attempt to consolidate all of them in one place.
+#+end_quote
 #+caption: "無根的根"
 [[../_assets/rootlessroot.png]]
 
@@ -580,6 +580,60 @@ In that moment, the hardware designer achieved enlightenment.
 :PROPERTIES:
 :CUSTOM_ID: the-unix-power-clasic
 :END:
+Editor's Note:
+#+begin_quote
+This is an incomplete work. It is supposed to have 81 chapters but only has _
+before the website went offline and these are the ones I was able to salvage
+from the wayback machine.
+
+Usually found at [[http://mercury.ccil.org/~cowan/upc/][mercury.ccil.org]] by [[http://ccil.org/~cowan][John Cowan]]
+
+To reach me, email at =yax<at>yaxley<dot>in=
+#+end_quote
+
+** The Unix Power Classic: A book about the Unix Way and its power
+This is [[http://ccil.org/~cowan][my]] evolving [[http://www.catb.org/~esr/jargon/html/H/hacker.html][hacker]]-oriented version of the Dao De Jing (literally "way
+power classic").
+
+Disclaimer: I don't actually know any Chinese. I'm working from Jonathan Star's
+[[http://www.amazon.com/exec/obidos/ASIN/1585420999][Verbatim Translation]], an amazingly helpful spreadsheet in book form giving
+character-by-character glosses for each of the 5000-odd characters of the Dao De
+Jing. I'm also using the online Chinese text with clickable characters at
+[[http://zhongwen.com/dao.htm][zhongwen.com]].
+
+Not much is known for sure about the Dao De Jing, except that it's Chinese, it's
+very old, and people have loved it for twenty-five hundred years, as [[http://www.ursulakleguin.com/][Ursula K.
+LeGuin]] says in [[http://www.amazon.com/exec/obidos/ASIN/1570623953][her version]], which I dearly love.
+
+But I will say this much. The Dao De Jing can be given philosophical
+interpretations, political interpretations, religious interpretations. In some
+translations the original sinks under the weight of them. But it has survived
+and is read today because it is, at bottom, immortal poetry, as beautiful and
+meaningful as any that humanity has ever known.
+
+Here are the 81 chapters (or the ones I've written so far) in the usual order.
+Book One ("The Way") comprises chapters 1-37; Book Two ("Its Power") comprises
+chapters 38-81.
+
+Here's a [[http://www.americantanka.com/about.html][tanka]] I wrote belonging to the same tradition:
+
+#+begin_verse
+Newbies always ask:
+  "Elements or attributes?
+"Which will serve me best?"
+  Those who know roar like lions;
+  Wise hackers smile like tigers.
+#+end_verse
+
+And here's a nice three-liner salvaged from an email by [[http://lamammals.blogspot.com/][Len Bullard]]:
+
+#+begin_verse
+Raised floors hide the chaos.
+Facades hide the boilerplate.
+A good designer enables upgrades.
+#+end_verse
+Comments and suggestions are solicited; write to [[mailto:cowan@ccil.org][cowan@ccil.org]].
+
 
 * AI Koans
 :PROPERTIES:
@@ -601,8 +655,10 @@ In that moment, the hardware designer achieved enlightenment.
 :PROPERTIES:
 :CUSTOM_ID: the-tao-of-programming
 :END:
-
+Editor's Note:
+#+begin_quote
 Usually found at: [[http://www.canonical.org/~kragen/tao-of-programming.html][canonical.org]] by [[http://canonical.org/~kragen/][Kragen Javier Sitaker]]
+#+end_quote
 
 Translated by Geoffrey James
 

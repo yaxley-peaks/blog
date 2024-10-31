@@ -20,32 +20,37 @@ place.
 # Table of Contents
 
 1.  [Rootless Root](#rootless-root)
-    1.  [Editor&rsquo;s Introduction](#org3e7bb6c)
-    2.  [Master Foo and the Ten Thousand Lines](#orgf5df578)
-    3.  [Master Foo and the Script Kiddie](#orgcdb2a7b)
-    4.  [Master Foo Discourses on the Two Paths](#org7dc08a2)
-    5.  [Master Foo and the Methodologist](#org0bf7494)
-    6.  [Master Foo Discourses on the Graphical User Interface](#orgdb22f9e)
-    7.  [Master Foo and the Old Hand](#org271560b)
-    8.  [Master Foo and the Shell Tools](#orgc1254fd)
-    9.  [Master Foo and the Nervous Novice](#org617fd9a)
-    10. [Master Foo and the Recruiter](#orgeb86396)
-    11. [Master Foo Discourses on Returning to Windows](#org760cbe6)
-    12. [Master Foo and the Unix Zealot](#orgf1763d2)
-    13. [Master Foo Discourses on the Unix-Nature](#orgdb9ca61)
-    14. [Master Foo and the MCSE](#orgc3f10bb)
-    15. [Master Foo and the End User](#orgc71f03c)
-    16. [Master Foo and the Programming Prodigy](#orged2c76c)
-    17. [Master Foo and the Hardware Designer](#orgf3ff13b)
-2.  [The Tao of Programming](#the-tao-of-programming)
-    1.  [Book 1 &#x2013; The Silent Void](#orgf03e22d)
-    2.  [Book 2 &#x2013; The Ancient Masters](#org338cbe0)
-    3.  [Book 3 &#x2013; Design](#org2cb3817)
-    4.  [Book 4 &#x2013; Coding](#org91c337b)
-3.  [The Unix Power Classic](#the-unix-power-clasic)
-4.  [AI Koans](#ai-koans)
-5.  [LoginTaka](#logintaka)
-6.  [Tales of Zen Master Greg](#tales-of-zen-master-greg)
+    1.  [Editor&rsquo;s Introduction](#org2d14895)
+    2.  [Master Foo and the Ten Thousand Lines](#org506024e)
+    3.  [Master Foo and the Script Kiddie](#org46fe2d5)
+    4.  [Master Foo Discourses on the Two Paths](#org41b793b)
+    5.  [Master Foo and the Methodologist](#org23f29cd)
+    6.  [Master Foo Discourses on the Graphical User Interface](#orgae34c29)
+    7.  [Master Foo and the Old Hand](#org631e907)
+    8.  [Master Foo and the Shell Tools](#org0de37df)
+    9.  [Master Foo and the Nervous Novice](#orgf1b681c)
+    10. [Master Foo and the Recruiter](#orgb8fa993)
+    11. [Master Foo Discourses on Returning to Windows](#org3ee6ce5)
+    12. [Master Foo and the Unix Zealot](#org91f7c53)
+    13. [Master Foo Discourses on the Unix-Nature](#orgc50397f)
+    14. [Master Foo and the MCSE](#orgb6ef282)
+    15. [Master Foo and the End User](#org137c8a7)
+    16. [Master Foo and the Programming Prodigy](#org52375fb)
+    17. [Master Foo and the Hardware Designer](#org0903901)
+2.  [The Unix Power Classic](#the-unix-power-clasic)
+3.  [AI Koans](#ai-koans)
+4.  [LoginTaka](#logintaka)
+5.  [Tales of Zen Master Greg](#tales-of-zen-master-greg)
+6.  [The Tao of Programming](#the-tao-of-programming)
+    1.  [Book 1 &#x2013; The Silent Void](#org85fd473)
+    2.  [Book 2 &#x2013; The Ancient Masters](#orgca489d3)
+    3.  [Book 3 &#x2013; Design](#orgc5c6e9c)
+    4.  [Book 4 &#x2013; Coding](#orgcdf8efb)
+    5.  [Book 5 &#x2013; Maintenance](#org238e897)
+    6.  [Book 6 &#x2013; Management](#orgad2bcb8)
+    7.  [Book 7 &#x2013; Corporate Wisdom](#org9c68b85)
+    8.  [Book 8 &#x2013; Hardware and Software](#orgfa46110)
+    9.  [Book 9 &#x2013; Epilogue](#org4698491)
 
 
 # Rootless Root
@@ -656,9 +661,31 @@ Master Foo smiled, and bowed to the hardware designer.
 In that moment, the hardware designer achieved enlightenment.
 
 
+<a id="the-unix-power-clasic"></a>
+
+# The Unix Power Classic
+
+
+<a id="ai-koans"></a>
+
+# AI Koans
+
+
+<a id="logintaka"></a>
+
+# LoginTaka
+
+
+<a id="tales-of-zen-master-greg"></a>
+
+# Tales of Zen Master Greg
+
+
 <a id="the-tao-of-programming"></a>
 
 # The Tao of Programming
+
+Usually found at: [canonical.org](http://www.canonical.org/~kragen/tao-of-programming.html) by [Kragen Javier Sitaker](http://canonical.org/~kragen/)
 
 Translated by Geoffrey James
 
@@ -729,6 +756,8 @@ Great talent shows itself late in life.<br />
 Even a perfect program still has bugs.<br />
 </p>
 
+---
+
 
 ## Book 2 &#x2013; The Ancient Masters
 
@@ -751,7 +780,7 @@ The answer exists only in Tao.
 Grand Master Turing once dreamed that he was a machine. When he awoke he
 exclaimed:
 
-> I don"t know whether I am Turing dreaming that I am a machine, or a machine
+> I don&rsquo;t know whether I am Turing dreaming that I am a machine, or a machine
 > dreaming that I am Turing!
 
 ---
@@ -784,6 +813,8 @@ documentation; he no longer cares if anyone else sees his code. He has gone
 beyond the need for testing; each of his programs are perfect within themselves,
 serene and elegant, their purpose self-evident. Truly, he has entered the
 mystery of Tao.&rdquo;
+
+---
 
 
 ## Book 3 &#x2013; Design
@@ -867,6 +898,8 @@ The master programmer frowned. &ldquo;In that case, it will take two years.&rdqu
 The master programmer shrugged. &ldquo;Then the design will never be completed,&rdquo; he
 said.
 
+---
+
 
 ## Book 4 &#x2013; Coding
 
@@ -948,23 +981,269 @@ my being. I close my eyes for a moment and then log off.&rdquo;
 
 Prince Wang said, &ldquo;Would that all of my programmers were as wise!&rdquo;
 
-
-<a id="the-unix-power-clasic"></a>
-
-# The Unix Power Classic
+---
 
 
-<a id="ai-koans"></a>
+## Book 5 &#x2013; Maintenance
 
-# AI Koans
+Thus spake the master programmer:
+
+    "Though a program be but three lines long, someday it will have to be maintained."
+
+---
+
+<p class="verse">
+A well-used door needs no oil on its hinges.<br />
+A swift-flowing stream does not grow stagnant.<br />
+Neither sound nor thoughts can travel through a vacuum.<br />
+Software rots if not used.<br />
+</p>
+
+These are great mysteries.
+
+---
+
+A manager asked a programmer how long it would take him to finish the program on which he was working. &ldquo;It will be finished tomorrow,&rdquo; the programmer promptly replied.
+
+&ldquo;I think you are being unrealistic,&rdquo; said the manager, &ldquo;Truthfully, how long will it take?&rdquo;
+
+The programmer thought for a moment. &ldquo;I have some features that I wish to add. This will take at least two weeks,&rdquo; he finally said.
+
+&ldquo;Even that is too much to expect,&rdquo; insisted the manager, &ldquo;I will be satisfied if you simply tell me when the program is complete.&rdquo;
+
+The programmer agreed to this.
+
+Several years later, the manager retired. On the way to his retirement luncheon, he discovered the programmer asleep at his terminal. He had been programming all night.
+
+---
+
+A novice programmer was once assigned to code a simple financial package.
+
+The novice worked furiously for many days, but when his master reviewed his
+program, he discovered that it contained a screen editor, a set of generalized
+graphics routines, an artificial intelligence interface, but not the slightest
+mention of anything financial.
+
+When the master asked about this, the novice became indignant. &ldquo;Don&rsquo;t be so
+impatient,&rdquo; he said, &ldquo;I&rsquo;ll put in the financial stuff eventually.&rdquo;
+
+---
+
+<p class="verse">
+Does a good farmer neglect a crop he has planted?<br />
+Does a good teacher overlook even the most humble student?<br />
+Does a good father allow a single child to starve?<br />
+Does a good programmer refuse to maintain his code?<br />
+</p>
+
+---
 
 
-<a id="logintaka"></a>
+## Book 6 &#x2013; Management
 
-# LoginTaka
+Thus spake the master programmer:
+
+> &ldquo;Let the programmers be many and the managers few - then all will be productive.&rdquo;
+
+---
+
+When managers hold endless meetings, the programmers write games. When
+accountants talk of quarterly profits, the development budget is about to be
+cut. When senior scientists talk blue sky, the clouds are about to roll in.
+
+Truly, this is not the Tao of Programming.
+
+When managers make commitments, game programs are ignored. When accountants make
+long-range plans, harmony and order are about to be restored. When senior
+scientists address the problems at hand, the problems will soon be solved.
+
+Truly, this is the Tao of Programming.
+
+---
+
+Why are programmers non-productive?  Because their time is wasted in meetings.
+
+Why are programmers rebellious?  Because the management interferes too much.
+
+Why are the programmers resigning one by one?  Because they are burnt out.
+
+Having worked for poor management, they no longer value their jobs.
+
+---
+
+A manager was about to be fired, but a programmer who worked for him invented a
+new program that became popular and sold well. As a result, the manager
+retained his job.
+
+The manager tried to give the programmer a bonus, but the programmer refused it,
+saying, &ldquo;I wrote the program because I thought it was an interesting concept,
+and thus I expect no reward.&rdquo;
+
+The manager upon hearing this remarked, &ldquo;This programmer, though he holds a
+position of small esteem, understands well the proper duty of an employee. Let
+us promote him to the exalted position of management consultant!&rdquo;
+
+But when told this, the programmer once more refused, saying, &ldquo;I exist so that I
+can program. If I were promoted, I would do nothing but waste everyone&rdquo;s time.
+Can I go now? I have a program that I&ldquo;m working on.&rdquo;
+
+---
+
+A manager went to his programmers and told them: &ldquo;As regards to your work
+hours: you are going to have to come in at nine in the morning and leave at
+five in the afternoon.&rdquo; At this, all of them became angry and several resigned
+on the spot.
+
+So the manager said: &ldquo;All right, in that case you may set your own working
+hours, as long as you finish your projects on schedule.&rdquo; The programmers, now
+satisfied, began to come in at noon and work to the wee hours of the morning.
+
+---
 
 
-<a id="tales-of-zen-master-greg"></a>
+## Book 7 &#x2013; Corporate Wisdom
 
-# Tales of Zen Master Greg
+Thus spake the master programmer:
+
+> &ldquo;You can demonstrate a program for a corporate executive, but you can&rsquo;t make him computer literate.&rdquo;
+
+---
+
+A novice asked the master: &ldquo;In the east there is a great tree-structure that
+men call &rdquo;Corporate Headquarters&ldquo;. It is bloated out of shape with vice
+presidents and accountants. It issues a multitude of memos, each saying &rdquo;Go,
+Hence!&ldquo; or &rdquo;Go, Hither!&ldquo; and nobody knows what is meant. Every year new names
+are put onto the branches, but all to no avail. How can such an unnatural
+entity be?&rdquo;
+
+The master replied: &ldquo;You perceive this immense structure and are disturbed that
+it has no rational purpose. Can you not take amusement from its endless
+gyrations? Do you not enjoy the untroubled ease of programming beneath its
+sheltering branches? Why are you bothered by its uselessness?&rdquo;
+
+---
+
+In the east there is a shark which is larger than all other fish. It changes
+into a bird whose wings are like clouds filling the sky. When this bird moves
+across the land, it brings a message from Corporate Headquarters. This message
+it drops into the midst of the programmers, like a seagull making its mark upon
+the beach. Then the bird mounts on the wind and, with the blue sky at its back,
+returns home.
+
+The novice programmer stares in wonder at the bird, for he understands it not.
+The average programmer dreads the coming of the bird, for he fears its message.
+The master programmer continues to work at his terminal, for he does not know
+that the bird has come and gone.
+
+---
+
+The Magician of the Ivory Tower brought his latest invention for the master
+programmer to examine. The magician wheeled a large black box into the master"s
+office while the master waited in silence.
+
+&ldquo;This is an integrated, distributed, general-purpose workstation,&rdquo; began the
+magician, &ldquo;ergonomically designed with a proprietary operating system, sixth
+generation languages, and multiple state of the art user interfaces. It took my
+assistants several hundred man years to construct. Is it not amazing?&rdquo;
+
+The master raised his eyebrows slightly. &ldquo;It is indeed amazing,&rdquo; he said.
+
+&ldquo;Corporate Headquarters has commanded,&rdquo; continued the magician, &ldquo;that everyone
+use this workstation as a platform for new programs. Do you agree to this?&rdquo;
+
+&ldquo;Certainly,&rdquo; replied the master, &ldquo;I will have it transported to the data center
+immediately!&rdquo; And the magician returned to his tower, well pleased.
+
+Several days later, a novice wandered into the office of the master programmer
+and said, &ldquo;I cannot find the listing for my new program. Do you know where it
+might be?&rdquo;
+
+&ldquo;Yes,&rdquo; replied the master, &ldquo;the listings are stacked on the platform in the data
+center.&rdquo;
+
+---
+
+The master programmer moves from program to program without fear. No change in
+management can harm him. He will not be fired, even if the project is cancelled.
+Why is this? He is filled with Tao.
+
+---
+
+
+## Book 8 &#x2013; Hardware and Software
+
+Thus spake the master programmer:
+
+> \`\`Without the wind, the grass does not move. Without software, hardware is useless.&rsquo;&rsquo;
+
+---
+
+A novice asked the master: &ldquo;I perceive that one computer company is much larger
+than all others. It towers above its competition like a giant among dwarfs. Any
+one of its divisions could comprise an entire business. Why is this so?&rdquo;
+
+The master replied, &ldquo;Why do you ask such foolish questions? That company is
+large because it is large. If it only made hardware, nobody would buy it. If it
+only made software, nobody would use it. If it only maintained systems, people
+would treat it like a servant. But because it combines all of these things,
+people think it one of the gods! By not seeking to strive, it conquers without
+effort.&rdquo;
+
+---
+
+A master programmer passed a novice programmer one day. The master noted the
+novice&ldquo;s preoccupation with a hand-held computer game. &rdquo;Excuse me,&ldquo; he said,
+&rdquo;may I examine it?"
+
+The novice bolted to attention and handed the device to the master. &ldquo;I see that
+the device claims to have three levels of play: Easy, Medium, and Hard,&rdquo; said
+the master. &ldquo;Yet every such device has another level of play, where the device
+seeks not to conquer the human, nor to be conquered by the human.&rdquo;
+
+&ldquo;Pray, great master,&rdquo; implored the novice, &ldquo;how does one find this mysterious
+setting?&rdquo;
+
+The master dropped the device to the ground and crushed it underfoot. And
+suddenly the novice was enlightened.
+
+---
+
+There was once a programmer who worked upon microprocessors. &ldquo;Look at how well
+off I am here,&rdquo; he said to a mainframe programmer who came to visit, &ldquo;I have my
+own operating system and file storage device. I do not have to share my
+resources with anyone. The software is self- consistent and easy-to-use. Why do
+you not quit your present job and join me here?&rdquo;
+
+The mainframe programmer then began to describe his system to his friend, saying
+&ldquo;The mainframe sits like an ancient sage meditating in the midst of the data
+center. Its disk drives lie end-to-end like a great ocean of machinery. The
+software is as multifaceted as a diamond, and as convoluted as a primeval
+jungle. The programs, each unique, move through the system like a swift-flowing
+river. That is why I am happy where I am.&rdquo;
+
+The microcomputer programmer, upon hearing this, fell silent. But the two
+programmers remained friends until the end of their days.
+
+---
+
+Hardware met Software on the road to Changtse. Software said: &ldquo;You are Yin and
+I am Yang. If we travel together we will become famous and earn vast sums of
+money.&rdquo; And so the set forth together, thinking to conquer the world.
+
+Presently they met Firmware, who was dressed in tattered rags and hobbled along
+propped on a thorny stick. Firmware said to them: &ldquo;The Tao lies beyond Yin and
+Yang. It is silent and still as a pool of water. It does not seek fame,
+therefore nobody knows its presence. It does not seek fortune, for it is
+complete within itself. It exists beyond space and time.&rdquo;
+
+Software and Hardware, ashamed, returned to their homes.
+
+---
+
+
+## Book 9 &#x2013; Epilogue
+
+Thus spake the master programmer:
+
+> &ldquo;It is time for you to leave.&rdquo;
 
