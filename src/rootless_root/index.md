@@ -20,26 +20,26 @@ place.
 # Table of Contents
 
 1.  [Rootless Root](#rootless-root)
-    1.  [Editor&rsquo;s Introduction](#org631f33b)
-    2.  [Master Foo and the Ten Thousand Lines](#org7ae4756)
-    3.  [Master Foo and the Script Kiddie](#org40039d9)
-    4.  [Master Foo Discourses on the Two Paths](#orga8a81b7)
-    5.  [Master Foo and the Methodologist](#org16aae49)
-    6.  [Master Foo Discourses on the Graphical User Interface](#orgd8f2687)
-    7.  [Master Foo and the Old Hand](#orgdfd8aee)
-    8.  [Master Foo and the Shell Tools](#orgcf30b34)
-    9.  [Master Foo and the Nervous Novice](#org91a5ebe)
-    10. [Master Foo and the Recruiter](#orgc5679c0)
-    11. [Master Foo Discourses on Returning to Windows](#org0339aec)
-    12. [Master Foo and the Unix Zealot](#org26d907b)
-    13. [Master Foo Discourses on the Unix-Nature](#orgb8c0bd2)
-    14. [Master Foo and the MCSE](#org9eac74f)
-    15. [Master Foo and the End User](#orge35dc38)
-    16. [Master Foo and the Programming Prodigy](#orgf96b0e4)
-    17. [Master Foo and the Hardware Designer](#org04ab5a7)
+    1.  [Editor&rsquo;s Introduction](#orgdbd4f16)
+    2.  [Master Foo and the Ten Thousand Lines](#orgfb735ac)
+    3.  [Master Foo and the Script Kiddie](#org71cbc9a)
+    4.  [Master Foo Discourses on the Two Paths](#org4304773)
+    5.  [Master Foo and the Methodologist](#orgcb7204c)
+    6.  [Master Foo Discourses on the Graphical User Interface](#orgc915afd)
+    7.  [Master Foo and the Old Hand](#org5cb9918)
+    8.  [Master Foo and the Shell Tools](#org370542c)
+    9.  [Master Foo and the Nervous Novice](#org4fa151b)
+    10. [Master Foo and the Recruiter](#org45a6b5f)
+    11. [Master Foo Discourses on Returning to Windows](#orge5d2964)
+    12. [Master Foo and the Unix Zealot](#org01fdb5e)
+    13. [Master Foo Discourses on the Unix-Nature](#orgf383e20)
+    14. [Master Foo and the MCSE](#orgc6ccbcc)
+    15. [Master Foo and the End User](#org288e564)
+    16. [Master Foo and the Programming Prodigy](#orgc723aea)
+    17. [Master Foo and the Hardware Designer](#org24d8041)
 2.  [The Tao of Programming](#the-tao-of-programming)
-    1.  [Book 1 &#x2013; The Silent Void](#org53862b2)
-    2.  [Book 2 &#x2013; The Ancient Masters](#orged8109b)
+    1.  [Book 1 &#x2013; The Silent Void](#org06aa03f)
+    2.  [Book 2 &#x2013; The Ancient Masters](#orge420e59)
 3.  [The Unix Power Classic](#the-unix-power-clasic)
 4.  [AI Koans](#ai-koans)
 5.  [LoginTaka](#logintaka)
@@ -674,8 +674,8 @@ Last substantive modification <span class="timestamp-wrapper"><span class="times
 
 Thus spake the master programmer:
 
-\`\`When you have learned to snatch the error code from the trap frame, it will be
-time for you to leave.&rsquo;&rsquo;
+> &ldquo;When you have learned to snatch the error code from the trap frame, it will be
+> time for you to leave.&rdquo;
 
 ---
 
@@ -732,7 +732,7 @@ Even a perfect program still has bugs.<br />
 
 Thus spake the master programmer:
 
-\`\`After three days without programming, life becomes meaningless.&rsquo;&rsquo;
+> &ldquo;After three days without programming, life becomes meaningless.&rdquo;
 
 ---
 
@@ -749,28 +749,28 @@ The answer exists only in Tao.
 Grand Master Turing once dreamed that he was a machine. When he awoke he
 exclaimed:
 
-> I don&rsquo;t know whether I am Turing dreaming that I am a machine, or a machine
+> I don"t know whether I am Turing dreaming that I am a machine, or a machine
 > dreaming that I am Turing!
 
 ---
 
-A programmer from a very large computer company went to a software conference and then returned to report to his manager, saying: \`\`What sort of programmers work for other companies? They behaved badly and were unconcerned with appearances. Their hair was long and unkempt and their clothes were wrinkled and old. They crashed our hospitality suite and they made rude noises during my presentation.&rsquo;&rsquo;
+A programmer from a very large computer company went to a software conference and then returned to report to his manager, saying: &ldquo;What sort of programmers work for other companies? They behaved badly and were unconcerned with appearances. Their hair was long and unkempt and their clothes were wrinkled and old. They crashed our hospitality suite and they made rude noises during my presentation.&rdquo;
 
-The manager said: \`\`I should have never sent you to the conference. Those programmers live beyond the physical world. They consider life absurd, an accidental coincidence. They come and go without knowing limitations. Without a care, they live only for their programs. Why should they bother with social conventions?
+The manager said: "I should have never sent you to the conference. Those programmers live beyond the physical world. They consider life absurd, an accidental coincidence. They come and go without knowing limitations. Without a care, they live only for their programs. Why should they bother with social conventions?
 
-\`\`They are alive within the Tao.&rsquo;&rsquo;
+> &ldquo;They are alive within the Tao.&rdquo;
 
 ---
 
-A novice asked the Master: \`\`Here is a programmer that never designs, documents or tests his programs. Yet all who know him consider him one of the best programmers in the world. Why is this?&rsquo;&rsquo;
+A novice asked the Master: &ldquo;Here is a programmer that never designs, documents or tests his programs. Yet all who know him consider him one of the best programmers in the world. Why is this?&rdquo;
 
-The Master replies: \`\`That programmer has mastered the Tao. He has gone beyond the need for design; he does not become angry when the system crashes, but accepts the universe without concern. He has gone beyond the need for documentation; he no longer cares if anyone else sees his code. He has gone beyond the need for testing; each of his programs are perfect within themselves, serene and elegant, their purpose self-evident. Truly, he has entered the mystery of Tao.&rsquo;&rsquo;
+The Master replies: &ldquo;That programmer has mastered the Tao. He has gone beyond the need for design; he does not become angry when the system crashes, but accepts the universe without concern. He has gone beyond the need for documentation; he no longer cares if anyone else sees his code. He has gone beyond the need for testing; each of his programs are perfect within themselves, serene and elegant, their purpose self-evident. Truly, he has entered the mystery of Tao.&rdquo;
 
 ---
 
 Thus spake the master programmer:
 
-\`\`When the program is being tested, it is too late to make design changes.&rsquo;&rsquo;
+&ldquo;When the program is being tested, it is too late to make design changes.&rdquo;
 
 ---
 
