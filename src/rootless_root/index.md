@@ -13,73 +13,74 @@ title: "The Unix Koans of Master Foo"
 # Table of Contents
 
 1.  [Rootless Root](#rootless-root)
-    1.  [Editor&rsquo;s Introduction](#org3dfbc39)
-    2.  [Master Foo and the Ten Thousand Lines](#org908da4d)
-    3.  [Master Foo and the Script Kiddie](#org6b3265c)
-    4.  [Master Foo Discourses on the Two Paths](#orgb1ae3f1)
-    5.  [Master Foo and the Methodologist](#org15f8c89)
-    6.  [Master Foo Discourses on the Graphical User Interface](#org7c9f1f4)
-    7.  [Master Foo and the Old Hand](#org17900d2)
-    8.  [Master Foo and the Shell Tools](#orge37c48f)
-    9.  [Master Foo and the Nervous Novice](#org50f44f3)
-    10. [Master Foo and the Recruiter](#org105493c)
-    11. [Master Foo Discourses on Returning to Windows](#org92d0049)
-    12. [Master Foo and the Unix Zealot](#org4d492bc)
-    13. [Master Foo Discourses on the Unix-Nature](#orgaf49513)
-    14. [Master Foo and the MCSE](#orge10c1fd)
-    15. [Master Foo and the End User](#org05ca1ca)
-    16. [Master Foo and the Programming Prodigy](#org712e9b0)
-    17. [Master Foo and the Hardware Designer](#org784c4e7)
+    1.  [Editor&rsquo;s Introduction](#org461b850)
+    2.  [Master Foo and the Ten Thousand Lines](#orgeb657cb)
+    3.  [Master Foo and the Script Kiddie](#org838dc7d)
+    4.  [Master Foo Discourses on the Two Paths](#org9f5d705)
+    5.  [Master Foo and the Methodologist](#org09c6321)
+    6.  [Master Foo Discourses on the Graphical User Interface](#orgb26ec9c)
+    7.  [Master Foo and the Old Hand](#org660fe27)
+    8.  [Master Foo and the Shell Tools](#orgaa8ce6b)
+    9.  [Master Foo and the Nervous Novice](#orgd2d9ea1)
+    10. [Master Foo and the Recruiter](#org30b1be6)
+    11. [Master Foo Discourses on Returning to Windows](#org3d8b338)
+    12. [Master Foo and the Unix Zealot](#org8363877)
+    13. [Master Foo Discourses on the Unix-Nature](#org3f2bf87)
+    14. [Master Foo and the MCSE](#orga750703)
+    15. [Master Foo and the End User](#orgbd7e863)
+    16. [Master Foo and the Programming Prodigy](#org4cfb73b)
+    17. [Master Foo and the Hardware Designer](#org4aae77f)
 2.  [The Unix Power Classic](#the-unix-power-clasic)
-    1.  [The Unix Power Classic: A book about the Unix Way and its power](#orge062787)
-    2.  [01](#orgfe12e06)
-    3.  [04](#orgf4ab279)
-    4.  [07](#orgda99d33)
-    5.  [08](#org915e074)
-    6.  [09](#org4b74b6f)
-    7.  [15](#orgb15b0df)
-    8.  [17](#orge974c35)
-    9.  [18](#org65f83f8)
-    10. [21](#orgbd15e4f)
-    11. [23](#orgbd242ff)
-    12. [28](#org8e3eb0c)
-    13. [34](#orgbe5ff24)
-    14. [39](#orgc2da67d)
-    15. [40](#org842bff0)
-    16. [41](#orgc0ab178)
-    17. [42](#org34203c2)
-    18. [43](#org1648a6d)
-    19. [48](#org198784e)
-    20. [53](#orgcb7ccfc)
-    21. [57](#orgf6490df)
-    22. [60](#orgf447c31)
-    23. [63](#orge2482e7)
-    24. [65](#orge898b9d)
-    25. [67](#orgb456412)
-    26. [68](#orgac3771e)
-    27. [71](#org385892a)
-    28. [72](#orgbba6b99)
-    29. [79](#org6525b68)
-    30. [81](#org3cade11)
+    1.  [The Unix Power Classic: A book about the Unix Way and its power](#org54830e1)
+    2.  [01](#org5f6ac14)
+    3.  [04](#org945f13d)
+    4.  [07](#org84ccf97)
+    5.  [08](#org09598ca)
+    6.  [09](#orga5b50a3)
+    7.  [15](#org538edaf)
+    8.  [17](#org39d9fd1)
+    9.  [18](#org7a957ff)
+    10. [21](#org3fb719a)
+    11. [23](#org65bfeca)
+    12. [28](#orgb8f5429)
+    13. [34](#orgbb2fdcf)
+    14. [39](#orga6f588f)
+    15. [40](#org69c441d)
+    16. [41](#org53320c3)
+    17. [42](#orgdc9e3af)
+    18. [43](#orgdf8155f)
+    19. [48](#org9ba4d0b)
+    20. [53](#org064e0ca)
+    21. [57](#org3f3ca08)
+    22. [60](#org434efdb)
+    23. [63](#org87d0bd9)
+    24. [65](#orgc698a68)
+    25. [67](#orgeeb920f)
+    26. [68](#orgf61a38f)
+    27. [71](#org1861016)
+    28. [72](#org73f088c)
+    29. [79](#org56a6084)
+    30. [81](#orgfec59bd)
 3.  [AI Koans](#ai-koans)
-    1.  [Tom Knight and the Lisp Machine](#org343dffd)
-    2.  [Moon instructs a student](#org4dcda0a)
-    3.  [Sussman attains enlightenment In the days when Sussman was a novice, Minsky](#orgbfeba80)
-    4.  [Drescher and the toaster](#orgc07ca90)
+    1.  [Tom Knight and the Lisp Machine](#orga3355b5)
+    2.  [Moon instructs a student](#org28aab92)
+    3.  [Sussman attains enlightenment In the days when Sussman was a novice, Minsky](#orga03e479)
+    4.  [Drescher and the toaster](#orgae6da96)
 4.  [LoginTaka](#logintaka)
-    1.  [The LoginTaka](#orge2a2b4c)
-    2.  [Annotations](#org7930ad0)
+    1.  [The LoginTaka](#org0864d8b)
+    2.  [Annotations](#orgb6005b0)
 5.  [Tales of Zen Master Greg](#tales-of-zen-master-greg)
+    1.  [Tales of the Master](#org6944bb8)
 6.  [The Tao of Programming](#the-tao-of-programming)
-    1.  [Book 1 &#x2013; The Silent Void](#orgb5f1a9c)
-    2.  [Book 2 &#x2013; The Ancient Masters](#orge62680b)
-    3.  [Book 3 &#x2013; Design](#orgaac63ed)
-    4.  [Book 4 &#x2013; Coding](#orgdf090ab)
-    5.  [Book 5 &#x2013; Maintenance](#org9e08538)
-    6.  [Book 6 &#x2013; Management](#orgfc5ff18)
-    7.  [Book 7 &#x2013; Corporate Wisdom](#org94d2cf9)
-    8.  [Book 8 &#x2013; Hardware and Software](#org2cd12d3)
-    9.  [Book 9 &#x2013; Epilogue](#org31c29db)
+    1.  [Book 1 &#x2013; The Silent Void](#orgdd8992d)
+    2.  [Book 2 &#x2013; The Ancient Masters](#org765566e)
+    3.  [Book 3 &#x2013; Design](#orgbc683e6)
+    4.  [Book 4 &#x2013; Coding](#orgd35fc64)
+    5.  [Book 5 &#x2013; Maintenance](#org3e17f1d)
+    6.  [Book 6 &#x2013; Management](#orge9b33a6)
+    7.  [Book 7 &#x2013; Corporate Wisdom](#org32a88ca)
+    8.  [Book 8 &#x2013; Hardware and Software](#org5d02281)
+    9.  [Book 9 &#x2013; Epilogue](#orgaa91dd1)
 
 
 # Rootless Root
@@ -1682,15 +1683,101 @@ Parts of this border on obsolescence now. Portable C And Unix Systems Programmin
         over the following five years that they built up their remarkable reputation
         as friends of the hacker community.
 -   &ldquo;attaining the arcane Knowledge and Conversation&rdquo;
-    -   This is a reference to the occultism of Alesteir Crowley. He wrote of attaining the &ldquo;Knowledge and Conversation of the Holy Guardian Angel&rdquo; as the central aim of Thelemic mysticism, and added that he had chosen that term for it because it was the most absurd locution he could think of.
+    -   This is a reference to the occultism of Alesteir Crowley. He wrote of
+        attaining the &ldquo;Knowledge and Conversation of the Holy Guardian Angel&rdquo; as the
+        central aim of Thelemic mysticism, and added that he had chosen that term
+        for it because it was the most absurd locution he could think of.
 -   &ldquo;the Pure Light&rdquo;
-    -   In Buddhist mysticism, the Pure Light of the Void (&ldquo;void&rdquo; being the usual English translation of Sanskrit sunyata) is a frequent metaphor for the wisdom that comes from realizing the emptiness of all things.
+    -   In Buddhist mysticism, the Pure Light of the Void (&ldquo;void&rdquo; being the usual
+        English translation of Sanskrit sunyata) is a frequent metaphor for the
+        wisdom that comes from realizing the emptiness of all things.
 -   &ldquo;the Berkelian Way&rdquo;
+    -   If you caught the previous reference to sunyata, you might also recall that
+        Bishop Berkeley famously denied the existence of objective reality.
+-   &ldquo;the mad and doomed Malvernite&rdquo;
+    -   This is a play on H.P. Lovecraft&rsquo;s &ldquo;mad and doomed Arab&rdquo;, Abdul al-Hazred,
+        the author of the Necronomicon. And the actual doomed Malvernite
+        was&#x2026;er&#x2026;me, in 1987. The &ldquo;world of unknowing man misnames&rdquo; because I
+        wrote the book, but was pressured into allowing it to be published under a
+        corporate pseudonym.
+-   &ldquo;feed the other half of thy head&rdquo;
+    -   Cue Grace Slick, in the last lines of Jefferson Airplane&rsquo;s White Rabbit, a
+        song about a hallucinogenic drug experience: &ldquo;Remember&#x2026;what the dormouse
+        said! FEED YOUR HEAD! FEED YOUR HEAD!&rdquo;
+-   &ldquo;the Way of the Camel&rdquo;
+    -   The references to the Ways of the Camel, Lion, and Child are to a mystical
+        rant in Nietzsche&rsquo;s Thus Spoke Zarathustra.
+-   &ldquo;Divine Foolery of the Hacker&rdquo;
+    -   The image of the Fool of God is a pervasive one in world mysticism. I was
+        thinking here especially of the Fool card in the Rider-Waite Tarot, showing
+        a clown walking or capering at the edge of a precipice.
+-   &ldquo;Great Work&rdquo;
+    -   In alchemy, the production of the Philosopher&rsquo;s Stone that could transmute
+        lead to gold, confer immortality. In some mystical interpretations of
+        alchemy, the transmutation of the adept&rsquo;s own soul. Modern Hermetic
+        occultism generalizes the second meaning.
+-   &ldquo;Desert of Delay&rdquo;
+    -   This part is intended to recall the landscapes in Bunyan&rsquo;s moral allegory
+        Pilgrim&rsquo;s Progress.
+-   &ldquo;cunning of the Serpent and the courage of the Tiger&rdquo;
+    -   In the New Testament of the Christian Bible, Matthew 10:16 exhorts
+        Christians to be as cunning as serpents and as harmless as doves. This in
+        turn refers to the &ldquo;cunning of the serpent&rdquo; in the Old Testament Book of
+        Genesis.
+-   &ldquo;if thou travellest with high heart and pure intention&rdquo;
+    -   In the Egyptian Book Of The Dead, &ldquo;I have travelled here with high heart and
+        pure intention&rdquo; is part of the ritual one must speak to pass the Weigher of
+        Souls.
+-   &ldquo;Shantih!&rdquo;
+    -   &ldquo;Shanti!&rdquo; is Sanskrit and means &ldquo;Peace!&rdquo; I deliberately used the older
+        transliteration &ldquo;Shantih!&rdquo; because it&rsquo;s found at the end of T.S. Eliot&rsquo;s
+        poem The Wasteland. The threefold repetition is a form of invocatory magic
+        closely equivalent to the Catholic ritual blessing &ldquo;Peace be with you!&rdquo;
 
 
 <a id="tales-of-zen-master-greg"></a>
 
 # Tales of Zen Master Greg
+
+Editor&rsquo;s Note:
+
+> Usually found at [guild.uwa.edu.au](http://www.guild.uwa.edu.au/users/greg/) by greg(?)
+
+
+## Tales of the Master
+
+
+### In which the Master solves a problem
+
+**Customer**: My dissertation is due tomorrow and the computer is sayingthat I
+can&rsquo;t read the disk? WHAT THE HELL IS WRONG? WHAT SHOULD I DO?STOP PLAYING
+TETRIS AND LISTEN TO ME, YOU GUILD PARASITE!
+
+**Zen-Master Greg**: Does the cow complain when the grass disappears?
+
+**Customer**: WHAT THE HELL ARE YOU TALKING ABOUT? FIX MY DISK, YOU IDIOT.
+
+**Zen-Master Greg**: Clear your mind of this artificial reality. Cease to worry
+about this &ldquo;disk&rdquo;. It is of no importance.
+
+**Customer**: IT&rsquo;S MY GODDAMN DISSERTATION, OKAY! IT&rsquo;S VERY FUCKING IMPORTANT. FIX
+IT. NOW!
+
+**Zen Master Greg**: Bring me this disk-object that is the cause of so much
+frustration.
+
+**Customer**: Finally! Just fix it, all right? Here it is.
+
+**Zen-Master Greg**: Your worries are over grasshopper. I will solve your problem.
+
+**Customer**: Thanks. Sorry for shouting. It&rsquo;s just that all my work is on that
+disk and I don&rsquo;t have a backup and HEY! WHERE THE HELL ARE YOU GOING? AND WHAT
+ABOUT MY DISK! ARGH! MY DISK! YOU SNAPPED MY DISK AND THREW IT OUT THE WINDOW!
+WHAT THE FUCK IS GOING ON! ARE YOU INSANE? THAT&rsquo;S ALL MY WORK. WHAT KIND OF
+MORON ARE YOU?
+
+**Zen-Master Greg**: You are welcome, misguided one. This matter will trouble you
+no more.
 
 
 <a id="the-tao-of-programming"></a>
