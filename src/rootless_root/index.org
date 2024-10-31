@@ -53,6 +53,11 @@ Mention should also be made of the [[#tales-of-zen-master-greg][Tales of Zen Mas
 the Nine Inch Nails references have cast some doubt on their antiquity
 and it is thus unlikely that they influenced Rootless Root.
 
+A newer work, [[#the-unix-power-clasic][the Unix Power Classic]], translates the Tao Te Ching into an
+idiom similar to that of Rootless Root. Unix Power Classic may well have been
+influenced by Rootless Root, or further research may disclose that they had
+common sources.
+
 That the title of the work was intended as a reference to the Zen
 classic [[https://en.wikipedia.org/wiki/The_Gateless_Barrier][Gateless Gate]] of Mumon, we can say with fair confidence.
 There are echoes of Mumon in several of the koans.
@@ -81,6 +86,9 @@ interpretation. Future versions may include more stories as these
 difficulties are overcome.
 
 ** Master Foo and the Ten Thousand Lines
+:PROPERTIES:
+:CUSTOM_ID: Master Foo and the Ten Thousand Lines
+:END:
 Master Foo once said to a visiting programmer: “There is more Unix-nature in one
 line of shell script than there is in ten thousand lines of C”.
 
@@ -119,6 +127,9 @@ gains merit by not coding?”
 Upon hearing this, the programmer was enlightened.
 
 ** Master Foo and the Script Kiddie
+:PROPERTIES:
+:CUSTOM_ID: Master-Foo-and-the-Script-Kiddie
+:END:
 A stranger from the land of Woot came to Master Foo as he was eating the morning
 meal with his students.
 
@@ -159,6 +170,9 @@ Master Foo smiled. “Here”, he said, “is the beginning of wisdom”.
 
 On hearing this, the stranger was enlightened.
 ** Master Foo Discourses on the Two Paths
+:PROPERTIES:
+:CUSTOM_ID: Master-Foo-Discourses-on-the-Two-Paths
+:END:
 Master Foo instructed his students:
 
 “There is a line of dharma teaching, exemplified by the Patriarch McIlroy's
@@ -206,6 +220,9 @@ pounds of VAX!”
 
 On hearing this, Nubi was enlightened.
 ** Master Foo and the Methodologist
+:PROPERTIES:
+:CUSTOM_ID: Master-Foo-and-the-Methodologist
+:END:
 When Master Foo and his student Nubi journeyed among the sacred sites, it was
 the Master's custom in the evenings to offer public instruction to Unix
 neophytes of the towns and villages in which they stopped for the night.
@@ -230,6 +247,9 @@ he looking in the boat?”
 
 Upon hearing this, the methodologist was enlightened.
 ** Master Foo Discourses on the Graphical User Interface
+:PROPERTIES:
+:CUSTOM_ID: Master-Foo-Discourses-on-the-Graphical-User-Interface
+:END:
 One evening, Master Foo and Nubi attended a gathering of programmers who had met
 to learn from each other. One of the programmers asked Nubi to what school he
 and his master belonged. Upon being told they were followers of the Great Way of
@@ -260,7 +280,146 @@ As the programmer was attempting to extricate himself from the garbage, the dog
 wandered over and piddled on him.
 
 At that moment, the programmer achieved enlightenment.
+** Master Foo and the Old Hand
+:PROPERTIES:
+:CUSTOM_ID: Master-Foo-and-the-Old-Hand
+:END:
+
+An experienced Unix programmer, hearing of Master Foo's wisdom, came to him for
+guidance. Approaching the Master, he bowed three times and said:
+
+“Master Foo, I am gravely troubled. In my youth, those who followed the Great
+Way of Unix used software that was simple and unaffected, like ed and mailx.
+Today, they use vim and mutt. Tomorrow I fear they will use KMail and Evolution,
+and Unix will have become like Windows — bloated and covered over with GUIs.”
+
+Master Foo said: “But what software do you use when you want to draw a poster?”
+
+The programmer replied: “I...have never done that. But I am sure that I could
+use LaTeX or pic to accomplish it without GUIs, in the proper Unix way.”
+
+Master Foo then said: “Which one will reach the other side of the river: The one
+who dreams of a raft, or the one that hitchhikes to the next bridge?”
+
+Upon hearing this, the programmer was enlightened.
+** Master Foo and the Shell Tools
+:PROPERTIES:
+:CUSTOM_ID: Master-Foo-and-the-Shell-Tools
+:END:
+A Unix novice came to Master Foo and said: “I am confused. Is it not the Unix
+way that every program should concentrate on one thing and do it well?”
+
+Master Foo nodded.
+
+The novice continued: “Isn't it also the Unix way that the wheel should not be
+reinvented?”
+
+Master Foo nodded again.
+
+“Why, then, are there several tools with similar capabilities in text
+processing: sed, awk and Perl? With which one can I best practice the Unix way?”
+
+Master Foo asked the novice: “If you have a text file, what tool would you use
+to produce a copy with a few words in it replaced by strings of your choosing?”
+
+The novice frowned and said: “Perl's regexps would be excessive for so simple a
+task. I do not know awk, and I have been writing sed scripts in the last few
+weeks. As I have some experience with sed, at the moment I would prefer it. But
+if the job only needed to be done once rather than repeatedly, a text editor
+would suffice.”
+
+Master Foo nodded and replied: “When you are hungry, eat; when you are thirsty,
+drink; when you are tired, sleep.”
+
+Upon hearing this, the novice was enlightened.
+** Master Foo and the Nervous Novice
+:PROPERTIES:
+:CUSTOM_ID: Master-Foo-and-the-Nervous-Novice
+:END:
+There was a novice who learned much at the Master's feet, but felt something to
+be missing. After meditating on his doubts for some time, he found the courage
+to approach Master Foo about his problem.
+
+“Master Foo,” he asked “why do Unix users not employ antivirus programs? And
+defragmentors? And malware cleaners?”
+
+Master Foo smiled, and said “When your house is well constructed, there is no
+need to add pillars to keep the roof in place.”
+
+The novice replied “Would it not be better to use these things anyway, just to
+be certain?”
+
+Master Foo reached for a nearby ball of string, and began wrapping it around the
+novice's feet.
+
+“What are you doing?” the novice asked in surprise.
+
+Master Foo replied simply: “Tying your shoes.”
+
+Upon hearing this, the novice was enlightened.
+** Master Foo and the Recruiter
+:PROPERTIES:
+:CUSTOM_ID: Master-Foo-and-the-Recruiter
+:END:
+A technical recruiter, having discovered that that the ways of Unix hackers were
+strange to him, sought an audience with Master Foo to learn more about the Way.
+Master Foo met the recruiter in the HR offices of a large firm.
+
+The recruiter said, “I have observed that Unix hackers scowl or become annoyed
+when I ask them how many years of experience they have in a new programming
+language. Why is this so?”
+
+Master Foo stood, and began to pace across the office floor. The recruiter was
+puzzled, and asked “What are you doing?”
+
+“I am learning to walk,” replied Master Foo.
+
+“I saw you walk through that door” the recruiter exclaimed, “and you are not
+stumbling over your own feet. Obviously you already know how to walk.”
+
+“Yes, but this floor is new to me.” replied Master Foo.
+
+Upon hearing this, the recruiter was enlightened.
+** Master Foo Discourses on Returning to Windows
+:PROPERTIES:
+:CUSTOM_ID: Master-Foo-Discourses-on-Returning-to-Windows
+:END:
+A student said: “We have learned that Unix is not just an operating system, but
+also a style of approaching problems.”
+
+Master Foo nodded in agreement.
+
+The student continued: “Then, the Great Way of Unix can be applied on other
+operating systems?”
+
+Master Foo sat silent for a moment, then said: “In every operating system there
+is a path to the Great Way, if only we can find it.”
+
+The student continued: “What, then, of Windows? It is preinstalled on most
+computers, and though its tools are mostly far inferior, they are easy to use
+for beginners. Surely, Windows users could benefit from the Unix philosophy.”
+
+Master Foo nodded again.
+
+The student said: “How, then, are those enlightened in the Unix Way to return to
+the Windows world?”
+
+Master Foo said: “To return to Windows, you have but to boot it up.”
+
+The student said, growing agitated: “Master Foo, if it is so easy, why are there
+so many monolithic and broken software packages for Windows? Elegant software
+should also be possible with a GUI and fancy colors, but there is little
+evidence that this occurs. What becomes of an enlighted one who returns to
+Windows?”
+
+Master Foo: “A broken mirror never reflects again; fallen flowers never go back
+to the old branches.”
+
+Upon hearing this, all present were enlightened.
 ** Master Foo and the Unix Zealot
+:PROPERTIES:
+:CUSTOM_ID: Master-Foo-and-the-Unix-Zealot
+:END:
 A Unix zealot, having heard that Master Foo was wise in the Great Way, came to
 him for instruction. Master Foo said to him:
 
@@ -289,6 +448,9 @@ fools”.
 
 Upon hearing this, the zealot was enlightened.
 ** Master Foo Discourses on the Unix-Nature
+:PROPERTIES:
+:CUSTOM_ID: Master-Foo-Discourses-on-the-Unix-Nature
+:END:
 A student said to Master Foo: “We are told that the firm called SCO holds true
 dominion over Unix”.
 
@@ -322,7 +484,37 @@ compete with it must become like to it; empty, empty, profoundly empty,
 perfectly void, hail!”
 
 Upon hearing this, the student was enlightened.
+** Master Foo and the MCSE
+:PROPERTIES:
+:CUSTOM_ID: Master-Foo-and-the-MCSE
+:END:
+Once, a famous Windows system administrator came to Master Foo and asked him for
+instruction: “I have heard that you are a powerful Unix wizard. Let us trade
+secrets, that we may both gain thereby.”
+
+Master Foo said: “It is good that you seek wisdom. But in the Way of Unix, there
+are no secrets.”
+
+The administrator looked puzzled at this. “But it is said that you are a great
+Unix guru who knows all the innermost mysteries. As do I in Windows; I am an
+MCSE, and I have many other certifications of knowledge not common in the world.
+I know even the most obscure registry entries by heart. I can tell you
+everything about the Windows API, yes, even secrets those of Redmond have
+half-forgotten. What is the arcane lore that gives you your power?”
+
+Master Foo said: “I have none. Nothing is hidden, nothing is revealed.”
+
+Growing angry, the administrator said “Very well, if you hold no secrets, then
+tell me: what do I have to know to become as powerful in the Unix way as you?”
+
+Master Foo said: “A man who mistakes secrets for knowledge is like a man who,
+seeking light, hugs a candle so closely that he smothers it and burns his hand.”
+
+Upon hearing this, the administrator was enlightened.
 ** Master Foo and the End User
+:PROPERTIES:
+:CUSTOM_ID: Master-Foo-and-the-End-User
+:END:
 On another occasion when Master Foo gave public instruction, an end user, having
 heard tales of the Master's wisdom, came to him for guidance.
 
@@ -359,30 +551,86 @@ Master Foo turned back to the neophyte. “The housecat may mock the tiger”, s
 the master, “but doing so will not make his purr into a roar”.
 
 Upon hearing this, the neophyte was enlightened.
-** Colophon
-*** Editor (Me, Yax)'s Note:
-This section has been included for the sake of completion. This page was written
-in org-mode on emacs running on Fedora 40, then exported to markdown which was
-then converted to HTML by 11ty.
-*** ESR's Note:
-No proprietary software was used during the composition of this book. Drafts
-were typeset from XML-DocBook master files created with GNU Emacs. PostScript
-generation was performed with Tim Waugh's xmlto, Norman Walsh's XSL stylesheets,
-Daniel Veillard's xsltproc, Sebastian Rahtz's PassiveTeX macros, the TeTeX
-distribution of Donald Knuth's TeX typesetter, and Thomas Rokicki's dvips
-postprocessor. All the diagrams were composed by the author using pic2graph
-driving gpic and grap2graph driving Ted Faber's grap implementation (grap2graph
-was written by the author for this project and is now part of the groff
-distribution). The entire toolchain was hosted by stock Red Hat Linux.
+** Master Foo and the Programming Prodigy
+:PROPERTIES:
+:CUSTOM_ID: Master-Foo-and-the-Programming-Prodigy
+:END:
+There was a time when rumors began to reach Master Foo and his students of a
+prodigiously gifted programmer, a young man who wandered the length and breadth
+of the land performing mighty feats of coding and humiliating all who dared set
+their skill against his.
 
-The cover art is a composite of two images from the original Zen Comics by
-Ioanna Salajan. It was adapted and colored mainly by Jerry Votta, but the author
-and GIMP had a hand in the work.
+Eventually this prodigy came to visit Master Foo, who received him politely and
+offered him tea. The Prodigy accepted with equal politeness and explained the
+motive for his visit.
+
+“I have come to you,” he said “seeking a code and design review of my latest
+project. For it is of surpassing complexity, and I do not have peers capable of
+understanding it. Only an acknowledged master such as yourself (and here the
+Prodigy bowed deeply) can have the discernment required.”
+
+Master Foo bowed politely in return and began examining the Prodigy's code.
+After some time he raised his eyes from the screen. “This code is at first sight
+very impressive,” he said. “It is elegant in design, utilizing original
+algorithms of great ingenuity, and appears to be implemented in a craftsmanlike
+way which minimizes the possibility of errors.”
+
+The Prodigy looked very pleased at this praise, but Master Foo continued:
+“However, I detect one significant flaw.”
+
+“Flaw?” the Prodigy said. “What flaw?”
+
+“This code is difficult to read,” said Master Foo. “It is only thinly commented,
+its invariants are not specified, and I see no narrative description of its
+architecture or internal data structures anywhere. These problems will seriously
+impede your cooperation with other programmers.”
+
+The Prodigy drew himself up haughtily. “I do not seek the cooperation of other
+programmers,” he said. “Every time I thought I had found one who might match me
+in skill I have been disappointed. Thus, I work alone.”
+
+“But even the hacker who works alone,” said Master Foo, “collaborates with
+others, and must constantly communicate clearly to them, lest his work become
+confused and lost.”
+
+“Of what others do you speak?” the Prodigy demanded.
+
+Master Foo said: “All your future selves.”
+
+Upon hearing this, the Prodigy was enlightened.
+** Master Foo and the Hardware Designer
+:PROPERTIES:
+:CUSTOM_ID: Master-Foo-and-the-Hardware-Designer
+:END:
+On one occasion, as Master Foo was traveling to a conference with a few of his
+senior disciples, he was accosted by a hardware designer.
+
+The hardware designer said: “It is rumored that you are a great programmer. How
+many lines of code do you write per year?”
+
+Master Foo replied with a question: “How many square inches of silicon do you
+lay out per year?”
+
+“Why...we hardware designers never measure our work in that way,” the man said.
+
+“And why not?” Master Foo inquired.
+
+“If we did so,” the hardware designer replied, “we would be tempted to design
+chips so large that they cannot be fabricated - and, if they were fabricated,
+their overwhelming complexity would make it be impossible to generate proper
+test vectors for them.”
+
+Master Foo smiled, and bowed to the hardware designer.
+
+In that moment, the hardware designer achieved enlightenment.
 * The Tao of Programming
 :PROPERTIES:
 :CUSTOM_ID: the-tao-of-programming
 :END:
-text
+* The Unix Power Classic
+:PROPERTIES:
+:CUSTOM_ID: the-unix-power-clasic
+:END:
 * AI Koans
 :PROPERTIES:
 :CUSTOM_ID: ai-koans
