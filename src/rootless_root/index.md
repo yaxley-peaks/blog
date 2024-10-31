@@ -20,26 +20,28 @@ place.
 # Table of Contents
 
 1.  [Rootless Root](#rootless-root)
-    1.  [Editor&rsquo;s Introduction](#orgdbd4f16)
-    2.  [Master Foo and the Ten Thousand Lines](#orgfb735ac)
-    3.  [Master Foo and the Script Kiddie](#org71cbc9a)
-    4.  [Master Foo Discourses on the Two Paths](#org4304773)
-    5.  [Master Foo and the Methodologist](#orgcb7204c)
-    6.  [Master Foo Discourses on the Graphical User Interface](#orgc915afd)
-    7.  [Master Foo and the Old Hand](#org5cb9918)
-    8.  [Master Foo and the Shell Tools](#org370542c)
-    9.  [Master Foo and the Nervous Novice](#org4fa151b)
-    10. [Master Foo and the Recruiter](#org45a6b5f)
-    11. [Master Foo Discourses on Returning to Windows](#orge5d2964)
-    12. [Master Foo and the Unix Zealot](#org01fdb5e)
-    13. [Master Foo Discourses on the Unix-Nature](#orgf383e20)
-    14. [Master Foo and the MCSE](#orgc6ccbcc)
-    15. [Master Foo and the End User](#org288e564)
-    16. [Master Foo and the Programming Prodigy](#orgc723aea)
-    17. [Master Foo and the Hardware Designer](#org24d8041)
+    1.  [Editor&rsquo;s Introduction](#org3e7bb6c)
+    2.  [Master Foo and the Ten Thousand Lines](#orgf5df578)
+    3.  [Master Foo and the Script Kiddie](#orgcdb2a7b)
+    4.  [Master Foo Discourses on the Two Paths](#org7dc08a2)
+    5.  [Master Foo and the Methodologist](#org0bf7494)
+    6.  [Master Foo Discourses on the Graphical User Interface](#orgdb22f9e)
+    7.  [Master Foo and the Old Hand](#org271560b)
+    8.  [Master Foo and the Shell Tools](#orgc1254fd)
+    9.  [Master Foo and the Nervous Novice](#org617fd9a)
+    10. [Master Foo and the Recruiter](#orgeb86396)
+    11. [Master Foo Discourses on Returning to Windows](#org760cbe6)
+    12. [Master Foo and the Unix Zealot](#orgf1763d2)
+    13. [Master Foo Discourses on the Unix-Nature](#orgdb9ca61)
+    14. [Master Foo and the MCSE](#orgc3f10bb)
+    15. [Master Foo and the End User](#orgc71f03c)
+    16. [Master Foo and the Programming Prodigy](#orged2c76c)
+    17. [Master Foo and the Hardware Designer](#orgf3ff13b)
 2.  [The Tao of Programming](#the-tao-of-programming)
-    1.  [Book 1 &#x2013; The Silent Void](#org06aa03f)
-    2.  [Book 2 &#x2013; The Ancient Masters](#orge420e59)
+    1.  [Book 1 &#x2013; The Silent Void](#orgf03e22d)
+    2.  [Book 2 &#x2013; The Ancient Masters](#org338cbe0)
+    3.  [Book 3 &#x2013; Design](#org2cb3817)
+    4.  [Book 4 &#x2013; Coding](#org91c337b)
 3.  [The Unix Power Classic](#the-unix-power-clasic)
 4.  [AI Koans](#ai-koans)
 5.  [LoginTaka](#logintaka)
@@ -754,25 +756,197 @@ exclaimed:
 
 ---
 
-A programmer from a very large computer company went to a software conference and then returned to report to his manager, saying: &ldquo;What sort of programmers work for other companies? They behaved badly and were unconcerned with appearances. Their hair was long and unkempt and their clothes were wrinkled and old. They crashed our hospitality suite and they made rude noises during my presentation.&rdquo;
+A programmer from a very large computer company went to a software conference
+and then returned to report to his manager, saying: &ldquo;What sort of programmers
+work for other companies? They behaved badly and were unconcerned with
+appearances. Their hair was long and unkempt and their clothes were wrinkled
+and old. They crashed our hospitality suite and they made rude noises during
+my presentation.&rdquo;
 
-The manager said: "I should have never sent you to the conference. Those programmers live beyond the physical world. They consider life absurd, an accidental coincidence. They come and go without knowing limitations. Without a care, they live only for their programs. Why should they bother with social conventions?
+The manager said: "I should have never sent you to the conference. Those
+programmers live beyond the physical world. They consider life absurd, an
+accidental coincidence. They come and go without knowing limitations. Without a
+care, they live only for their programs. Why should they bother with social
+conventions?
 
 > &ldquo;They are alive within the Tao.&rdquo;
 
 ---
 
-A novice asked the Master: &ldquo;Here is a programmer that never designs, documents or tests his programs. Yet all who know him consider him one of the best programmers in the world. Why is this?&rdquo;
+A novice asked the Master: &ldquo;Here is a programmer that never designs, documents
+or tests his programs. Yet all who know him consider him one of the best
+programmers in the world. Why is this?&rdquo;
 
-The Master replies: &ldquo;That programmer has mastered the Tao. He has gone beyond the need for design; he does not become angry when the system crashes, but accepts the universe without concern. He has gone beyond the need for documentation; he no longer cares if anyone else sees his code. He has gone beyond the need for testing; each of his programs are perfect within themselves, serene and elegant, their purpose self-evident. Truly, he has entered the mystery of Tao.&rdquo;
+The Master replies: &ldquo;That programmer has mastered the Tao. He has gone beyond
+the need for design; he does not become angry when the system crashes, but
+accepts the universe without concern. He has gone beyond the need for
+documentation; he no longer cares if anyone else sees his code. He has gone
+beyond the need for testing; each of his programs are perfect within themselves,
+serene and elegant, their purpose self-evident. Truly, he has entered the
+mystery of Tao.&rdquo;
 
----
+
+## Book 3 &#x2013; Design
 
 Thus spake the master programmer:
 
-&ldquo;When the program is being tested, it is too late to make design changes.&rdquo;
+> &ldquo;When the program is being tested, it is too late to make design changes.&rdquo;
 
 ---
+
+There once was a man who went to a computer trade show. Each day as he entered,
+the man told the guard at the door:
+
+> &ldquo;I am a great thief, renowned for my feats of shoplifting. Be forewarned, for
+> this trade show shall not escape unplundered.&rdquo;
+
+This speech disturbed the guard greatly, because there were millions of dollars
+of computer equipment inside, so he watched the man carefully. But the man
+merely wandered from booth to booth, humming quietly to himself.
+
+When the man left, the guard took him aside and searched his clothes, but
+nothing was to be found.
+
+On the next day of the trade show, the man returned and chided the guard saying:
+&ldquo;I escaped with a vast booty yesterday, but today will be even better.&rdquo; So the
+guard watched him ever more closely, but to no avail.
+
+On the final day of the trade show, the guard could restrain his curiosity no
+longer. &ldquo;Sir Thief,&rdquo; he said, &ldquo;I am so perplexed, I cannot live in peace. Please
+enlighten me. What is it that you are stealing?&rdquo;
+
+The man smiled. &ldquo;I am stealing ideas,&rdquo; he said.
+
+---
+
+There once was a master programmer who wrote unstructured programs. A novice
+programmer, seeking to imitate him, also began to write unstructured programs.
+When the novice asked the master to evaluate his progress, the master criticized
+him for writing unstructured programs, saying, &ldquo;What is appropriate for the
+master is not appropriate for the novice. You must understand the Tao before
+transcending structure.&rdquo;
+
+---
+
+There was once a programmer who was attached to the court of the warlord of Wu.
+The warlord asked the programmer: &ldquo;Which is easier to design: an accounting
+package or an operating system?&rdquo;
+
+&ldquo;An operating system,&rdquo; replied the programmer.
+
+The warlord uttered an exclamation of disbelief. &ldquo;Surely an accounting package
+is trivial next to the complexity of an operating system,&rdquo; he said.
+
+&ldquo;Not so,&rdquo; said the programmer, &ldquo;when designing an accounting package, the
+programmer operates as a mediator between people having different ideas: how it
+must operate, how its reports must appear, and how it must conform to the tax
+laws. By contrast, an operating system is not limited by outside appearances.
+When designing an operating system, the programmer seeks the simplest harmony
+between machine and ideas. This is why an operating system is easier to design.&rdquo;
+
+The warlord of Wu nodded and smiled. &ldquo;That is all good and well, but which is
+easier to debug?&rdquo;
+
+The programmer made no reply.
+
+---
+
+A manager went to the master programmer and showed him the requirements
+document for a new application. The manager asked the master: &ldquo;How long will it
+take to design this system if I assign five programmers to it?&rdquo;
+
+&ldquo;It will take one year,&rdquo; said the master promptly.
+
+&ldquo;But we need this system immediately or even sooner! How long will it take if I
+assign ten programmers to it?&rdquo;
+
+The master programmer frowned. &ldquo;In that case, it will take two years.&rdquo;
+
+&ldquo;And what if I assign a hundred programmers to it?&rdquo;
+
+The master programmer shrugged. &ldquo;Then the design will never be completed,&rdquo; he
+said.
+
+
+## Book 4 &#x2013; Coding
+
+Thus spake the master programmer:
+
+> &ldquo;A well-written program is its own heaven; a poorly-written program is its own hell.&rdquo;
+
+---
+
+A program should be light and agile, its subroutines connected like a string of
+pearls. The spirit and intent of the program should be retained throughout.
+There should be neither too little or too much, neither needless loops nor
+useless variables, neither lack of structure nor overwhelming rigidity.
+
+A program should follow the &ldquo;Law of Least Astonishment&rdquo;. What is this law? It is
+simply that the program should always respond to the user in the way that
+astonishes him least.
+
+A program, no matter how complex, should act as a single unit. The program
+should be directed by the logic within rather than by outward appearances.
+
+If the program fails in these requirements, it will be in a state of disorder
+and confusion. The only way to correct this is to rewrite the program.
+
+---
+
+A novice asked the master: &ldquo;I have a program that sometime runs and sometimes
+aborts. I have followed the rules of programming, yet I am totally baffled.
+What is the reason for this?&rdquo;
+
+The master replied: "You are confused because you do not understand Tao. Only a
+fool expects rational behavior from his fellow humans. Why do you expect it from
+a machine that humans have constructed? Computers simulate determinism; only Tao
+is perfect.
+
+&ldquo;The rules of programming are transitory; only Tao is eternal. Therefore you
+must contemplate Tao before you receive enlightenment.&rdquo;
+
+&ldquo;But how will I know when I have received enlightenment?&rdquo; asked the novice.
+
+&ldquo;Your program will then run correctly,&rdquo; replied the master.
+
+---
+
+A master was explaining the nature of Tao of to one of his novices. &ldquo;The Tao is
+embodied in all software - regardless of how insignificant,&rdquo; said the master.
+
+&ldquo;Is the Tao in a hand-held calculator?&rdquo; asked the novice.
+
+&ldquo;It is,&rdquo; came the reply.
+
+&ldquo;Is the Tao in a video game?&rdquo; continued the novice.
+
+&ldquo;It is even in a video game,&rdquo; said the master.
+
+&ldquo;And is the Tao in the DOS for a personal computer?&rdquo;
+
+The master coughed and shifted his position slightly. &ldquo;The lesson is over for
+today,&rdquo; he said.
+
+---
+
+Prince Wang"s programmer was coding software. His fingers danced upon the
+keyboard. The program compiled without an error message, and the program ran
+like a gentle wind.
+
+&ldquo;Excellent!&rdquo; the Prince exclaimed, &ldquo;Your technique is faultless!&rdquo;
+
+&ldquo;Technique?&rdquo; said the programmer turning from his terminal, &ldquo;What I follow is
+Tao - beyond all techniques! When I first began to program I would see before me
+the whole problem in one mass. After three years I no longer saw this mass.
+Instead, I used subroutines. But now I see nothing. My whole being exists in a
+formless void. My senses are idle. My spirit, free to work without plan, follows
+its own instinct. In short, my program writes itself. True, sometimes there are
+difficult problems. I see them coming, I slow down, I watch silently. Then I
+change a single line of code and the difficulties vanish like puffs of idle
+smoke. I then compile the program. I sit still and let the joy of the work fill
+my being. I close my eyes for a moment and then log off.&rdquo;
+
+Prince Wang said, &ldquo;Would that all of my programmers were as wise!&rdquo;
 
 
 <a id="the-unix-power-clasic"></a>
