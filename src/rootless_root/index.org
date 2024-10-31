@@ -5,8 +5,10 @@
   :UNNUMBERED: notoc
 :CUSTOM_ID: to-which-are-also-appended-other-supplementary-works-that-appear-in-the-text.
 :END:
-31/10/2024
+1/11/2024
 
+I have reproduced all of these here, I hope the owners do not mind. A few of these websites have succumbed to link rot.
+It would be sad if these works were lost to time. I am eternally grateful to the wayback machine for archiving these.
 
 #+TOC: headlines 2
 * Rootless Root
@@ -15,9 +17,7 @@
 :END:
 Editor's Note:
 #+begin_quote
-These are usually found at [[https://catb.org/~esr/writings/unix-koans/][catb.org]] by [[http://www.catb.org/~esr/][ESR]]. However the website
-usually has SSL issues, and also it references other works which are no longer
-available, so this is an attempt to consolidate all of them in one place.
+These are usually found at [[https://catb.org/~esr/writings/unix-koans/][catb.org]] by [[http://www.catb.org/~esr/][ESR]].
 #+end_quote
 #+caption: "無根的根"
 [[../_assets/rootlessroot.png]]
