@@ -580,6 +580,9 @@ In that moment, the hardware designer achieved enlightenment.
 :PROPERTIES:
 :CUSTOM_ID: the-tao-of-programming
 :END:
+
+Usually found at: [[http://www.canonical.org/~kragen/tao-of-programming.html][canonical.org]] by [[http://canonical.org/~kragen/][Kragen Javier Sitaker]]
+
 Translated by Geoffrey James
 
 Transcribed by Duke Hillard
