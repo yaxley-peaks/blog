@@ -1,5 +1,13 @@
-#+options: toc:nil
 #+title: The Unix Koans of Master Foo
+#+options: toc:nil
+#+begin_export markdown
+---
+layout: base.liquid
+tags: post
+ptitle: "Rootless Root, &c"
+title: "The Unix Koans of Master Foo"
+---
+#+end_export
 *** To which are also appended, other supplementary works that are referenced in the text.
   :PROPERTIES:
   :UNNUMBERED: notoc
@@ -1416,9 +1424,14 @@ Hear, O nobly born: Great were the hackers of the past! Subtle and deep in their
 
 Hear, O Nobly Born: The center of the mystery is the act of coding. You have a keyboard before you; pursue the Way through work.
 
-#+begin_center
+#+begin_export markdown
+<center>
+<div style="font-size: 1.5em">
 SHANTIH! SHANTIH! SHANTIH!
-#+end_center
+</div>
+</center>
+#+end_export
+
 ** Annotations
 Most of this (up to "(In this wise shalt thou travel the Way of the Child.)") was originally a Usenet response to some eager newbie questions; it appears that I wrote it on 21 November 1992 in response to a post by one Ade Barkah. After ten years, I guess it's time to draw aside the veil of those mysteries. The remainder I wrote in 2010 after I was actually asked to give an answer in the style of the Loginataka.
 
