@@ -7,7 +7,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("*.png");
   eleventyConfig.addPassthroughCopy("*.gif");
   eleventyConfig.addPassthroughCopy("*.ico");
-  eleventyConfig.addPassthroughCopy("_assets/*");
+  eleventyConfig.addPassthroughCopy("_assets/**");
   eleventyConfig.addPassthroughCopy({"asis/*": "/"});
   eleventyConfig.addPlugin(mathjaxPlugin);
   return {

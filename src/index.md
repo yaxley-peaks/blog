@@ -60,8 +60,20 @@ interesting too. I post whenever I feel like posting.
     ```
 
 
+-------
 
-![](../_assets/buttons/dontfeedai.gif)
+<img src="_assets/buttons/dontfeedai.gif">
+<img src="_assets/buttons/antinft.png">
+<img src="_assets/buttons/bookmark.gif">
+<img src="_assets/buttons/eyes.gif">
+<img src="_assets/buttons/myownwebsite.gif">
+
+<br />
+<img src="_assets/buttons/fave.gif">
+<br />
+<center>
+<img src="_assets/buttons/idcflogo.png">
+</center>
 
 ### Built with [11ty](https://www.11ty.dev/). Color scheme from [gruvbox](https://github.com/morhetz/gruvbox)
 Code to this place on [Github](https://github.com/yaxley-peaks/blog)
