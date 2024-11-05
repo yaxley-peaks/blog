@@ -66,13 +66,19 @@ interesting too. I post whenever I feel like posting.
 <img src="_assets/buttons/antinft.png">
 <img src="_assets/buttons/bookmark.gif">
 <img src="_assets/buttons/eyes.gif">
-<img src="_assets/buttons/myownwebsite.gif">
+<a href="https://lu.tiny-universes.net/graphix.html">
+    <img src="_assets/buttons/myownwebsite.gif">
+</a>
 
 <br />
-<img src="_assets/buttons/fave.gif">
+<a href="https://www.deviantart.com/kazria-kitty/art/good-question-202888324">
+    <img src="_assets/buttons/fave.gif">
+</a>
 <br />
 <center>
+<a href="https://www.deathcult.fun/">
 <img src="_assets/buttons/idcflogo.png">
+<br> Join The Cult </a>
 </center>
 
 ### Built with [11ty](https://www.11ty.dev/). Color scheme from [gruvbox](https://github.com/morhetz/gruvbox)
