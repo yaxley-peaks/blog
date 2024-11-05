@@ -177,12 +177,12 @@ On hearing this, the stranger was enlightened.
 Master Foo instructed his students:
 
 "There is a line of dharma teaching, exemplified by the Patriarch McIlroy's
-mantra ‘Do one thing well’, which emphasizes that software partakes of the Unix
+mantra 'Do one thing well', which emphasizes that software partakes of the Unix
 way when it has simple and consistent behavior, with properties that can be
 readily modeled by the mind of the user and used by other programs".
 
 "But there is another line of dharma teaching, exemplified by the Patriarch
-Thompson's great mantra ‘When in doubt, use brute force’, and various sutras on
+Thompson's great mantra 'When in doubt, use brute force', and various sutras on
 the value of getting 90% of cases right now, rather than 100% later, which
 emphasizes robustness and simplicity of implementation".
 
@@ -205,8 +205,8 @@ Master Foo nodded in agreement.
 each attempt to cover an edge case tends to interact with both the program's
 central algorithms and the code covering other edge cases".
 
-"Thus, attempts to cover all edge cases in advance, guaranteeing ‘simplicity of
-description’, may in fact produce code that is overcomplicated and brittle or
+"Thus, attempts to cover all edge cases in advance, guaranteeing 'simplicity of
+description', may in fact produce code that is overcomplicated and brittle or
 which, plagued by bugs, never ships at all. Surely this is not the Way of Unix?"
 
 Master Foo nodded in agreement.
@@ -1345,7 +1345,7 @@ garbage collector. We must keep a reference count of the pointers to each cons."
 
 Moon patiently told the student the following story:
 
-    "One day a student came to Moon and said: ‘I understand how to make a better
+    "One day a student came to Moon and said: 'I understand how to make a better
     garbage collector...
 
 [Ed. note: Pure reference-count garbage collectors have problems with circular
