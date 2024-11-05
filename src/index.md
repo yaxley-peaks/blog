@@ -59,5 +59,9 @@ interesting too. I post whenever I feel like posting.
     -----END PGP PUBLIC KEY BLOCK-----
     ```
 
+
+
+![](../_assets/buttons/dontfeedai.gif)
+
 ### Built with [11ty](https://www.11ty.dev/). Color scheme from [gruvbox](https://github.com/morhetz/gruvbox)
 Code to this place on [Github](https://github.com/yaxley-peaks/blog)
