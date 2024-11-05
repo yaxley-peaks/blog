@@ -59,5 +59,27 @@ interesting too. I post whenever I feel like posting.
     -----END PGP PUBLIC KEY BLOCK-----
     ```
 
+
+-------
+
+<img src="_assets/buttons/dontfeedai.gif">
+<img src="_assets/buttons/antinft.png">
+<img src="_assets/buttons/bookmark.gif">
+<img src="_assets/buttons/eyes.gif">
+<a href="https://lu.tiny-universes.net/graphix.html">
+    <img src="_assets/buttons/myownwebsite.gif">
+</a>
+
+<br />
+<a href="https://www.deviantart.com/kazria-kitty/art/good-question-202888324">
+    <img src="_assets/buttons/fave.gif">
+</a>
+<br />
+<center>
+<a href="https://www.deathcult.fun/">
+<img src="_assets/buttons/idcflogo.png">
+<br> Join The Cult </a>
+</center>
+
 ### Built with [11ty](https://www.11ty.dev/). Color scheme from [gruvbox](https://github.com/morhetz/gruvbox)
 Code to this place on [Github](https://github.com/yaxley-peaks/blog)
