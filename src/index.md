@@ -65,7 +65,9 @@ interesting too. I post whenever I feel like posting.
 <img src="_assets/buttons/dontfeedai.gif">
 <img src="_assets/buttons/antinft.png">
 <img src="_assets/buttons/bookmark.gif">
-<img src="_assets/buttons/eyes.gif">
+<a href="http://www.anybrowser.org/campaign/">
+    <img src="_assets/buttons/eyes.gif">
+</a>
 <a href="https://lu.tiny-universes.net/graphix.html">
     <img src="_assets/buttons/myownwebsite.gif">
 </a>
