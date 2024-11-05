@@ -15,7 +15,7 @@ There are legitimate cases where this leads to ambiguous readings like
 
 <span style="font-size: 1.5rem"> धड़कने </span> 
 
-which can be read as धड़कने (दिल की) or धड़कने (दिल को) depending on where it appears in a sentence. This is absolutely un-acceptable for a language that uses a phonetic script. 
+which can be read as धड़कने (दिल की) or धड़कने (दो दिल को) depending on where it appears in a sentence. This is absolutely un-acceptable for a language that uses a phonetic script. 
 
 Surely there must be a better way of doing this? I understand why this isn't a part of the script, Sanskrit did not have this problem and then we just went along with it but there is a standard Hindi spec and an organization that does the standardization. Why didn't they like add DLC symbols to denote this discrepancy.
 
