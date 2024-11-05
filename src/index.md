@@ -75,6 +75,10 @@ interesting too. I post whenever I feel like posting.
 <a href="https://www.deviantart.com/kazria-kitty/art/good-question-202888324">
     <img src="_assets/buttons/fave.gif">
 </a>
+<a href="https://raining-starss.neocities.org/stampcollection">
+    <img src="_assets/buttons/eva.gif">
+</a>
+
 <br />
 <center>
 <a href="https://www.deathcult.fun/">
