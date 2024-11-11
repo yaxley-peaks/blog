@@ -2,12 +2,16 @@
 layout: base.liquid
 tags: post
 ptitle: "Schwa Syncope: 2"
-title: "Hindi speakers keep messing up their schwas"
+title: "More about Schwas in Hindi" 
 ---
 
 11/11/2024
 
-(You can hover over Devanagari words for meaning.)
+# Schwa deletion in Hindi is so pervasive, people don't notice when you are not supposed to drop them. 
+
+(You should also read [this previous post](/syncope))
+
+(You can hover over Devanagari words for a brief definiton.)
 
 
 I have been repeatedly listening to Heeramandi's rendition of Sakal Ban on Apple music for a while now because I really like it.
