@@ -23,7 +23,7 @@ interesting too. I post whenever I feel like posting.
 - [~~Bird~~ app](https://twitter.com/yaxley_peaks)
 - Blue sky: [@yaxley.in](https://bsky.app/profile/yaxley.in)
 - PGP key (valid until August 2024):
-    ```
+<pre>
     -----BEGIN PGP PUBLIC KEY BLOCK-----
 
     mQENBGLtGPcBCACzVs7T6b0BvYT7JFNSDPtEYI88sjd3crhiw0akD0Sl18YxEYqE
@@ -56,19 +56,19 @@ interesting too. I post whenever I feel like posting.
     =1RLy
 
     -----END PGP PUBLIC KEY BLOCK-----
-    ```
+    </pre>
 
 
 -------
 
-<img src="_assets/buttons/dontfeedai.gif">
-<img src="_assets/buttons/antinft.png">
-<img src="_assets/buttons/bookmark.gif">
+<img src="_assets/buttons/dontfeedai.gif" loading="lazy">
+<img src="_assets/buttons/antinft.png" loading="lazy">
+<img src="_assets/buttons/bookmark.gif" loading="lazy">
 <a href="http://www.anybrowser.org/campaign/">
-    <img src="_assets/buttons/eyes.gif">
+    <img src="_assets/buttons/eyes.gif" loading="lazy">
 </a>
 <a href="https://lu.tiny-universes.net/graphix.html">
-    <img src="_assets/buttons/myownwebsite.gif">
+    <img src="_assets/buttons/myownwebsite.gif" loading="lazy">
 </a>
 
 <br />
@@ -76,13 +76,13 @@ interesting too. I post whenever I feel like posting.
     <img src="_assets/buttons/fave.gif">
 </a>
 <a href="https://raining-starss.neocities.org/stampcollection">
-    <img src="_assets/buttons/eva.gif">
+    <img src="_assets/buttons/eva.gif" loading="lazy">
 </a>
 
 <br />
 <center>
 <a href="https://www.deathcult.fun/">
-<img src="_assets/buttons/idcflogo.png">
+<img src="_assets/buttons/idcflogo.png" loading="lazy">
 <br> Join The Cult </a>
 </center>
 
